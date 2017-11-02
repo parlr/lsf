@@ -3,8 +3,8 @@
     <h1>Résultats</h1>
     <ul id="resultats">
       <li v-for="mot in vocabulaire">
-        <a :href="mot.url">
-          {{ mot.mot }}
+        <a :href="mot.video">
+          {{ mot.label }}
         </a>
       </li>
     </ul>

@@ -1,1882 +1,1882 @@
 {
   "abbaye": {
-    "mot": "Abbaye",
-    "url": "http://lsf.education.fr/videos/abbaye.flv"
+    "label": "Abbaye",
+    "video": "http://lsf.education.fr/videos/abbaye.flv"
   },
   "abdiquer": {
-    "mot": "Abdiquer",
-    "url": "http://lsf.education.fr/videos/abdiquer.flv"
+    "label": "Abdiquer",
+    "video": "http://lsf.education.fr/videos/abdiquer.flv"
   },
   "ablation": {
-    "mot": "Ablation",
-    "url": "http://lsf.education.fr/videos/ablation.flv"
+    "label": "Ablation",
+    "video": "http://lsf.education.fr/videos/ablation.flv"
   },
   "abonnement": {
-    "mot": "Abonnement",
-    "url": "http://lsf.education.fr/videos/abonnement.flv"
+    "label": "Abonnement",
+    "video": "http://lsf.education.fr/videos/abonnement.flv"
   },
-  "académie": {
-    "mot": "Académie",
-    "url": "http://lsf.education.fr/videos/académie.flv"
+  "academie": {
+    "label": "Académie",
+    "video": "http://lsf.education.fr/videos/academie.flv"
   },
   "accident": {
-    "mot": "Accident",
-    "url": "http://lsf.education.fr/videos/accident.flv"
+    "label": "Accident",
+    "video": "http://lsf.education.fr/videos/accident.flv"
   },
   "accompagner": {
-    "mot": "Accompagner",
-    "url": "http://lsf.education.fr/videos/accompagner.flv"
+    "label": "Accompagner",
+    "video": "http://lsf.education.fr/videos/accompagner.flv"
   },
   "accord": {
-    "mot": "Accord",
-    "url": "http://lsf.education.fr/videos/accord.flv"
+    "label": "Accord",
+    "video": "http://lsf.education.fr/videos/accord.flv"
   },
   "acide": {
-    "mot": "Acide",
-    "url": "http://lsf.education.fr/videos/acide.flv"
+    "label": "Acide",
+    "video": "http://lsf.education.fr/videos/acide.flv"
   },
   "acoustique": {
-    "mot": "Acoustique",
-    "url": "http://lsf.education.fr/videos/acoustique.flv"
+    "label": "Acoustique",
+    "video": "http://lsf.education.fr/videos/acoustique.flv"
   },
   "action": {
-    "mot": "Action",
-    "url": "http://lsf.education.fr/videos/action.flv"
+    "label": "Action",
+    "video": "http://lsf.education.fr/videos/action.flv"
   },
   "adaptation": {
-    "mot": "Adaptation",
-    "url": "http://lsf.education.fr/videos/adaptation.flv"
+    "label": "Adaptation",
+    "video": "http://lsf.education.fr/videos/adaptation.flv"
   },
-  "adhérer": {
-    "mot": "Adhérer",
-    "url": "http://lsf.education.fr/videos/adhérer.flv"
+  "adherer": {
+    "label": "Adhérer",
+    "video": "http://lsf.education.fr/videos/adherer.flv"
   },
   "adjuger": {
-    "mot": "Adjuger",
-    "url": "http://lsf.education.fr/videos/adjuger.flv"
+    "label": "Adjuger",
+    "video": "http://lsf.education.fr/videos/adjuger.flv"
   },
   "administrer": {
-    "mot": "Administrer",
-    "url": "http://lsf.education.fr/videos/administrer.flv"
+    "label": "Administrer",
+    "video": "http://lsf.education.fr/videos/administrer.flv"
   },
   "adversaire": {
-    "mot": "Adversaire",
-    "url": "http://lsf.education.fr/videos/adversaire.flv"
+    "label": "Adversaire",
+    "video": "http://lsf.education.fr/videos/adversaire.flv"
   },
   "affaire": {
-    "mot": "Affaire",
-    "url": "http://lsf.education.fr/videos/affaire.flv"
+    "label": "Affaire",
+    "video": "http://lsf.education.fr/videos/affaire.flv"
   },
   "agence": {
-    "mot": "Agence",
-    "url": "http://lsf.education.fr/videos/agence.flv"
+    "label": "Agence",
+    "video": "http://lsf.education.fr/videos/agence.flv"
   },
   "agression": {
-    "mot": "Agression",
-    "url": "http://lsf.education.fr/videos/agression.flv"
+    "label": "Agression",
+    "video": "http://lsf.education.fr/videos/agression.flv"
   },
   "agriculture": {
-    "mot": "Agriculture",
-    "url": "http://lsf.education.fr/videos/agriculture.flv"
+    "label": "Agriculture",
+    "video": "http://lsf.education.fr/videos/agriculture.flv"
   },
   "albi": {
-    "mot": "Albi",
-    "url": "http://lsf.education.fr/videos/albi.flv"
+    "label": "Albi",
+    "video": "http://lsf.education.fr/videos/albi.flv"
   },
-  "album de photos": {
-    "mot": "Album de photos",
-    "url": "http://lsf.education.fr/videos/album de photos.flv"
+  "album_de photos": {
+    "label": "Album de photos",
+    "video": "http://lsf.education.fr/videos/album_de photos.flv"
   },
-  "algérie": {
-    "mot": "Algérie",
-    "url": "http://lsf.education.fr/videos/algérie.flv"
+  "algerie": {
+    "label": "Algérie",
+    "video": "http://lsf.education.fr/videos/algerie.flv"
   },
   "allemagne": {
-    "mot": "Allemagne",
-    "url": "http://lsf.education.fr/videos/allemagne.flv"
+    "label": "Allemagne",
+    "video": "http://lsf.education.fr/videos/allemagne.flv"
   },
   "alliance": {
-    "mot": "Alliance",
-    "url": "http://lsf.education.fr/videos/alliance.flv"
+    "label": "Alliance",
+    "video": "http://lsf.education.fr/videos/alliance.flv"
   },
   "ambiance": {
-    "mot": "Ambiance",
-    "url": "http://lsf.education.fr/videos/ambiance.flv"
+    "label": "Ambiance",
+    "video": "http://lsf.education.fr/videos/ambiance.flv"
   },
   "ambition": {
-    "mot": "Ambition",
-    "url": "http://lsf.education.fr/videos/ambition.flv"
+    "label": "Ambition",
+    "video": "http://lsf.education.fr/videos/ambition.flv"
   },
   "analyse": {
-    "mot": "Analyse",
-    "url": "http://lsf.education.fr/videos/analyse.flv"
+    "label": "Analyse",
+    "video": "http://lsf.education.fr/videos/analyse.flv"
   },
   "anatomie": {
-    "mot": "Anatomie",
-    "url": "http://lsf.education.fr/videos/anatomie.flv"
+    "label": "Anatomie",
+    "video": "http://lsf.education.fr/videos/anatomie.flv"
   },
   "angers": {
-    "mot": "Angers",
-    "url": "http://lsf.education.fr/videos/angers.flv"
+    "label": "Angers",
+    "video": "http://lsf.education.fr/videos/angers.flv"
   },
   "anonyme": {
-    "mot": "Anonyme",
-    "url": "http://lsf.education.fr/videos/anonyme.flv"
+    "label": "Anonyme",
+    "video": "http://lsf.education.fr/videos/anonyme.flv"
   },
-  "antiquité": {
-    "mot": "Antiquité",
-    "url": "http://lsf.education.fr/videos/antiquité.flv"
+  "antiquite": {
+    "label": "Antiquité",
+    "video": "http://lsf.education.fr/videos/antiquite.flv"
   },
   "aorte": {
-    "mot": "Aorte",
-    "url": "http://lsf.education.fr/videos/aorte.flv"
+    "label": "Aorte",
+    "video": "http://lsf.education.fr/videos/aorte.flv"
   },
   "apesanteur": {
-    "mot": "Apesanteur",
-    "url": "http://lsf.education.fr/videos/apesanteur.flv"
+    "label": "Apesanteur",
+    "video": "http://lsf.education.fr/videos/apesanteur.flv"
   },
   "architecte": {
-    "mot": "Architecte",
-    "url": "http://lsf.education.fr/videos/architecte.flv"
+    "label": "Architecte",
+    "video": "http://lsf.education.fr/videos/architecte.flv"
   },
   "archives": {
-    "mot": "Archives",
-    "url": "http://lsf.education.fr/videos/archives.flv"
+    "label": "Archives",
+    "video": "http://lsf.education.fr/videos/archives.flv"
   },
   "articulation": {
-    "mot": "Articulation",
-    "url": "http://lsf.education.fr/videos/articulation.flv"
+    "label": "Articulation",
+    "video": "http://lsf.education.fr/videos/articulation.flv"
   },
   "arts": {
-    "mot": "Arts",
-    "url": "http://lsf.education.fr/videos/arts.flv"
+    "label": "Arts",
+    "video": "http://lsf.education.fr/videos/arts.flv"
   },
-  "assemblée nationale": {
-    "mot": "Assemblée nationale",
-    "url": "http://lsf.education.fr/videos/assemblée nationale.flv"
+  "assemblee_nationale": {
+    "label": "Assemblée nationale",
+    "video": "http://lsf.education.fr/videos/assemblee_nationale.flv"
   },
   "association": {
-    "mot": "Association",
-    "url": "http://lsf.education.fr/videos/association.flv"
+    "label": "Association",
+    "video": "http://lsf.education.fr/videos/association.flv"
   },
   "assurance": {
-    "mot": "Assurance",
-    "url": "http://lsf.education.fr/videos/assurance.flv"
+    "label": "Assurance",
+    "video": "http://lsf.education.fr/videos/assurance.flv"
   },
   "asthme": {
-    "mot": "Asthme",
-    "url": "http://lsf.education.fr/videos/asthme.flv"
+    "label": "Asthme",
+    "video": "http://lsf.education.fr/videos/asthme.flv"
   },
   "atome": {
-    "mot": "Atome",
-    "url": "http://lsf.education.fr/videos/atome.flv"
+    "label": "Atome",
+    "video": "http://lsf.education.fr/videos/atome.flv"
   },
   "attestation": {
-    "mot": "Attestation",
-    "url": "http://lsf.education.fr/videos/attestation.flv"
+    "label": "Attestation",
+    "video": "http://lsf.education.fr/videos/attestation.flv"
   },
   "audiogramme": {
-    "mot": "Audiogramme",
-    "url": "http://lsf.education.fr/videos/audiogramme.flv"
+    "label": "Audiogramme",
+    "video": "http://lsf.education.fr/videos/audiogramme.flv"
   },
   "audiovisuel": {
-    "mot": "Audiovisuel",
-    "url": "http://lsf.education.fr/videos/audiovisuel.flv"
+    "label": "Audiovisuel",
+    "video": "http://lsf.education.fr/videos/audiovisuel.flv"
   },
   "australie": {
-    "mot": "Australie",
-    "url": "http://lsf.education.fr/videos/australie.flv"
+    "label": "Australie",
+    "video": "http://lsf.education.fr/videos/australie.flv"
   },
   "automobile": {
-    "mot": "Automobile",
-    "url": "http://lsf.education.fr/videos/automobile.flv"
+    "label": "Automobile",
+    "video": "http://lsf.education.fr/videos/automobile.flv"
   },
   "autonomie": {
-    "mot": "Autonomie",
-    "url": "http://lsf.education.fr/videos/autonomie.flv"
+    "label": "Autonomie",
+    "video": "http://lsf.education.fr/videos/autonomie.flv"
   },
   "autriche": {
-    "mot": "Autriche",
-    "url": "http://lsf.education.fr/videos/autriche.flv"
+    "label": "Autriche",
+    "video": "http://lsf.education.fr/videos/autriche.flv"
   },
   "avignon": {
-    "mot": "Avignon",
-    "url": "http://lsf.education.fr/videos/avignon.flv"
+    "label": "Avignon",
+    "video": "http://lsf.education.fr/videos/avignon.flv"
   },
   "avocat": {
-    "mot": "Avocat",
-    "url": "http://lsf.education.fr/videos/avocat.flv"
+    "label": "Avocat",
+    "video": "http://lsf.education.fr/videos/avocat.flv"
   },
   "bac": {
-    "mot": "Bac",
-    "url": "http://lsf.education.fr/videos/bac.flv"
+    "label": "Bac",
+    "video": "http://lsf.education.fr/videos/bac.flv"
   },
   "banlieue": {
-    "mot": "Banlieue",
-    "url": "http://lsf.education.fr/videos/banlieue.flv"
+    "label": "Banlieue",
+    "video": "http://lsf.education.fr/videos/banlieue.flv"
   },
   "banque": {
-    "mot": "Banque",
-    "url": "http://lsf.education.fr/videos/banque.flv"
+    "label": "Banque",
+    "video": "http://lsf.education.fr/videos/banque.flv"
   },
   "banquet": {
-    "mot": "Banquet",
-    "url": "http://lsf.education.fr/videos/banquet.flv"
+    "label": "Banquet",
+    "video": "http://lsf.education.fr/videos/banquet.flv"
   },
-  "baptême": {
-    "mot": "Baptême",
-    "url": "http://lsf.education.fr/videos/baptême.flv"
+  "bapteme": {
+    "label": "Baptême",
+    "video": "http://lsf.education.fr/videos/bapteme.flv"
   },
   "base": {
-    "mot": "Base",
-    "url": "http://lsf.education.fr/videos/base.flv"
+    "label": "Base",
+    "video": "http://lsf.education.fr/videos/base.flv"
   },
-  "bâtiment": {
-    "mot": "Bâtiment",
-    "url": "http://lsf.education.fr/videos/bâtiment.flv"
+  "batiment": {
+    "label": "Bâtiment",
+    "video": "http://lsf.education.fr/videos/batiment.flv"
   },
   "belgique": {
-    "mot": "Belgique",
-    "url": "http://lsf.education.fr/videos/belgique.flv"
+    "label": "Belgique",
+    "video": "http://lsf.education.fr/videos/belgique.flv"
   },
-  "bénéfice": {
-    "mot": "Bénéfice",
-    "url": "http://lsf.education.fr/videos/bénéfice.flv"
+  "benéfice": {
+    "label": "Bénéfice",
+    "video": "http://lsf.education.fr/videos/benéfice.flv"
   },
-  "bénévolat": {
-    "mot": "Bénévolat",
-    "url": "http://lsf.education.fr/videos/bénévolat.flv"
+  "benévolat": {
+    "label": "Bénévolat",
+    "video": "http://lsf.education.fr/videos/benévolat.flv"
   },
   "biarritz": {
-    "mot": "Biarritz",
-    "url": "http://lsf.education.fr/videos/biarritz.flv"
+    "label": "Biarritz",
+    "video": "http://lsf.education.fr/videos/biarritz.flv"
   },
   "bible": {
-    "mot": "Bible",
-    "url": "http://lsf.education.fr/videos/bible.flv"
+    "label": "Bible",
+    "video": "http://lsf.education.fr/videos/bible.flv"
   },
-  "bibliothèque": {
-    "mot": "Bibliothèque",
-    "url": "http://lsf.education.fr/videos/bibliothèque.flv"
+  "bibliotheque": {
+    "label": "Bibliothèque",
+    "video": "http://lsf.education.fr/videos/bibliotheque.flv"
   },
   "bilan": {
-    "mot": "Bilan",
-    "url": "http://lsf.education.fr/videos/bilan.flv"
+    "label": "Bilan",
+    "video": "http://lsf.education.fr/videos/bilan.flv"
   },
   "bilingue": {
-    "mot": "Bilingue",
-    "url": "http://lsf.education.fr/videos/bilingue.flv"
+    "label": "Bilingue",
+    "video": "http://lsf.education.fr/videos/bilingue.flv"
   },
   "bilinguisme": {
-    "mot": "Bilinguisme",
-    "url": "http://lsf.education.fr/videos/bilinguisme.flv"
+    "label": "Bilinguisme",
+    "video": "http://lsf.education.fr/videos/bilinguisme.flv"
   },
   "biochimie": {
-    "mot": "Biochimie",
-    "url": "http://lsf.education.fr/videos/biochimie.flv"
+    "label": "Biochimie",
+    "video": "http://lsf.education.fr/videos/biochimie.flv"
   },
   "biologie": {
-    "mot": "Biologie",
-    "url": "http://lsf.education.fr/videos/biologie.flv"
+    "label": "Biologie",
+    "video": "http://lsf.education.fr/videos/biologie.flv"
   },
   "bordeaux": {
-    "mot": "Bordeaux",
-    "url": "http://lsf.education.fr/videos/bordeaux.flv"
+    "label": "Bordeaux",
+    "video": "http://lsf.education.fr/videos/bordeaux.flv"
   },
   "bouddhisme": {
-    "mot": "Bouddhisme",
-    "url": "http://lsf.education.fr/videos/bouddhisme.flv"
+    "label": "Bouddhisme",
+    "video": "http://lsf.education.fr/videos/bouddhisme.flv"
   },
   "bourgeois": {
-    "mot": "Bourgeois",
-    "url": "http://lsf.education.fr/videos/bourgeois.flv"
+    "label": "Bourgeois",
+    "video": "http://lsf.education.fr/videos/bourgeois.flv"
   },
-  "brésil": {
-    "mot": "Brésil",
-    "url": "http://lsf.education.fr/videos/brésil.flv"
+  "bresil": {
+    "label": "Brésil",
+    "video": "http://lsf.education.fr/videos/bresil.flv"
   },
   "bruxelles": {
-    "mot": "Bruxelles",
-    "url": "http://lsf.education.fr/videos/bruxelles.flv"
+    "label": "Bruxelles",
+    "video": "http://lsf.education.fr/videos/bruxelles.flv"
   },
   "budget": {
-    "mot": "Budget",
-    "url": "http://lsf.education.fr/videos/budget.flv"
+    "label": "Budget",
+    "video": "http://lsf.education.fr/videos/budget.flv"
   },
   "bulgarie": {
-    "mot": "Bulgarie",
-    "url": "http://lsf.education.fr/videos/bulgarie.flv"
+    "label": "Bulgarie",
+    "video": "http://lsf.education.fr/videos/bulgarie.flv"
   },
-  "câble": {
-    "mot": "Câble",
-    "url": "http://lsf.education.fr/videos/câble.flv"
+  "cable": {
+    "label": "Câble",
+    "video": "http://lsf.education.fr/videos/cable.flv"
   },
   "calcul": {
-    "mot": "Calcul",
-    "url": "http://lsf.education.fr/videos/calcul.flv"
+    "label": "Calcul",
+    "video": "http://lsf.education.fr/videos/calcul.flv"
   },
   "calendrier": {
-    "mot": "Calendrier",
-    "url": "http://lsf.education.fr/videos/calendrier.flv"
+    "label": "Calendrier",
+    "video": "http://lsf.education.fr/videos/calendrier.flv"
   },
   "canada": {
-    "mot": "Canada",
-    "url": "http://lsf.education.fr/videos/canada.flv"
+    "label": "Canada",
+    "video": "http://lsf.education.fr/videos/canada.flv"
   },
   "cancer": {
-    "mot": "Cancer",
-    "url": "http://lsf.education.fr/videos/cancer.flv"
+    "label": "Cancer",
+    "video": "http://lsf.education.fr/videos/cancer.flv"
   },
   "candidat": {
-    "mot": "Candidat",
-    "url": "http://lsf.education.fr/videos/candidat.flv"
+    "label": "Candidat",
+    "video": "http://lsf.education.fr/videos/candidat.flv"
   },
-  "capacité": {
-    "mot": "Capacité",
-    "url": "http://lsf.education.fr/videos/capacité.flv"
+  "capacite": {
+    "label": "Capacité",
+    "video": "http://lsf.education.fr/videos/capacite.flv"
   },
   "capitale": {
-    "mot": "Capitale",
-    "url": "http://lsf.education.fr/videos/capitale.flv"
+    "label": "Capitale",
+    "video": "http://lsf.education.fr/videos/capitale.flv"
   },
-  "caractère": {
-    "mot": "Caractère",
-    "url": "http://lsf.education.fr/videos/caractère.flv"
+  "caractere": {
+    "label": "Caractère",
+    "video": "http://lsf.education.fr/videos/caractere.flv"
   },
-  "carême": {
-    "mot": "Carême",
-    "url": "http://lsf.education.fr/videos/carême.flv"
+  "careme": {
+    "label": "Carême",
+    "video": "http://lsf.education.fr/videos/careme.flv"
   },
-  "carte d'identité": {
-    "mot": "Carte d'identité",
-    "url": "http://lsf.education.fr/videos/carte d'identité.flv"
+  "carte_d'identite": {
+    "label": "Carte d'identité",
+    "video": "http://lsf.education.fr/videos/carte_d'identite.flv"
   },
   "catholique": {
-    "mot": "Catholique",
-    "url": "http://lsf.education.fr/videos/catholique.flv"
+    "label": "Catholique",
+    "video": "http://lsf.education.fr/videos/catholique.flv"
   },
-  "célibataire": {
-    "mot": "Célibataire",
-    "url": "http://lsf.education.fr/videos/célibataire.flv"
+  "celibataire": {
+    "label": "Célibataire",
+    "video": "http://lsf.education.fr/videos/celibataire.flv"
   },
   "censure": {
-    "mot": "Censure",
-    "url": "http://lsf.education.fr/videos/censure.flv"
+    "label": "Censure",
+    "video": "http://lsf.education.fr/videos/censure.flv"
   },
-  "chambéry": {
-    "mot": "Chambéry",
-    "url": "http://lsf.education.fr/videos/chambéry.flv"
+  "chambery": {
+    "label": "Chambéry",
+    "video": "http://lsf.education.fr/videos/chambery.flv"
   },
   "charpente": {
-    "mot": "Charpente",
-    "url": "http://lsf.education.fr/videos/charpente.flv"
+    "label": "Charpente",
+    "video": "http://lsf.education.fr/videos/charpente.flv"
   },
-  "chéquier": {
-    "mot": "Chéquier",
-    "url": "http://lsf.education.fr/videos/chéquier.flv"
+  "chequier": {
+    "label": "Chéquier",
+    "video": "http://lsf.education.fr/videos/chequier.flv"
   },
   "chimie": {
-    "mot": "Chimie",
-    "url": "http://lsf.education.fr/videos/chimie.flv"
+    "label": "Chimie",
+    "video": "http://lsf.education.fr/videos/chimie.flv"
   },
   "chine": {
-    "mot": "Chine",
-    "url": "http://lsf.education.fr/videos/chine.flv"
+    "label": "Chine",
+    "video": "http://lsf.education.fr/videos/chine.flv"
   },
-  "cinéma": {
-    "mot": "Cinéma",
-    "url": "http://lsf.education.fr/videos/cinéma.flv"
+  "cinema": {
+    "label": "Cinéma",
+    "video": "http://lsf.education.fr/videos/cinema.flv"
   },
   "citoyen": {
-    "mot": "Citoyen",
-    "url": "http://lsf.education.fr/videos/citoyen.flv"
+    "label": "Citoyen",
+    "video": "http://lsf.education.fr/videos/citoyen.flv"
   },
-  "code (de la route)": {
-    "mot": "Code (de la route)",
-    "url": "http://lsf.education.fr/videos/code (de la route).flv"
+  "code_de la route": {
+    "label": "Code (de la route)",
+    "video": "http://lsf.education.fr/videos/code_de la route.flv"
   },
   "coiffure": {
-    "mot": "Coiffure",
-    "url": "http://lsf.education.fr/videos/coiffure.flv"
+    "label": "Coiffure",
+    "video": "http://lsf.education.fr/videos/coiffure.flv"
   },
   "collaboration": {
-    "mot": "Collaboration",
-    "url": "http://lsf.education.fr/videos/collaboration.flv"
+    "label": "Collaboration",
+    "video": "http://lsf.education.fr/videos/collaboration.flv"
   },
-  "comédie": {
-    "mot": "Comédie",
-    "url": "http://lsf.education.fr/videos/comédie.flv"
+  "comedie": {
+    "label": "Comédie",
+    "video": "http://lsf.education.fr/videos/comedie.flv"
   },
-  "comédien": {
-    "mot": "Comédien",
-    "url": "http://lsf.education.fr/videos/comédien.flv"
+  "comedien": {
+    "label": "Comédien",
+    "video": "http://lsf.education.fr/videos/comedien.flv"
   },
-  "comité": {
-    "mot": "Comité",
-    "url": "http://lsf.education.fr/videos/comité.flv"
+  "comite": {
+    "label": "Comité",
+    "video": "http://lsf.education.fr/videos/comite.flv"
   },
   "commerce": {
-    "mot": "Commerce",
-    "url": "http://lsf.education.fr/videos/commerce.flv"
+    "label": "Commerce",
+    "video": "http://lsf.education.fr/videos/commerce.flv"
   },
   "commission": {
-    "mot": "Commission",
-    "url": "http://lsf.education.fr/videos/commission.flv"
+    "label": "Commission",
+    "video": "http://lsf.education.fr/videos/commission.flv"
   },
   "communication": {
-    "mot": "Communication",
-    "url": "http://lsf.education.fr/videos/communication.flv"
+    "label": "Communication",
+    "video": "http://lsf.education.fr/videos/communication.flv"
   },
   "communisme": {
-    "mot": "Communisme",
-    "url": "http://lsf.education.fr/videos/communisme.flv"
+    "label": "Communisme",
+    "video": "http://lsf.education.fr/videos/communisme.flv"
   },
-  "compétent": {
-    "mot": "Compétent",
-    "url": "http://lsf.education.fr/videos/compétent.flv"
+  "competent": {
+    "label": "Compétent",
+    "video": "http://lsf.education.fr/videos/competent.flv"
   },
-  "compétition": {
-    "mot": "Compétition",
-    "url": "http://lsf.education.fr/videos/compétition.flv"
+  "competition": {
+    "label": "Compétition",
+    "video": "http://lsf.education.fr/videos/competition.flv"
   },
   "comportement": {
-    "mot": "Comportement",
-    "url": "http://lsf.education.fr/videos/comportement.flv"
+    "label": "Comportement",
+    "video": "http://lsf.education.fr/videos/comportement.flv"
   },
   "compromis": {
-    "mot": "Compromis",
-    "url": "http://lsf.education.fr/videos/compromis.flv"
+    "label": "Compromis",
+    "video": "http://lsf.education.fr/videos/compromis.flv"
   },
-  "comptabilité": {
-    "mot": "Comptabilité",
-    "url": "http://lsf.education.fr/videos/comptabilité.flv"
+  "comptabilite": {
+    "label": "Comptabilité",
+    "video": "http://lsf.education.fr/videos/comptabilite.flv"
   },
   "concentration": {
-    "mot": "Concentration",
-    "url": "http://lsf.education.fr/videos/concentration.flv"
+    "label": "Concentration",
+    "video": "http://lsf.education.fr/videos/concentration.flv"
   },
   "concept": {
-    "mot": "Concept",
-    "url": "http://lsf.education.fr/videos/concept.flv"
+    "label": "Concept",
+    "video": "http://lsf.education.fr/videos/concept.flv"
   },
   "concours": {
-    "mot": "Concours",
-    "url": "http://lsf.education.fr/videos/concours.flv"
+    "label": "Concours",
+    "video": "http://lsf.education.fr/videos/concours.flv"
   },
   "concurrence": {
-    "mot": "Concurrence",
-    "url": "http://lsf.education.fr/videos/concurrence.flv"
+    "label": "Concurrence",
+    "video": "http://lsf.education.fr/videos/concurrence.flv"
   },
-  "conférence": {
-    "mot": "Conférence",
-    "url": "http://lsf.education.fr/videos/conférence.flv"
+  "conference": {
+    "label": "Conférence",
+    "video": "http://lsf.education.fr/videos/conference.flv"
   },
   "confiance": {
-    "mot": "Confiance",
-    "url": "http://lsf.education.fr/videos/confiance.flv"
+    "label": "Confiance",
+    "video": "http://lsf.education.fr/videos/confiance.flv"
   },
   "conflit": {
-    "mot": "Conflit",
-    "url": "http://lsf.education.fr/videos/conflit.flv"
+    "label": "Conflit",
+    "video": "http://lsf.education.fr/videos/conflit.flv"
   },
-  "congrès": {
-    "mot": "Congrès",
-    "url": "http://lsf.education.fr/videos/congrès.flv"
+  "congres": {
+    "label": "Congrès",
+    "video": "http://lsf.education.fr/videos/congres.flv"
   },
   "connaissance": {
-    "mot": "Connaissance",
-    "url": "http://lsf.education.fr/videos/connaissance.flv"
+    "label": "Connaissance",
+    "video": "http://lsf.education.fr/videos/connaissance.flv"
   },
   "conscience": {
-    "mot": "Conscience",
-    "url": "http://lsf.education.fr/videos/conscience.flv"
+    "label": "Conscience",
+    "video": "http://lsf.education.fr/videos/conscience.flv"
   },
   "conseiller": {
-    "mot": "Conseiller",
-    "url": "http://lsf.education.fr/videos/conseiller.flv"
+    "label": "Conseiller",
+    "video": "http://lsf.education.fr/videos/conseiller.flv"
   },
-  "construction navale": {
-    "mot": "Construction navale",
-    "url": "http://lsf.education.fr/videos/construction navale.flv"
+  "construction_navale": {
+    "label": "Construction navale",
+    "video": "http://lsf.education.fr/videos/construction_navale.flv"
   },
   "conte": {
-    "mot": "Conte",
-    "url": "http://lsf.education.fr/videos/conte.flv"
+    "label": "Conte",
+    "video": "http://lsf.education.fr/videos/conte.flv"
   },
   "contrat": {
-    "mot": "Contrat",
-    "url": "http://lsf.education.fr/videos/contrat.flv"
+    "label": "Contrat",
+    "video": "http://lsf.education.fr/videos/contrat.flv"
   },
   "convaincre": {
-    "mot": "Convaincre",
-    "url": "http://lsf.education.fr/videos/convaincre.flv"
+    "label": "Convaincre",
+    "video": "http://lsf.education.fr/videos/convaincre.flv"
   },
   "convention": {
-    "mot": "Convention",
-    "url": "http://lsf.education.fr/videos/convention.flv"
+    "label": "Convention",
+    "video": "http://lsf.education.fr/videos/convention.flv"
   },
   "conversation": {
-    "mot": "Conversation",
-    "url": "http://lsf.education.fr/videos/conversation.flv"
+    "label": "Conversation",
+    "video": "http://lsf.education.fr/videos/conversation.flv"
   },
   "convoquer": {
-    "mot": "Convoquer",
-    "url": "http://lsf.education.fr/videos/convoquer.flv"
+    "label": "Convoquer",
+    "video": "http://lsf.education.fr/videos/convoquer.flv"
   },
   "correction": {
-    "mot": "Correction",
-    "url": "http://lsf.education.fr/videos/correction.flv"
+    "label": "Correction",
+    "video": "http://lsf.education.fr/videos/correction.flv"
   },
   "cotisation": {
-    "mot": "Cotisation",
-    "url": "http://lsf.education.fr/videos/cotisation.flv"
+    "label": "Cotisation",
+    "video": "http://lsf.education.fr/videos/cotisation.flv"
   },
   "coupable": {
-    "mot": "Coupable",
-    "url": "http://lsf.education.fr/videos/coupable.flv"
+    "label": "Coupable",
+    "video": "http://lsf.education.fr/videos/coupable.flv"
   },
-  "crédit": {
-    "mot": "Crédit",
-    "url": "http://lsf.education.fr/videos/crédit.flv"
+  "credit": {
+    "label": "Crédit",
+    "video": "http://lsf.education.fr/videos/credit.flv"
   },
   "crime": {
-    "mot": "Crime",
-    "url": "http://lsf.education.fr/videos/crime.flv"
+    "label": "Crime",
+    "video": "http://lsf.education.fr/videos/crime.flv"
   },
   "critiquer": {
-    "mot": "Critiquer",
-    "url": "http://lsf.education.fr/videos/critiquer.flv"
+    "label": "Critiquer",
+    "video": "http://lsf.education.fr/videos/critiquer.flv"
   },
-  "culture (générale)": {
-    "mot": "Culture (générale)",
-    "url": "http://lsf.education.fr/videos/culture (générale).flv"
+  "culture_genérale": {
+    "label": "Culture (générale)",
+    "video": "http://lsf.education.fr/videos/culture_genérale.flv"
   },
-  "culture (terre)": {
-    "mot": "Culture (terre)",
-    "url": "http://lsf.education.fr/videos/culture (terre).flv"
+  "culture_terre": {
+    "label": "Culture (terre)",
+    "video": "http://lsf.education.fr/videos/culture_terre.flv"
   },
-  "curiosité": {
-    "mot": "Curiosité",
-    "url": "http://lsf.education.fr/videos/curiosité.flv"
+  "curiosite": {
+    "label": "Curiosité",
+    "video": "http://lsf.education.fr/videos/curiosite.flv"
   },
   "danemark": {
-    "mot": "Danemark",
-    "url": "http://lsf.education.fr/videos/danemark.flv"
+    "label": "Danemark",
+    "video": "http://lsf.education.fr/videos/danemark.flv"
   },
-  "débat": {
-    "mot": "Débat",
-    "url": "http://lsf.education.fr/videos/débat.flv"
+  "debat": {
+    "label": "Débat",
+    "video": "http://lsf.education.fr/videos/debat.flv"
   },
-  "débilité": {
-    "mot": "Débilité",
-    "url": "http://lsf.education.fr/videos/débilité.flv"
+  "debilité": {
+    "label": "Débilité",
+    "video": "http://lsf.education.fr/videos/debilité.flv"
   },
-  "débit": {
-    "mot": "Débit",
-    "url": "http://lsf.education.fr/videos/débit.flv"
+  "debit": {
+    "label": "Débit",
+    "video": "http://lsf.education.fr/videos/debit.flv"
   },
-  "décentralisation": {
-    "mot": "Décentralisation",
-    "url": "http://lsf.education.fr/videos/décentralisation.flv"
+  "decentralisation": {
+    "label": "Décentralisation",
+    "video": "http://lsf.education.fr/videos/decentralisation.flv"
   },
-  "décision": {
-    "mot": "Décision",
-    "url": "http://lsf.education.fr/videos/décision.flv"
+  "decision": {
+    "label": "Décision",
+    "video": "http://lsf.education.fr/videos/decision.flv"
   },
-  "déclaration (général)": {
-    "mot": "Déclaration (général)",
-    "url": "http://lsf.education.fr/videos/déclaration (général).flv"
+  "declaration_général": {
+    "label": "Déclaration (général)",
+    "video": "http://lsf.education.fr/videos/declaration_général.flv"
   },
-  "déclaration des droits de l'homme": {
-    "mot": "Déclaration des droits de l'homme",
-    "url": "http://lsf.education.fr/videos/déclaration des droits de l'homme.flv"
+  "declaration_des droits de l'homme": {
+    "label": "Déclaration des droits de l'homme",
+    "video": "http://lsf.education.fr/videos/declaration_des droits de l'homme.flv"
   },
-  "décommander": {
-    "mot": "Décommander",
-    "url": "http://lsf.education.fr/videos/décommander.flv"
+  "decommander": {
+    "label": "Décommander",
+    "video": "http://lsf.education.fr/videos/decommander.flv"
   },
-  "décompte": {
-    "mot": "Décompte",
-    "url": "http://lsf.education.fr/videos/décompte.flv"
+  "decompte": {
+    "label": "Décompte",
+    "video": "http://lsf.education.fr/videos/decompte.flv"
   },
-  "décors": {
-    "mot": "Décors",
-    "url": "http://lsf.education.fr/videos/décors.flv"
+  "decors": {
+    "label": "Décors",
+    "video": "http://lsf.education.fr/videos/decors.flv"
   },
-  "découragement": {
-    "mot": "Découragement",
-    "url": "http://lsf.education.fr/videos/découragement.flv"
+  "decouragement": {
+    "label": "Découragement",
+    "video": "http://lsf.education.fr/videos/decouragement.flv"
   },
-  "découverte": {
-    "mot": "Découverte",
-    "url": "http://lsf.education.fr/videos/découverte.flv"
+  "decouverte": {
+    "label": "Découverte",
+    "video": "http://lsf.education.fr/videos/decouverte.flv"
   },
-  "défaut": {
-    "mot": "Défaut",
-    "url": "http://lsf.education.fr/videos/défaut.flv"
+  "defaut": {
+    "label": "Défaut",
+    "video": "http://lsf.education.fr/videos/defaut.flv"
   },
-  "défense": {
-    "mot": "Défense",
-    "url": "http://lsf.education.fr/videos/défense.flv"
+  "defense": {
+    "label": "Défense",
+    "video": "http://lsf.education.fr/videos/defense.flv"
   },
-  "déficit": {
-    "mot": "Déficit",
-    "url": "http://lsf.education.fr/videos/déficit.flv"
+  "deficit": {
+    "label": "Déficit",
+    "video": "http://lsf.education.fr/videos/deficit.flv"
   },
-  "dégressif": {
-    "mot": "Dégressif",
-    "url": "http://lsf.education.fr/videos/dégressif.flv"
+  "degressif": {
+    "label": "Dégressif",
+    "video": "http://lsf.education.fr/videos/degressif.flv"
   },
-  "dégustation": {
-    "mot": "Dégustation",
-    "url": "http://lsf.education.fr/videos/dégustation.flv"
+  "degustation": {
+    "label": "Dégustation",
+    "video": "http://lsf.education.fr/videos/degustation.flv"
   },
-  "délivrance": {
-    "mot": "Délivrance",
-    "url": "http://lsf.education.fr/videos/délivrance.flv"
+  "delivrance": {
+    "label": "Délivrance",
+    "video": "http://lsf.education.fr/videos/delivrance.flv"
   },
-  "déluge": {
-    "mot": "Déluge",
-    "url": "http://lsf.education.fr/videos/déluge.flv"
+  "deluge": {
+    "label": "Déluge",
+    "video": "http://lsf.education.fr/videos/deluge.flv"
   },
-  "déménagement": {
-    "mot": "Déménagement",
-    "url": "http://lsf.education.fr/videos/déménagement.flv"
+  "deménagement": {
+    "label": "Déménagement",
+    "video": "http://lsf.education.fr/videos/deménagement.flv"
   },
-  "démissioner": {
-    "mot": "Démissioner",
-    "url": "http://lsf.education.fr/videos/démissioner.flv"
+  "demissioner": {
+    "label": "Démissioner",
+    "video": "http://lsf.education.fr/videos/demissioner.flv"
   },
-  "démocratie": {
-    "mot": "Démocratie",
-    "url": "http://lsf.education.fr/videos/démocratie.flv"
+  "democratie": {
+    "label": "Démocratie",
+    "video": "http://lsf.education.fr/videos/democratie.flv"
   },
-  "démonstration": {
-    "mot": "Démonstration",
-    "url": "http://lsf.education.fr/videos/démonstration.flv"
+  "demonstration": {
+    "label": "Démonstration",
+    "video": "http://lsf.education.fr/videos/demonstration.flv"
   },
-  "dépression": {
-    "mot": "Dépression",
-    "url": "http://lsf.education.fr/videos/dépression.flv"
+  "depression": {
+    "label": "Dépression",
+    "video": "http://lsf.education.fr/videos/depression.flv"
   },
-  "député": {
-    "mot": "Député",
-    "url": "http://lsf.education.fr/videos/député.flv"
+  "deputé": {
+    "label": "Député",
+    "video": "http://lsf.education.fr/videos/deputé.flv"
   },
-  "dérogation": {
-    "mot": "Dérogation",
-    "url": "http://lsf.education.fr/videos/dérogation.flv"
+  "derogation": {
+    "label": "Dérogation",
+    "video": "http://lsf.education.fr/videos/derogation.flv"
   },
   "dette": {
-    "mot": "Dette",
-    "url": "http://lsf.education.fr/videos/dette.flv"
+    "label": "Dette",
+    "video": "http://lsf.education.fr/videos/dette.flv"
   },
   "devis": {
-    "mot": "Devis",
-    "url": "http://lsf.education.fr/videos/devis.flv"
+    "label": "Devis",
+    "video": "http://lsf.education.fr/videos/devis.flv"
   },
-  "diabète": {
-    "mot": "Diabète",
-    "url": "http://lsf.education.fr/videos/diabète.flv"
+  "diabete": {
+    "label": "Diabète",
+    "video": "http://lsf.education.fr/videos/diabete.flv"
   },
   "dialogue": {
-    "mot": "Dialogue",
-    "url": "http://lsf.education.fr/videos/dialogue.flv"
+    "label": "Dialogue",
+    "video": "http://lsf.education.fr/videos/dialogue.flv"
   },
   "dijon": {
-    "mot": "Dijon",
-    "url": "http://lsf.education.fr/videos/dijon.flv"
+    "label": "Dijon",
+    "video": "http://lsf.education.fr/videos/dijon.flv"
   },
   "dilatation": {
-    "mot": "Dilatation",
-    "url": "http://lsf.education.fr/videos/dilatation.flv"
+    "label": "Dilatation",
+    "video": "http://lsf.education.fr/videos/dilatation.flv"
   },
   "diplomatique": {
-    "mot": "Diplomatique",
-    "url": "http://lsf.education.fr/videos/diplomatique.flv"
+    "label": "Diplomatique",
+    "video": "http://lsf.education.fr/videos/diplomatique.flv"
   },
-  "diplôme": {
-    "mot": "Diplôme",
-    "url": "http://lsf.education.fr/videos/diplôme.flv"
+  "diplome": {
+    "label": "Diplôme",
+    "video": "http://lsf.education.fr/videos/diplome.flv"
   },
   "directeur": {
-    "mot": "Directeur",
-    "url": "http://lsf.education.fr/videos/directeur.flv"
+    "label": "Directeur",
+    "video": "http://lsf.education.fr/videos/directeur.flv"
   },
   "distance": {
-    "mot": "Distance",
-    "url": "http://lsf.education.fr/videos/distance.flv"
+    "label": "Distance",
+    "video": "http://lsf.education.fr/videos/distance.flv"
   },
   "divorce": {
-    "mot": "Divorce",
-    "url": "http://lsf.education.fr/videos/divorce.flv"
+    "label": "Divorce",
+    "video": "http://lsf.education.fr/videos/divorce.flv"
   },
   "doctorat": {
-    "mot": "Doctorat",
-    "url": "http://lsf.education.fr/videos/doctorat.flv"
+    "label": "Doctorat",
+    "video": "http://lsf.education.fr/videos/doctorat.flv"
   },
   "documentation": {
-    "mot": "Documentation",
-    "url": "http://lsf.education.fr/videos/documentation.flv"
+    "label": "Documentation",
+    "video": "http://lsf.education.fr/videos/documentation.flv"
   },
   "dossier": {
-    "mot": "Dossier",
-    "url": "http://lsf.education.fr/videos/dossier.flv"
+    "label": "Dossier",
+    "video": "http://lsf.education.fr/videos/dossier.flv"
   },
   "doyen": {
-    "mot": "Doyen",
-    "url": "http://lsf.education.fr/videos/doyen.flv"
+    "label": "Doyen",
+    "video": "http://lsf.education.fr/videos/doyen.flv"
   },
   "drogue": {
-    "mot": "Drogue",
-    "url": "http://lsf.education.fr/videos/drogue.flv"
+    "label": "Drogue",
+    "video": "http://lsf.education.fr/videos/drogue.flv"
   },
   "droit": {
-    "mot": "Droit",
-    "url": "http://lsf.education.fr/videos/droit.flv"
+    "label": "Droit",
+    "video": "http://lsf.education.fr/videos/droit.flv"
   },
-  "ebéniste": {
-    "mot": "Ebéniste",
-    "url": "http://lsf.education.fr/videos/ebéniste.flv"
+  "ebeniste": {
+    "label": "Ebéniste",
+    "video": "http://lsf.education.fr/videos/ebeniste.flv"
   },
   "echange": {
-    "mot": "Echange",
-    "url": "http://lsf.education.fr/videos/echange.flv"
+    "label": "Echange",
+    "video": "http://lsf.education.fr/videos/echange.flv"
   },
   "echelon": {
-    "mot": "Echelon",
-    "url": "http://lsf.education.fr/videos/echelon.flv"
+    "label": "Echelon",
+    "video": "http://lsf.education.fr/videos/echelon.flv"
   },
   "eclairage": {
-    "mot": "Eclairage",
-    "url": "http://lsf.education.fr/videos/eclairage.flv"
+    "label": "Eclairage",
+    "video": "http://lsf.education.fr/videos/eclairage.flv"
   },
   "eclipse": {
-    "mot": "Eclipse",
-    "url": "http://lsf.education.fr/videos/eclipse.flv"
+    "label": "Eclipse",
+    "video": "http://lsf.education.fr/videos/eclipse.flv"
   },
   "ecole": {
-    "mot": "Ecole",
-    "url": "http://lsf.education.fr/videos/ecole.flv"
+    "label": "Ecole",
+    "video": "http://lsf.education.fr/videos/ecole.flv"
   },
   "economie": {
-    "mot": "Economie",
-    "url": "http://lsf.education.fr/videos/economie.flv"
+    "label": "Economie",
+    "video": "http://lsf.education.fr/videos/economie.flv"
   },
   "ecosse": {
-    "mot": "Ecosse",
-    "url": "http://lsf.education.fr/videos/ecosse.flv"
+    "label": "Ecosse",
+    "video": "http://lsf.education.fr/videos/ecosse.flv"
   },
   "edifice": {
-    "mot": "Edifice",
-    "url": "http://lsf.education.fr/videos/edifice.flv"
+    "label": "Edifice",
+    "video": "http://lsf.education.fr/videos/edifice.flv"
   },
   "educateur": {
-    "mot": "Educateur",
-    "url": "http://lsf.education.fr/videos/educateur.flv"
+    "label": "Educateur",
+    "video": "http://lsf.education.fr/videos/educateur.flv"
   },
   "egypte": {
-    "mot": "Egypte",
-    "url": "http://lsf.education.fr/videos/egypte.flv"
+    "label": "Egypte",
+    "video": "http://lsf.education.fr/videos/egypte.flv"
   },
-  "electricité": {
-    "mot": "Electricité",
-    "url": "http://lsf.education.fr/videos/electricité.flv"
+  "electricite": {
+    "label": "Electricité",
+    "video": "http://lsf.education.fr/videos/electricite.flv"
   },
   "electronique": {
-    "mot": "Electronique",
-    "url": "http://lsf.education.fr/videos/electronique.flv"
+    "label": "Electronique",
+    "video": "http://lsf.education.fr/videos/electronique.flv"
   },
   "electrotechnique": {
-    "mot": "Electrotechnique",
-    "url": "http://lsf.education.fr/videos/electrotechnique.flv"
+    "label": "Electrotechnique",
+    "video": "http://lsf.education.fr/videos/electrotechnique.flv"
   },
-  "elégance": {
-    "mot": "Elégance",
-    "url": "http://lsf.education.fr/videos/elégance.flv"
+  "elegance": {
+    "label": "Elégance",
+    "video": "http://lsf.education.fr/videos/elegance.flv"
   },
   "emballage": {
-    "mot": "Emballage",
-    "url": "http://lsf.education.fr/videos/emballage.flv"
+    "label": "Emballage",
+    "video": "http://lsf.education.fr/videos/emballage.flv"
   },
   "embaucher": {
-    "mot": "Embaucher",
-    "url": "http://lsf.education.fr/videos/embaucher.flv"
+    "label": "Embaucher",
+    "video": "http://lsf.education.fr/videos/embaucher.flv"
   },
-  "emploi du temps": {
-    "mot": "Emploi du temps",
-    "url": "http://lsf.education.fr/videos/emploi du temps.flv"
+  "emploi_du temps": {
+    "label": "Emploi du temps",
+    "video": "http://lsf.education.fr/videos/emploi_du temps.flv"
   },
   "emprunt": {
-    "mot": "Emprunt",
-    "url": "http://lsf.education.fr/videos/emprunt.flv"
+    "label": "Emprunt",
+    "video": "http://lsf.education.fr/videos/emprunt.flv"
   },
-  "encéphalogramme": {
-    "mot": "Encéphalogramme",
-    "url": "http://lsf.education.fr/videos/encéphalogramme.flv"
+  "encephalogramme": {
+    "label": "Encéphalogramme",
+    "video": "http://lsf.education.fr/videos/encephalogramme.flv"
   },
   "endoctriner": {
-    "mot": "Endoctriner",
-    "url": "http://lsf.education.fr/videos/endoctriner.flv"
+    "label": "Endoctriner",
+    "video": "http://lsf.education.fr/videos/endoctriner.flv"
   },
   "engagement": {
-    "mot": "Engagement",
-    "url": "http://lsf.education.fr/videos/engagement.flv"
+    "label": "Engagement",
+    "video": "http://lsf.education.fr/videos/engagement.flv"
   },
   "engrenage": {
-    "mot": "Engrenage",
-    "url": "http://lsf.education.fr/videos/engrenage.flv"
+    "label": "Engrenage",
+    "video": "http://lsf.education.fr/videos/engrenage.flv"
   },
-  "enlèvement": {
-    "mot": "Enlèvement",
-    "url": "http://lsf.education.fr/videos/enlèvement.flv"
+  "enlevement": {
+    "label": "Enlèvement",
+    "video": "http://lsf.education.fr/videos/enlevement.flv"
   },
   "ennemi": {
-    "mot": "Ennemi",
-    "url": "http://lsf.education.fr/videos/ennemi.flv"
+    "label": "Ennemi",
+    "video": "http://lsf.education.fr/videos/ennemi.flv"
   },
-  "enquête": {
-    "mot": "Enquête",
-    "url": "http://lsf.education.fr/videos/enquête.flv"
+  "enquete": {
+    "label": "Enquête",
+    "video": "http://lsf.education.fr/videos/enquete.flv"
   },
   "enregistrer": {
-    "mot": "Enregistrer",
-    "url": "http://lsf.education.fr/videos/enregistrer.flv"
+    "label": "Enregistrer",
+    "video": "http://lsf.education.fr/videos/enregistrer.flv"
   },
   "enseigner": {
-    "mot": "Enseigner",
-    "url": "http://lsf.education.fr/videos/enseigner.flv"
+    "label": "Enseigner",
+    "video": "http://lsf.education.fr/videos/enseigner.flv"
   },
   "enthousiasme": {
-    "mot": "Enthousiasme",
-    "url": "http://lsf.education.fr/videos/enthousiasme.flv"
+    "label": "Enthousiasme",
+    "video": "http://lsf.education.fr/videos/enthousiasme.flv"
   },
   "envergure": {
-    "mot": "Envergure",
-    "url": "http://lsf.education.fr/videos/envergure.flv"
+    "label": "Envergure",
+    "video": "http://lsf.education.fr/videos/envergure.flv"
   },
   "envie": {
-    "mot": "Envie",
-    "url": "http://lsf.education.fr/videos/envie.flv"
+    "label": "Envie",
+    "video": "http://lsf.education.fr/videos/envie.flv"
   },
-  "ephémère": {
-    "mot": "Ephémère",
-    "url": "http://lsf.education.fr/videos/ephémère.flv"
+  "ephemère": {
+    "label": "Ephémère",
+    "video": "http://lsf.education.fr/videos/ephemère.flv"
   },
   "epilepsie": {
-    "mot": "Epilepsie",
-    "url": "http://lsf.education.fr/videos/epilepsie.flv"
+    "label": "Epilepsie",
+    "video": "http://lsf.education.fr/videos/epilepsie.flv"
   },
   "equilibre": {
-    "mot": "Equilibre",
-    "url": "http://lsf.education.fr/videos/equilibre.flv"
+    "label": "Equilibre",
+    "video": "http://lsf.education.fr/videos/equilibre.flv"
   },
   "equipe": {
-    "mot": "Equipe",
-    "url": "http://lsf.education.fr/videos/equipe.flv"
+    "label": "Equipe",
+    "video": "http://lsf.education.fr/videos/equipe.flv"
   },
   "espagne": {
-    "mot": "Espagne",
-    "url": "http://lsf.education.fr/videos/espagne.flv"
+    "label": "Espagne",
+    "video": "http://lsf.education.fr/videos/espagne.flv"
   },
-  "etat (pays)": {
-    "mot": "Etat (pays)",
-    "url": "http://lsf.education.fr/videos/etat (pays).flv"
+  "etat_pays": {
+    "label": "Etat (pays)",
+    "video": "http://lsf.education.fr/videos/etat_pays.flv"
   },
   "etats-unis": {
-    "mot": "Etats-Unis",
-    "url": "http://lsf.education.fr/videos/etats-unis.flv"
+    "label": "Etats-Unis",
+    "video": "http://lsf.education.fr/videos/etats-unis.flv"
   },
   "etranger": {
-    "mot": "Etranger",
-    "url": "http://lsf.education.fr/videos/etranger.flv"
+    "label": "Etranger",
+    "video": "http://lsf.education.fr/videos/etranger.flv"
   },
   "etudiant": {
-    "mot": "Etudiant",
-    "url": "http://lsf.education.fr/videos/etudiant.flv"
+    "label": "Etudiant",
+    "video": "http://lsf.education.fr/videos/etudiant.flv"
   },
   "europe": {
-    "mot": "Europe",
-    "url": "http://lsf.education.fr/videos/europe.flv"
+    "label": "Europe",
+    "video": "http://lsf.education.fr/videos/europe.flv"
   },
   "evolution": {
-    "mot": "Evolution",
-    "url": "http://lsf.education.fr/videos/evolution.flv"
+    "label": "Evolution",
+    "video": "http://lsf.education.fr/videos/evolution.flv"
   },
   "examen": {
-    "mot": "Examen",
-    "url": "http://lsf.education.fr/videos/examen.flv"
+    "label": "Examen",
+    "video": "http://lsf.education.fr/videos/examen.flv"
   },
   "exemple": {
-    "mot": "Exemple",
-    "url": "http://lsf.education.fr/videos/exemple.flv"
+    "label": "Exemple",
+    "video": "http://lsf.education.fr/videos/exemple.flv"
   },
   "exercice": {
-    "mot": "Exercice",
-    "url": "http://lsf.education.fr/videos/exercice.flv"
+    "label": "Exercice",
+    "video": "http://lsf.education.fr/videos/exercice.flv"
   },
-  "expérience": {
-    "mot": "Expérience",
-    "url": "http://lsf.education.fr/videos/expérience.flv"
+  "experience": {
+    "label": "Expérience",
+    "video": "http://lsf.education.fr/videos/experience.flv"
   },
   "expert": {
-    "mot": "Expert",
-    "url": "http://lsf.education.fr/videos/expert.flv"
+    "label": "Expert",
+    "video": "http://lsf.education.fr/videos/expert.flv"
   },
   "exploit": {
-    "mot": "Exploit",
-    "url": "http://lsf.education.fr/videos/exploit.flv"
+    "label": "Exploit",
+    "video": "http://lsf.education.fr/videos/exploit.flv"
   },
   "exportation": {
-    "mot": "Exportation",
-    "url": "http://lsf.education.fr/videos/exportation.flv"
+    "label": "Exportation",
+    "video": "http://lsf.education.fr/videos/exportation.flv"
   },
-  "expression (groupe de mots)": {
-    "mot": "Expression (groupe de mots)",
-    "url": "http://lsf.education.fr/videos/expression (groupe de mots).flv"
+  "expression_groupe de mots": {
+    "label": "Expression (groupe de mots)",
+    "video": "http://lsf.education.fr/videos/expression_groupe de mots.flv"
   },
-  "expression (visage)": {
-    "mot": "Expression (visage)",
-    "url": "http://lsf.education.fr/videos/expression (visage).flv"
+  "expression_visage": {
+    "label": "Expression (visage)",
+    "video": "http://lsf.education.fr/videos/expression_visage.flv"
   },
   "fabrication": {
-    "mot": "Fabrication",
-    "url": "http://lsf.education.fr/videos/fabrication.flv"
+    "label": "Fabrication",
+    "video": "http://lsf.education.fr/videos/fabrication.flv"
   },
   "facture": {
-    "mot": "Facture",
-    "url": "http://lsf.education.fr/videos/facture.flv"
+    "label": "Facture",
+    "video": "http://lsf.education.fr/videos/facture.flv"
   },
   "faillite": {
-    "mot": "Faillite",
-    "url": "http://lsf.education.fr/videos/faillite.flv"
+    "label": "Faillite",
+    "video": "http://lsf.education.fr/videos/faillite.flv"
   },
   "falsifier": {
-    "mot": "Falsifier",
-    "url": "http://lsf.education.fr/videos/falsifier.flv"
+    "label": "Falsifier",
+    "video": "http://lsf.education.fr/videos/falsifier.flv"
   },
   "fantasme": {
-    "mot": "Fantasme",
-    "url": "http://lsf.education.fr/videos/fantasme.flv"
+    "label": "Fantasme",
+    "video": "http://lsf.education.fr/videos/fantasme.flv"
   },
   "fascisme": {
-    "mot": "Fascisme",
-    "url": "http://lsf.education.fr/videos/fascisme.flv"
+    "label": "Fascisme",
+    "video": "http://lsf.education.fr/videos/fascisme.flv"
   },
   "faussaire": {
-    "mot": "Faussaire",
-    "url": "http://lsf.education.fr/videos/faussaire.flv"
+    "label": "Faussaire",
+    "video": "http://lsf.education.fr/videos/faussaire.flv"
   },
-  "fédération": {
-    "mot": "Fédération",
-    "url": "http://lsf.education.fr/videos/fédération.flv"
+  "fedération": {
+    "label": "Fédération",
+    "video": "http://lsf.education.fr/videos/fedération.flv"
   },
-  "félicitations": {
-    "mot": "Félicitations",
-    "url": "http://lsf.education.fr/videos/félicitations.flv"
+  "felicitations": {
+    "label": "Félicitations",
+    "video": "http://lsf.education.fr/videos/felicitations.flv"
   },
   "finlande": {
-    "mot": "Finlande",
-    "url": "http://lsf.education.fr/videos/finlande.flv"
+    "label": "Finlande",
+    "video": "http://lsf.education.fr/videos/finlande.flv"
   },
   "fleuve": {
-    "mot": "Fleuve",
-    "url": "http://lsf.education.fr/videos/fleuve.flv"
+    "label": "Fleuve",
+    "video": "http://lsf.education.fr/videos/fleuve.flv"
   },
   "foie": {
-    "mot": "Foie",
-    "url": "http://lsf.education.fr/videos/foie.flv"
+    "label": "Foie",
+    "video": "http://lsf.education.fr/videos/foie.flv"
   },
   "fonder": {
-    "mot": "Fonder",
-    "url": "http://lsf.education.fr/videos/fonder.flv"
+    "label": "Fonder",
+    "video": "http://lsf.education.fr/videos/fonder.flv"
   },
-  "forêt": {
-    "mot": "Forêt",
-    "url": "http://lsf.education.fr/videos/forêt.flv"
+  "foret": {
+    "label": "Forêt",
+    "video": "http://lsf.education.fr/videos/foret.flv"
   },
   "formation": {
-    "mot": "Formation",
-    "url": "http://lsf.education.fr/videos/formation.flv"
+    "label": "Formation",
+    "video": "http://lsf.education.fr/videos/formation.flv"
   },
   "français": {
-    "mot": "Français",
-    "url": "http://lsf.education.fr/videos/français.flv"
+    "label": "Français",
+    "video": "http://lsf.education.fr/videos/français.flv"
   },
   "france": {
-    "mot": "France",
-    "url": "http://lsf.education.fr/videos/france.flv"
+    "label": "France",
+    "video": "http://lsf.education.fr/videos/france.flv"
   },
   "futur": {
-    "mot": "Futur",
-    "url": "http://lsf.education.fr/videos/futur.flv"
+    "label": "Futur",
+    "video": "http://lsf.education.fr/videos/futur.flv"
   },
-  "géographie": {
-    "mot": "Géographie",
-    "url": "http://lsf.education.fr/videos/géographie.flv"
+  "geographie": {
+    "label": "Géographie",
+    "video": "http://lsf.education.fr/videos/geographie.flv"
   },
   "grammaire": {
-    "mot": "Grammaire",
-    "url": "http://lsf.education.fr/videos/grammaire.flv"
+    "label": "Grammaire",
+    "video": "http://lsf.education.fr/videos/grammaire.flv"
   },
   "gravure": {
-    "mot": "Gravure",
-    "url": "http://lsf.education.fr/videos/gravure.flv"
+    "label": "Gravure",
+    "video": "http://lsf.education.fr/videos/gravure.flv"
   },
-  "grèce": {
-    "mot": "Grèce",
-    "url": "http://lsf.education.fr/videos/grèce.flv"
+  "grece": {
+    "label": "Grèce",
+    "video": "http://lsf.education.fr/videos/grece.flv"
   },
   "guyane": {
-    "mot": "Guyane",
-    "url": "http://lsf.education.fr/videos/guyane.flv"
+    "label": "Guyane",
+    "video": "http://lsf.education.fr/videos/guyane.flv"
   },
   "gymnastique": {
-    "mot": "Gymnastique",
-    "url": "http://lsf.education.fr/videos/gymnastique.flv"
+    "label": "Gymnastique",
+    "video": "http://lsf.education.fr/videos/gymnastique.flv"
   },
   "haine": {
-    "mot": "Haine",
-    "url": "http://lsf.education.fr/videos/haine.flv"
+    "label": "Haine",
+    "video": "http://lsf.education.fr/videos/haine.flv"
   },
-  "handicapé": {
-    "mot": "Handicapé",
-    "url": "http://lsf.education.fr/videos/handicapé.flv"
+  "handicape": {
+    "label": "Handicapé",
+    "video": "http://lsf.education.fr/videos/handicape.flv"
   },
-  "héritage": {
-    "mot": "Héritage",
-    "url": "http://lsf.education.fr/videos/héritage.flv"
+  "heritage": {
+    "label": "Héritage",
+    "video": "http://lsf.education.fr/videos/heritage.flv"
   },
-  "hiérarchie": {
-    "mot": "Hiérarchie",
-    "url": "http://lsf.education.fr/videos/hiérarchie.flv"
+  "hierarchie": {
+    "label": "Hiérarchie",
+    "video": "http://lsf.education.fr/videos/hierarchie.flv"
   },
   "histoire": {
-    "mot": "Histoire",
-    "url": "http://lsf.education.fr/videos/histoire.flv"
+    "label": "Histoire",
+    "video": "http://lsf.education.fr/videos/histoire.flv"
   },
   "hollande": {
-    "mot": "Hollande",
-    "url": "http://lsf.education.fr/videos/hollande.flv"
+    "label": "Hollande",
+    "video": "http://lsf.education.fr/videos/hollande.flv"
   },
   "hommage": {
-    "mot": "Hommage",
-    "url": "http://lsf.education.fr/videos/hommage.flv"
+    "label": "Hommage",
+    "video": "http://lsf.education.fr/videos/hommage.flv"
   },
   "homme": {
-    "mot": "Homme",
-    "url": "http://lsf.education.fr/videos/homme.flv"
+    "label": "Homme",
+    "video": "http://lsf.education.fr/videos/homme.flv"
   },
   "hongrie": {
-    "mot": "Hongrie",
-    "url": "http://lsf.education.fr/videos/hongrie.flv"
+    "label": "Hongrie",
+    "video": "http://lsf.education.fr/videos/hongrie.flv"
   },
   "honneur": {
-    "mot": "Honneur",
-    "url": "http://lsf.education.fr/videos/honneur.flv"
+    "label": "Honneur",
+    "video": "http://lsf.education.fr/videos/honneur.flv"
   },
-  "hôpital": {
-    "mot": "Hôpital",
-    "url": "http://lsf.education.fr/videos/hôpital.flv"
+  "hopital": {
+    "label": "Hôpital",
+    "video": "http://lsf.education.fr/videos/hopital.flv"
   },
   "horizon": {
-    "mot": "Horizon",
-    "url": "http://lsf.education.fr/videos/horizon.flv"
+    "label": "Horizon",
+    "video": "http://lsf.education.fr/videos/horizon.flv"
   },
   "horticulture": {
-    "mot": "Horticulture",
-    "url": "http://lsf.education.fr/videos/horticulture.flv"
+    "label": "Horticulture",
+    "video": "http://lsf.education.fr/videos/horticulture.flv"
   },
-  "hôtel": {
-    "mot": "Hôtel",
-    "url": "http://lsf.education.fr/videos/hôtel.flv"
+  "hotel": {
+    "label": "Hôtel",
+    "video": "http://lsf.education.fr/videos/hotel.flv"
   },
   "huissier": {
-    "mot": "Huissier",
-    "url": "http://lsf.education.fr/videos/huissier.flv"
+    "label": "Huissier",
+    "video": "http://lsf.education.fr/videos/huissier.flv"
   },
   "hypocrite": {
-    "mot": "Hypocrite",
-    "url": "http://lsf.education.fr/videos/hypocrite.flv"
+    "label": "Hypocrite",
+    "video": "http://lsf.education.fr/videos/hypocrite.flv"
   },
-  "idéologie": {
-    "mot": "Idéologie",
-    "url": "http://lsf.education.fr/videos/idéologie.flv"
+  "ideologie": {
+    "label": "Idéologie",
+    "video": "http://lsf.education.fr/videos/ideologie.flv"
   },
   "illusion": {
-    "mot": "Illusion",
-    "url": "http://lsf.education.fr/videos/illusion.flv"
+    "label": "Illusion",
+    "video": "http://lsf.education.fr/videos/illusion.flv"
   },
-  "impôts": {
-    "mot": "Impôts",
-    "url": "http://lsf.education.fr/videos/impôts.flv"
+  "impots": {
+    "label": "Impôts",
+    "video": "http://lsf.education.fr/videos/impots.flv"
   },
   "imprimer": {
-    "mot": "Imprimer",
-    "url": "http://lsf.education.fr/videos/imprimer.flv"
+    "label": "Imprimer",
+    "video": "http://lsf.education.fr/videos/imprimer.flv"
   },
   "inauguration": {
-    "mot": "Inauguration",
-    "url": "http://lsf.education.fr/videos/inauguration.flv"
+    "label": "Inauguration",
+    "video": "http://lsf.education.fr/videos/inauguration.flv"
   },
   "inde": {
-    "mot": "Inde",
-    "url": "http://lsf.education.fr/videos/inde.flv"
+    "label": "Inde",
+    "video": "http://lsf.education.fr/videos/inde.flv"
   },
   "individu": {
-    "mot": "Individu",
-    "url": "http://lsf.education.fr/videos/individu.flv"
+    "label": "Individu",
+    "video": "http://lsf.education.fr/videos/individu.flv"
   },
   "infarctus": {
-    "mot": "Infarctus",
-    "url": "http://lsf.education.fr/videos/infarctus.flv"
+    "label": "Infarctus",
+    "video": "http://lsf.education.fr/videos/infarctus.flv"
   },
-  "infirmière": {
-    "mot": "Infirmière",
-    "url": "http://lsf.education.fr/videos/infirmière.flv"
+  "infirmiere": {
+    "label": "Infirmière",
+    "video": "http://lsf.education.fr/videos/infirmiere.flv"
   },
   "influence": {
-    "mot": "Influence",
-    "url": "http://lsf.education.fr/videos/influence.flv"
+    "label": "Influence",
+    "video": "http://lsf.education.fr/videos/influence.flv"
   },
   "information": {
-    "mot": "Information",
-    "url": "http://lsf.education.fr/videos/information.flv"
+    "label": "Information",
+    "video": "http://lsf.education.fr/videos/information.flv"
   },
   "informatique": {
-    "mot": "Informatique",
-    "url": "http://lsf.education.fr/videos/informatique.flv"
+    "label": "Informatique",
+    "video": "http://lsf.education.fr/videos/informatique.flv"
   },
   "informer": {
-    "mot": "Informer",
-    "url": "http://lsf.education.fr/videos/informer.flv"
+    "label": "Informer",
+    "video": "http://lsf.education.fr/videos/informer.flv"
   },
-  "ingénieur": {
-    "mot": "Ingénieur",
-    "url": "http://lsf.education.fr/videos/ingénieur.flv"
+  "ingenieur": {
+    "label": "Ingénieur",
+    "video": "http://lsf.education.fr/videos/ingenieur.flv"
   },
   "insertion": {
-    "mot": "Insertion",
-    "url": "http://lsf.education.fr/videos/insertion.flv"
+    "label": "Insertion",
+    "video": "http://lsf.education.fr/videos/insertion.flv"
   },
-  "intégration": {
-    "mot": "Intégration",
-    "url": "http://lsf.education.fr/videos/intégration.flv"
+  "integration": {
+    "label": "Intégration",
+    "video": "http://lsf.education.fr/videos/integration.flv"
   },
   "intelligence": {
-    "mot": "Intelligence",
-    "url": "http://lsf.education.fr/videos/intelligence.flv"
+    "label": "Intelligence",
+    "video": "http://lsf.education.fr/videos/intelligence.flv"
   },
-  "intérioriser": {
-    "mot": "Intérioriser",
-    "url": "http://lsf.education.fr/videos/intérioriser.flv"
+  "interioriser": {
+    "label": "Intérioriser",
+    "video": "http://lsf.education.fr/videos/interioriser.flv"
   },
   "international": {
-    "mot": "International",
-    "url": "http://lsf.education.fr/videos/international.flv"
+    "label": "International",
+    "video": "http://lsf.education.fr/videos/international.flv"
   },
   "internet": {
-    "mot": "Internet",
-    "url": "http://lsf.education.fr/videos/internet.flv"
+    "label": "Internet",
+    "video": "http://lsf.education.fr/videos/internet.flv"
   },
-  "interpréter": {
-    "mot": "Interpréter",
-    "url": "http://lsf.education.fr/videos/interpréter.flv"
+  "interpreter": {
+    "label": "Interpréter",
+    "video": "http://lsf.education.fr/videos/interpreter.flv"
   },
   "intervenir": {
-    "mot": "Intervenir",
-    "url": "http://lsf.education.fr/videos/intervenir.flv"
+    "label": "Intervenir",
+    "video": "http://lsf.education.fr/videos/intervenir.flv"
   },
   "interview": {
-    "mot": "Interview",
-    "url": "http://lsf.education.fr/videos/interview.flv"
+    "label": "Interview",
+    "video": "http://lsf.education.fr/videos/interview.flv"
   },
   "invention": {
-    "mot": "Invention",
-    "url": "http://lsf.education.fr/videos/invention.flv"
+    "label": "Invention",
+    "video": "http://lsf.education.fr/videos/invention.flv"
   },
   "irlande": {
-    "mot": "Irlande",
-    "url": "http://lsf.education.fr/videos/irlande.flv"
+    "label": "Irlande",
+    "video": "http://lsf.education.fr/videos/irlande.flv"
   },
   "israël": {
-    "mot": "Israël",
-    "url": "http://lsf.education.fr/videos/israël.flv"
+    "label": "Israël",
+    "video": "http://lsf.education.fr/videos/israël.flv"
   },
   "italie": {
-    "mot": "Italie",
-    "url": "http://lsf.education.fr/videos/italie.flv"
+    "label": "Italie",
+    "video": "http://lsf.education.fr/videos/italie.flv"
   },
   "japon": {
-    "mot": "Japon",
-    "url": "http://lsf.education.fr/videos/japon.flv"
+    "label": "Japon",
+    "video": "http://lsf.education.fr/videos/japon.flv"
   },
   "jardinage": {
-    "mot": "Jardinage",
-    "url": "http://lsf.education.fr/videos/jardinage.flv"
+    "label": "Jardinage",
+    "video": "http://lsf.education.fr/videos/jardinage.flv"
   },
   "jazz": {
-    "mot": "Jazz",
-    "url": "http://lsf.education.fr/videos/jazz.flv"
+    "label": "Jazz",
+    "video": "http://lsf.education.fr/videos/jazz.flv"
   },
   "jeunesse": {
-    "mot": "Jeunesse",
-    "url": "http://lsf.education.fr/videos/jeunesse.flv"
+    "label": "Jeunesse",
+    "video": "http://lsf.education.fr/videos/jeunesse.flv"
   },
   "justice": {
-    "mot": "Justice",
-    "url": "http://lsf.education.fr/videos/justice.flv"
+    "label": "Justice",
+    "video": "http://lsf.education.fr/videos/justice.flv"
   },
   "kidnapper": {
-    "mot": "Kidnapper",
-    "url": "http://lsf.education.fr/videos/kidnapper.flv"
+    "label": "Kidnapper",
+    "video": "http://lsf.education.fr/videos/kidnapper.flv"
   },
   "kilogramme": {
-    "mot": "Kilogramme",
-    "url": "http://lsf.education.fr/videos/kilogramme.flv"
+    "label": "Kilogramme",
+    "video": "http://lsf.education.fr/videos/kilogramme.flv"
   },
-  "kilomètre": {
-    "mot": "Kilomètre",
-    "url": "http://lsf.education.fr/videos/kilomètre.flv"
+  "kilometre": {
+    "label": "Kilomètre",
+    "video": "http://lsf.education.fr/videos/kilometre.flv"
   },
   "kilowatt": {
-    "mot": "Kilowatt",
-    "url": "http://lsf.education.fr/videos/kilowatt.flv"
+    "label": "Kilowatt",
+    "video": "http://lsf.education.fr/videos/kilowatt.flv"
   },
-  "kinésithérapie": {
-    "mot": "Kinésithérapie",
-    "url": "http://lsf.education.fr/videos/kinésithérapie.flv"
+  "kinesithérapie": {
+    "label": "Kinésithérapie",
+    "video": "http://lsf.education.fr/videos/kinesithérapie.flv"
   },
   "kleptomanie": {
-    "mot": "Kleptomanie",
-    "url": "http://lsf.education.fr/videos/kleptomanie.flv"
+    "label": "Kleptomanie",
+    "video": "http://lsf.education.fr/videos/kleptomanie.flv"
   },
   "langue": {
-    "mot": "Langue",
-    "url": "http://lsf.education.fr/videos/langue.flv"
+    "label": "Langue",
+    "video": "http://lsf.education.fr/videos/langue.flv"
   },
   "laos": {
-    "mot": "Laos",
-    "url": "http://lsf.education.fr/videos/laos.flv"
+    "label": "Laos",
+    "video": "http://lsf.education.fr/videos/laos.flv"
   },
   "leader": {
-    "mot": "Leader",
-    "url": "http://lsf.education.fr/videos/leader.flv"
+    "label": "Leader",
+    "video": "http://lsf.education.fr/videos/leader.flv"
   },
   "lecture": {
-    "mot": "Lecture",
-    "url": "http://lsf.education.fr/videos/lecture.flv"
+    "label": "Lecture",
+    "video": "http://lsf.education.fr/videos/lecture.flv"
   },
-  "lecture labiale": {
-    "mot": "Lecture labiale",
-    "url": "http://lsf.education.fr/videos/lecture labiale.flv"
+  "lecture_labiale": {
+    "label": "Lecture labiale",
+    "video": "http://lsf.education.fr/videos/lecture_labiale.flv"
   },
-  "liberté": {
-    "mot": "Liberté",
-    "url": "http://lsf.education.fr/videos/liberté.flv"
+  "liberte": {
+    "label": "Liberté",
+    "video": "http://lsf.education.fr/videos/liberte.flv"
   },
   "licenciement": {
-    "mot": "Licenciement",
-    "url": "http://lsf.education.fr/videos/licenciement.flv"
+    "label": "Licenciement",
+    "video": "http://lsf.education.fr/videos/licenciement.flv"
   },
   "lille": {
-    "mot": "Lille",
-    "url": "http://lsf.education.fr/videos/lille.flv"
+    "label": "Lille",
+    "video": "http://lsf.education.fr/videos/lille.flv"
   },
   "limoges": {
-    "mot": "Limoges",
-    "url": "http://lsf.education.fr/videos/limoges.flv"
+    "label": "Limoges",
+    "video": "http://lsf.education.fr/videos/limoges.flv"
   },
   "linguistique": {
-    "mot": "Linguistique",
-    "url": "http://lsf.education.fr/videos/linguistique.flv"
+    "label": "Linguistique",
+    "video": "http://lsf.education.fr/videos/linguistique.flv"
   },
   "loi": {
-    "mot": "Loi",
-    "url": "http://lsf.education.fr/videos/loi.flv"
+    "label": "Loi",
+    "video": "http://lsf.education.fr/videos/loi.flv"
   },
   "lyon": {
-    "mot": "Lyon",
-    "url": "http://lsf.education.fr/videos/lyon.flv"
+    "label": "Lyon",
+    "video": "http://lsf.education.fr/videos/lyon.flv"
   },
   "machine": {
-    "mot": "Machine",
-    "url": "http://lsf.education.fr/videos/machine.flv"
+    "label": "Machine",
+    "video": "http://lsf.education.fr/videos/machine.flv"
   },
   "mafia": {
-    "mot": "Mafia",
-    "url": "http://lsf.education.fr/videos/mafia.flv"
+    "label": "Mafia",
+    "video": "http://lsf.education.fr/videos/mafia.flv"
   },
   "mairie": {
-    "mot": "Mairie",
-    "url": "http://lsf.education.fr/videos/mairie.flv"
+    "label": "Mairie",
+    "video": "http://lsf.education.fr/videos/mairie.flv"
   },
   "majeur": {
-    "mot": "Majeur",
-    "url": "http://lsf.education.fr/videos/majeur.flv"
+    "label": "Majeur",
+    "video": "http://lsf.education.fr/videos/majeur.flv"
   },
   "manifestation": {
-    "mot": "Manifestation",
-    "url": "http://lsf.education.fr/videos/manifestation.flv"
+    "label": "Manifestation",
+    "video": "http://lsf.education.fr/videos/manifestation.flv"
   },
   "marginal": {
-    "mot": "Marginal",
-    "url": "http://lsf.education.fr/videos/marginal.flv"
+    "label": "Marginal",
+    "video": "http://lsf.education.fr/videos/marginal.flv"
   },
   "maroc": {
-    "mot": "Maroc",
-    "url": "http://lsf.education.fr/videos/maroc.flv"
+    "label": "Maroc",
+    "video": "http://lsf.education.fr/videos/maroc.flv"
   },
   "marseille": {
-    "mot": "Marseille",
-    "url": "http://lsf.education.fr/videos/marseille.flv"
+    "label": "Marseille",
+    "video": "http://lsf.education.fr/videos/marseille.flv"
   },
-  "mécanique": {
-    "mot": "Mécanique",
-    "url": "http://lsf.education.fr/videos/mécanique.flv"
+  "mecanique": {
+    "label": "Mécanique",
+    "video": "http://lsf.education.fr/videos/mecanique.flv"
   },
-  "médecin": {
-    "mot": "Médecin",
-    "url": "http://lsf.education.fr/videos/médecin.flv"
+  "medecin": {
+    "label": "Médecin",
+    "video": "http://lsf.education.fr/videos/medecin.flv"
   },
-  "médicament": {
-    "mot": "Médicament",
-    "url": "http://lsf.education.fr/videos/médicament.flv"
+  "medicament": {
+    "label": "Médicament",
+    "video": "http://lsf.education.fr/videos/medicament.flv"
   },
-  "mémoire": {
-    "mot": "Mémoire",
-    "url": "http://lsf.education.fr/videos/mémoire.flv"
+  "memoire": {
+    "label": "Mémoire",
+    "video": "http://lsf.education.fr/videos/memoire.flv"
   },
   "mensuel": {
-    "mot": "Mensuel",
-    "url": "http://lsf.education.fr/videos/mensuel.flv"
+    "label": "Mensuel",
+    "video": "http://lsf.education.fr/videos/mensuel.flv"
   },
   "message": {
-    "mot": "Message",
-    "url": "http://lsf.education.fr/videos/message.flv"
+    "label": "Message",
+    "video": "http://lsf.education.fr/videos/message.flv"
   },
-  "méthode": {
-    "mot": "Méthode",
-    "url": "http://lsf.education.fr/videos/méthode.flv"
+  "methode": {
+    "label": "Méthode",
+    "video": "http://lsf.education.fr/videos/methode.flv"
   },
-  "métier": {
-    "mot": "Métier",
-    "url": "http://lsf.education.fr/videos/métier.flv"
+  "metier": {
+    "label": "Métier",
+    "video": "http://lsf.education.fr/videos/metier.flv"
   },
   "metz": {
-    "mot": "Metz",
-    "url": "http://lsf.education.fr/videos/metz.flv"
+    "label": "Metz",
+    "video": "http://lsf.education.fr/videos/metz.flv"
   },
   "mexique": {
-    "mot": "Mexique",
-    "url": "http://lsf.education.fr/videos/mexique.flv"
+    "label": "Mexique",
+    "video": "http://lsf.education.fr/videos/mexique.flv"
   },
   "microbe": {
-    "mot": "Microbe",
-    "url": "http://lsf.education.fr/videos/microbe.flv"
+    "label": "Microbe",
+    "video": "http://lsf.education.fr/videos/microbe.flv"
   },
   "microscope": {
-    "mot": "Microscope",
-    "url": "http://lsf.education.fr/videos/microscope.flv"
+    "label": "Microscope",
+    "video": "http://lsf.education.fr/videos/microscope.flv"
   },
   "militaire": {
-    "mot": "Militaire",
-    "url": "http://lsf.education.fr/videos/militaire.flv"
+    "label": "Militaire",
+    "video": "http://lsf.education.fr/videos/militaire.flv"
   },
   "mine": {
-    "mot": "Mine",
-    "url": "http://lsf.education.fr/videos/mine.flv"
+    "label": "Mine",
+    "video": "http://lsf.education.fr/videos/mine.flv"
   },
-  "minorité": {
-    "mot": "Minorité",
-    "url": "http://lsf.education.fr/videos/minorité.flv"
+  "minorite": {
+    "label": "Minorité",
+    "video": "http://lsf.education.fr/videos/minorite.flv"
   },
-  "mode (la)": {
-    "mot": "Mode (la)",
-    "url": "http://lsf.education.fr/videos/mode (la).flv"
+  "mode_la": {
+    "label": "Mode (la)",
+    "video": "http://lsf.education.fr/videos/mode_la.flv"
   },
   "moderne": {
-    "mot": "Moderne",
-    "url": "http://lsf.education.fr/videos/moderne.flv"
+    "label": "Moderne",
+    "video": "http://lsf.education.fr/videos/moderne.flv"
   },
   "monaco": {
-    "mot": "Monaco",
-    "url": "http://lsf.education.fr/videos/monaco.flv"
+    "label": "Monaco",
+    "video": "http://lsf.education.fr/videos/monaco.flv"
   },
   "monde": {
-    "mot": "Monde",
-    "url": "http://lsf.education.fr/videos/monde.flv"
+    "label": "Monde",
+    "video": "http://lsf.education.fr/videos/monde.flv"
   },
   "montagne": {
-    "mot": "Montagne",
-    "url": "http://lsf.education.fr/videos/montagne.flv"
+    "label": "Montagne",
+    "video": "http://lsf.education.fr/videos/montagne.flv"
   },
   "montpellier": {
-    "mot": "Montpellier",
-    "url": "http://lsf.education.fr/videos/montpellier.flv"
+    "label": "Montpellier",
+    "video": "http://lsf.education.fr/videos/montpellier.flv"
   },
   "moral": {
-    "mot": "Moral",
-    "url": "http://lsf.education.fr/videos/moral.flv"
+    "label": "Moral",
+    "video": "http://lsf.education.fr/videos/moral.flv"
   },
   "mulhouse": {
-    "mot": "Mulhouse",
-    "url": "http://lsf.education.fr/videos/mulhouse.flv"
+    "label": "Mulhouse",
+    "video": "http://lsf.education.fr/videos/mulhouse.flv"
   },
   "musique": {
-    "mot": "Musique",
-    "url": "http://lsf.education.fr/videos/musique.flv"
+    "label": "Musique",
+    "video": "http://lsf.education.fr/videos/musique.flv"
   },
   "musulman": {
-    "mot": "Musulman",
-    "url": "http://lsf.education.fr/videos/musulman.flv"
+    "label": "Musulman",
+    "video": "http://lsf.education.fr/videos/musulman.flv"
   },
   "mutation": {
-    "mot": "Mutation",
-    "url": "http://lsf.education.fr/videos/mutation.flv"
+    "label": "Mutation",
+    "video": "http://lsf.education.fr/videos/mutation.flv"
   },
   "nancy": {
-    "mot": "Nancy",
-    "url": "http://lsf.education.fr/videos/nancy.flv"
+    "label": "Nancy",
+    "video": "http://lsf.education.fr/videos/nancy.flv"
   },
   "nantes": {
-    "mot": "Nantes",
-    "url": "http://lsf.education.fr/videos/nantes.flv"
+    "label": "Nantes",
+    "video": "http://lsf.education.fr/videos/nantes.flv"
   },
-  "nationalité": {
-    "mot": "Nationalité",
-    "url": "http://lsf.education.fr/videos/nationalité.flv"
+  "nationalite": {
+    "label": "Nationalité",
+    "video": "http://lsf.education.fr/videos/nationalite.flv"
   },
   "naturel": {
-    "mot": "Naturel",
-    "url": "http://lsf.education.fr/videos/naturel.flv"
+    "label": "Naturel",
+    "video": "http://lsf.education.fr/videos/naturel.flv"
   },
   "neurologie": {
-    "mot": "Neurologie",
-    "url": "http://lsf.education.fr/videos/neurologie.flv"
+    "label": "Neurologie",
+    "video": "http://lsf.education.fr/videos/neurologie.flv"
   },
   "neutre": {
-    "mot": "Neutre",
-    "url": "http://lsf.education.fr/videos/neutre.flv"
+    "label": "Neutre",
+    "video": "http://lsf.education.fr/videos/neutre.flv"
   },
-  "nîmes": {
-    "mot": "Nîmes",
-    "url": "http://lsf.education.fr/videos/nîmes.flv"
+  "nimes": {
+    "label": "Nîmes",
+    "video": "http://lsf.education.fr/videos/nimes.flv"
   },
   "niveau": {
-    "mot": "Niveau",
-    "url": "http://lsf.education.fr/videos/niveau.flv"
+    "label": "Niveau",
+    "video": "http://lsf.education.fr/videos/niveau.flv"
   },
   "normal": {
-    "mot": "Normal",
-    "url": "http://lsf.education.fr/videos/normal.flv"
+    "label": "Normal",
+    "video": "http://lsf.education.fr/videos/normal.flv"
   },
-  "norvège": {
-    "mot": "Norvège",
-    "url": "http://lsf.education.fr/videos/norvège.flv"
+  "norvege": {
+    "label": "Norvège",
+    "video": "http://lsf.education.fr/videos/norvege.flv"
   },
   "notaire": {
-    "mot": "Notaire",
-    "url": "http://lsf.education.fr/videos/notaire.flv"
+    "label": "Notaire",
+    "video": "http://lsf.education.fr/videos/notaire.flv"
   },
-  "nucléaire": {
-    "mot": "Nucléaire",
-    "url": "http://lsf.education.fr/videos/nucléaire.flv"
+  "nucleaire": {
+    "label": "Nucléaire",
+    "video": "http://lsf.education.fr/videos/nucleaire.flv"
   },
   "objectif": {
-    "mot": "Objectif",
-    "url": "http://lsf.education.fr/videos/objectif.flv"
+    "label": "Objectif",
+    "video": "http://lsf.education.fr/videos/objectif.flv"
   },
   "objection": {
-    "mot": "Objection",
-    "url": "http://lsf.education.fr/videos/objection.flv"
+    "label": "Objection",
+    "video": "http://lsf.education.fr/videos/objection.flv"
   },
   "obligation": {
-    "mot": "Obligation",
-    "url": "http://lsf.education.fr/videos/obligation.flv"
+    "label": "Obligation",
+    "video": "http://lsf.education.fr/videos/obligation.flv"
   },
   "observateur": {
-    "mot": "Observateur",
-    "url": "http://lsf.education.fr/videos/observateur.flv"
+    "label": "Observateur",
+    "video": "http://lsf.education.fr/videos/observateur.flv"
   },
   "officiel": {
-    "mot": "Officiel",
-    "url": "http://lsf.education.fr/videos/officiel.flv"
+    "label": "Officiel",
+    "video": "http://lsf.education.fr/videos/officiel.flv"
   },
   "oppression": {
-    "mot": "Oppression",
-    "url": "http://lsf.education.fr/videos/oppression.flv"
+    "label": "Oppression",
+    "video": "http://lsf.education.fr/videos/oppression.flv"
   },
   "oral": {
-    "mot": "Oral",
-    "url": "http://lsf.education.fr/videos/oral.flv"
+    "label": "Oral",
+    "video": "http://lsf.education.fr/videos/oral.flv"
   },
   "organiser": {
-    "mot": "Organiser",
-    "url": "http://lsf.education.fr/videos/organiser.flv"
+    "label": "Organiser",
+    "video": "http://lsf.education.fr/videos/organiser.flv"
   },
   "origine": {
-    "mot": "Origine",
-    "url": "http://lsf.education.fr/videos/origine.flv"
+    "label": "Origine",
+    "video": "http://lsf.education.fr/videos/origine.flv"
   },
-  "orléans": {
-    "mot": "Orléans",
-    "url": "http://lsf.education.fr/videos/orléans.flv"
+  "orleans": {
+    "label": "Orléans",
+    "video": "http://lsf.education.fr/videos/orleans.flv"
   },
   "outil": {
-    "mot": "Outil",
-    "url": "http://lsf.education.fr/videos/outil.flv"
+    "label": "Outil",
+    "video": "http://lsf.education.fr/videos/outil.flv"
   },
-  "pâques": {
-    "mot": "Pâques",
-    "url": "http://lsf.education.fr/videos/pâques.flv"
+  "paques": {
+    "label": "Pâques",
+    "video": "http://lsf.education.fr/videos/paques.flv"
   },
   "paris": {
-    "mot": "Paris",
-    "url": "http://lsf.education.fr/videos/paris.flv"
+    "label": "Paris",
+    "video": "http://lsf.education.fr/videos/paris.flv"
   },
-  "pédagogie": {
-    "mot": "Pédagogie",
-    "url": "http://lsf.education.fr/videos/pédagogie.flv"
+  "pedagogie": {
+    "label": "Pédagogie",
+    "video": "http://lsf.education.fr/videos/pedagogie.flv"
   },
-  "pédophilie": {
-    "mot": "Pédophilie",
-    "url": "http://lsf.education.fr/videos/pédophilie.flv"
+  "pedophilie": {
+    "label": "Pédophilie",
+    "video": "http://lsf.education.fr/videos/pedophilie.flv"
   },
   "pharmacie": {
-    "mot": "Pharmacie",
-    "url": "http://lsf.education.fr/videos/pharmacie.flv"
+    "label": "Pharmacie",
+    "video": "http://lsf.education.fr/videos/pharmacie.flv"
   },
   "philosophe": {
-    "mot": "Philosophe",
-    "url": "http://lsf.education.fr/videos/philosophe.flv"
+    "label": "Philosophe",
+    "video": "http://lsf.education.fr/videos/philosophe.flv"
   },
   "photocopie": {
-    "mot": "Photocopie",
-    "url": "http://lsf.education.fr/videos/photocopie.flv"
+    "label": "Photocopie",
+    "video": "http://lsf.education.fr/videos/photocopie.flv"
   },
   "photographie": {
-    "mot": "Photographie",
-    "url": "http://lsf.education.fr/videos/photographie.flv"
+    "label": "Photographie",
+    "video": "http://lsf.education.fr/videos/photographie.flv"
   },
   "physique": {
-    "mot": "Physique",
-    "url": "http://lsf.education.fr/videos/physique.flv"
+    "label": "Physique",
+    "video": "http://lsf.education.fr/videos/physique.flv"
   },
   "plastique": {
-    "mot": "Plastique",
-    "url": "http://lsf.education.fr/videos/plastique.flv"
+    "label": "Plastique",
+    "video": "http://lsf.education.fr/videos/plastique.flv"
   },
   "plombier": {
-    "mot": "Plombier",
-    "url": "http://lsf.education.fr/videos/plombier.flv"
+    "label": "Plombier",
+    "video": "http://lsf.education.fr/videos/plombier.flv"
   },
-  "poème": {
-    "mot": "Poème",
-    "url": "http://lsf.education.fr/videos/poème.flv"
+  "poeme": {
+    "label": "Poème",
+    "video": "http://lsf.education.fr/videos/poeme.flv"
   },
   "poitiers": {
-    "mot": "Poitiers",
-    "url": "http://lsf.education.fr/videos/poitiers.flv"
+    "label": "Poitiers",
+    "video": "http://lsf.education.fr/videos/poitiers.flv"
   },
   "politique": {
-    "mot": "Politique",
-    "url": "http://lsf.education.fr/videos/politique.flv"
+    "label": "Politique",
+    "video": "http://lsf.education.fr/videos/politique.flv"
   },
   "positif": {
-    "mot": "Positif",
-    "url": "http://lsf.education.fr/videos/positif.flv"
+    "label": "Positif",
+    "video": "http://lsf.education.fr/videos/positif.flv"
   },
   "pouvoir": {
-    "mot": "Pouvoir",
-    "url": "http://lsf.education.fr/videos/pouvoir.flv"
+    "label": "Pouvoir",
+    "video": "http://lsf.education.fr/videos/pouvoir.flv"
   },
-  "priorité": {
-    "mot": "Priorité",
-    "url": "http://lsf.education.fr/videos/priorité.flv"
+  "priorite": {
+    "label": "Priorité",
+    "video": "http://lsf.education.fr/videos/priorite.flv"
   },
-  "privé": {
-    "mot": "Privé",
-    "url": "http://lsf.education.fr/videos/privé.flv"
+  "prive": {
+    "label": "Privé",
+    "video": "http://lsf.education.fr/videos/prive.flv"
   },
-  "problème": {
-    "mot": "Problème",
-    "url": "http://lsf.education.fr/videos/problème.flv"
+  "probleme": {
+    "label": "Problème",
+    "video": "http://lsf.education.fr/videos/probleme.flv"
   },
   "production": {
-    "mot": "Production",
-    "url": "http://lsf.education.fr/videos/production.flv"
+    "label": "Production",
+    "video": "http://lsf.education.fr/videos/production.flv"
   },
   "programme": {
-    "mot": "Programme",
-    "url": "http://lsf.education.fr/videos/programme.flv"
+    "label": "Programme",
+    "video": "http://lsf.education.fr/videos/programme.flv"
   },
   "proposition": {
-    "mot": "Proposition",
-    "url": "http://lsf.education.fr/videos/proposition.flv"
+    "label": "Proposition",
+    "video": "http://lsf.education.fr/videos/proposition.flv"
   },
   "radioactif": {
-    "mot": "Radioactif",
-    "url": "http://lsf.education.fr/videos/radioactif.flv"
+    "label": "Radioactif",
+    "video": "http://lsf.education.fr/videos/radioactif.flv"
   },
   "recherche": {
-    "mot": "Recherche",
-    "url": "http://lsf.education.fr/videos/recherche.flv"
+    "label": "Recherche",
+    "video": "http://lsf.education.fr/videos/recherche.flv"
   },
   "reims": {
-    "mot": "Reims",
-    "url": "http://lsf.education.fr/videos/reims.flv"
+    "label": "Reims",
+    "video": "http://lsf.education.fr/videos/reims.flv"
   },
   "relation": {
-    "mot": "Relation",
-    "url": "http://lsf.education.fr/videos/relation.flv"
+    "label": "Relation",
+    "video": "http://lsf.education.fr/videos/relation.flv"
   },
   "rennes": {
-    "mot": "Rennes",
-    "url": "http://lsf.education.fr/videos/rennes.flv"
+    "label": "Rennes",
+    "video": "http://lsf.education.fr/videos/rennes.flv"
   },
   "responsable": {
-    "mot": "Responsable",
-    "url": "http://lsf.education.fr/videos/responsable.flv"
+    "label": "Responsable",
+    "video": "http://lsf.education.fr/videos/responsable.flv"
   },
   "restauration": {
-    "mot": "Restauration",
-    "url": "http://lsf.education.fr/videos/restauration.flv"
+    "label": "Restauration",
+    "video": "http://lsf.education.fr/videos/restauration.flv"
   },
-  "révision": {
-    "mot": "Révision",
-    "url": "http://lsf.education.fr/videos/révision.flv"
+  "revision": {
+    "label": "Révision",
+    "video": "http://lsf.education.fr/videos/revision.flv"
   },
   "rival": {
-    "mot": "Rival",
-    "url": "http://lsf.education.fr/videos/rival.flv"
+    "label": "Rival",
+    "video": "http://lsf.education.fr/videos/rival.flv"
   },
   "roi": {
-    "mot": "Roi",
-    "url": "http://lsf.education.fr/videos/roi.flv"
+    "label": "Roi",
+    "video": "http://lsf.education.fr/videos/roi.flv"
   },
-  "rôle": {
-    "mot": "Rôle",
-    "url": "http://lsf.education.fr/videos/rôle.flv"
+  "role": {
+    "label": "Rôle",
+    "video": "http://lsf.education.fr/videos/role.flv"
   },
   "rome": {
-    "mot": "Rome",
-    "url": "http://lsf.education.fr/videos/rome.flv"
+    "label": "Rome",
+    "video": "http://lsf.education.fr/videos/rome.flv"
   },
   "roumanie": {
-    "mot": "Roumanie",
-    "url": "http://lsf.education.fr/videos/roumanie.flv"
+    "label": "Roumanie",
+    "video": "http://lsf.education.fr/videos/roumanie.flv"
   },
   "russie": {
-    "mot": "Russie",
-    "url": "http://lsf.education.fr/videos/russie.flv"
+    "label": "Russie",
+    "video": "http://lsf.education.fr/videos/russie.flv"
   },
-  "saint etienne": {
-    "mot": "Saint Etienne",
-    "url": "http://lsf.education.fr/videos/saint etienne.flv"
+  "saint_etienne": {
+    "label": "Saint Etienne",
+    "video": "http://lsf.education.fr/videos/saint_etienne.flv"
   },
-  "santé": {
-    "mot": "Santé",
-    "url": "http://lsf.education.fr/videos/santé.flv"
+  "sante": {
+    "label": "Santé",
+    "video": "http://lsf.education.fr/videos/sante.flv"
   },
   "scanner": {
-    "mot": "Scanner",
-    "url": "http://lsf.education.fr/videos/scanner.flv"
+    "label": "Scanner",
+    "video": "http://lsf.education.fr/videos/scanner.flv"
   },
-  "schizophrène": {
-    "mot": "Schizophrène",
-    "url": "http://lsf.education.fr/videos/schizophrène.flv"
+  "schizophrene": {
+    "label": "Schizophrène",
+    "video": "http://lsf.education.fr/videos/schizophrene.flv"
   },
   "sculpture": {
-    "mot": "Sculpture",
-    "url": "http://lsf.education.fr/videos/sculpture.flv"
+    "label": "Sculpture",
+    "video": "http://lsf.education.fr/videos/sculpture.flv"
   },
-  "secrétariat": {
-    "mot": "Secrétariat",
-    "url": "http://lsf.education.fr/videos/secrétariat.flv"
+  "secretariat": {
+    "label": "Secrétariat",
+    "video": "http://lsf.education.fr/videos/secretariat.flv"
   },
-  "ségrégation": {
-    "mot": "Ségrégation",
-    "url": "http://lsf.education.fr/videos/ségrégation.flv"
+  "segrégation": {
+    "label": "Ségrégation",
+    "video": "http://lsf.education.fr/videos/segrégation.flv"
   },
-  "séisme": {
-    "mot": "Séisme",
-    "url": "http://lsf.education.fr/videos/séisme.flv"
+  "seisme": {
+    "label": "Séisme",
+    "video": "http://lsf.education.fr/videos/seisme.flv"
   },
-  "sélection": {
-    "mot": "Sélection",
-    "url": "http://lsf.education.fr/videos/sélection.flv"
+  "selection": {
+    "label": "Sélection",
+    "video": "http://lsf.education.fr/videos/selection.flv"
   },
   "social": {
-    "mot": "Social",
-    "url": "http://lsf.education.fr/videos/social.flv"
+    "label": "Social",
+    "video": "http://lsf.education.fr/videos/social.flv"
   },
   "soigner": {
-    "mot": "Soigner",
-    "url": "http://lsf.education.fr/videos/soigner.flv"
+    "label": "Soigner",
+    "video": "http://lsf.education.fr/videos/soigner.flv"
   },
   "soldat": {
-    "mot": "Soldat",
-    "url": "http://lsf.education.fr/videos/soldat.flv"
+    "label": "Soldat",
+    "video": "http://lsf.education.fr/videos/soldat.flv"
   },
   "sous-titrage": {
-    "mot": "Sous-Titrage",
-    "url": "http://lsf.education.fr/videos/sous-titrage.flv"
+    "label": "Sous-Titrage",
+    "video": "http://lsf.education.fr/videos/sous-titrage.flv"
   },
   "sport": {
-    "mot": "Sport",
-    "url": "http://lsf.education.fr/videos/sport.flv"
+    "label": "Sport",
+    "video": "http://lsf.education.fr/videos/sport.flv"
   },
   "statuts": {
-    "mot": "Statuts",
-    "url": "http://lsf.education.fr/videos/statuts.flv"
+    "label": "Statuts",
+    "video": "http://lsf.education.fr/videos/statuts.flv"
   },
   "strasbourg": {
-    "mot": "Strasbourg",
-    "url": "http://lsf.education.fr/videos/strasbourg.flv"
+    "label": "Strasbourg",
+    "video": "http://lsf.education.fr/videos/strasbourg.flv"
   },
   "subvention": {
-    "mot": "Subvention",
-    "url": "http://lsf.education.fr/videos/subvention.flv"
+    "label": "Subvention",
+    "video": "http://lsf.education.fr/videos/subvention.flv"
   },
-  "suède": {
-    "mot": "Suède",
-    "url": "http://lsf.education.fr/videos/suède.flv"
+  "suede": {
+    "label": "Suède",
+    "video": "http://lsf.education.fr/videos/suede.flv"
   },
   "symbole": {
-    "mot": "Symbole",
-    "url": "http://lsf.education.fr/videos/symbole.flv"
+    "label": "Symbole",
+    "video": "http://lsf.education.fr/videos/symbole.flv"
   },
   "sympathie": {
-    "mot": "Sympathie",
-    "url": "http://lsf.education.fr/videos/sympathie.flv"
+    "label": "Sympathie",
+    "video": "http://lsf.education.fr/videos/sympathie.flv"
   },
   "syndicat": {
-    "mot": "Syndicat",
-    "url": "http://lsf.education.fr/videos/syndicat.flv"
+    "label": "Syndicat",
+    "video": "http://lsf.education.fr/videos/syndicat.flv"
   },
   "tarif": {
-    "mot": "Tarif",
-    "url": "http://lsf.education.fr/videos/tarif.flv"
+    "label": "Tarif",
+    "video": "http://lsf.education.fr/videos/tarif.flv"
   },
   "taxe": {
-    "mot": "Taxe",
-    "url": "http://lsf.education.fr/videos/taxe.flv"
+    "label": "Taxe",
+    "video": "http://lsf.education.fr/videos/taxe.flv"
   },
   "technique": {
-    "mot": "Technique",
-    "url": "http://lsf.education.fr/videos/technique.flv"
+    "label": "Technique",
+    "video": "http://lsf.education.fr/videos/technique.flv"
   },
-  "télécommunications": {
-    "mot": "Télécommunications",
-    "url": "http://lsf.education.fr/videos/télécommunications.flv"
+  "telécommunications": {
+    "label": "Télécommunications",
+    "video": "http://lsf.education.fr/videos/telécommunications.flv"
   },
-  "télévision": {
-    "mot": "Télévision",
-    "url": "http://lsf.education.fr/videos/télévision.flv"
+  "telévision": {
+    "label": "Télévision",
+    "video": "http://lsf.education.fr/videos/telévision.flv"
   },
   "terre": {
-    "mot": "Terre",
-    "url": "http://lsf.education.fr/videos/terre.flv"
+    "label": "Terre",
+    "video": "http://lsf.education.fr/videos/terre.flv"
   },
-  "théâtre": {
-    "mot": "Théâtre",
-    "url": "http://lsf.education.fr/videos/théâtre.flv"
+  "theatre": {
+    "label": "Théâtre",
+    "video": "http://lsf.education.fr/videos/theatre.flv"
   },
-  "théorie": {
-    "mot": "Théorie",
-    "url": "http://lsf.education.fr/videos/théorie.flv"
+  "theorie": {
+    "label": "Théorie",
+    "video": "http://lsf.education.fr/videos/theorie.flv"
   },
-  "thermomètre": {
-    "mot": "Thermomètre",
-    "url": "http://lsf.education.fr/videos/thermomètre.flv"
+  "thermometre": {
+    "label": "Thermomètre",
+    "video": "http://lsf.education.fr/videos/thermometre.flv"
   },
   "timbre": {
-    "mot": "Timbre",
-    "url": "http://lsf.education.fr/videos/timbre.flv"
+    "label": "Timbre",
+    "video": "http://lsf.education.fr/videos/timbre.flv"
   },
   "toulouse": {
-    "mot": "Toulouse",
-    "url": "http://lsf.education.fr/videos/toulouse.flv"
+    "label": "Toulouse",
+    "video": "http://lsf.education.fr/videos/toulouse.flv"
   },
   "tourisme": {
-    "mot": "Tourisme",
-    "url": "http://lsf.education.fr/videos/tourisme.flv"
+    "label": "Tourisme",
+    "video": "http://lsf.education.fr/videos/tourisme.flv"
   },
   "tours": {
-    "mot": "Tours",
-    "url": "http://lsf.education.fr/videos/tours.flv"
+    "label": "Tours",
+    "video": "http://lsf.education.fr/videos/tours.flv"
   },
   "toxique": {
-    "mot": "Toxique",
-    "url": "http://lsf.education.fr/videos/toxique.flv"
+    "label": "Toxique",
+    "video": "http://lsf.education.fr/videos/toxique.flv"
   },
   "trajectoire": {
-    "mot": "Trajectoire",
-    "url": "http://lsf.education.fr/videos/trajectoire.flv"
+    "label": "Trajectoire",
+    "video": "http://lsf.education.fr/videos/trajectoire.flv"
   },
   "transport": {
-    "mot": "Transport",
-    "url": "http://lsf.education.fr/videos/transport.flv"
+    "label": "Transport",
+    "video": "http://lsf.education.fr/videos/transport.flv"
   },
   "trimestre": {
-    "mot": "Trimestre",
-    "url": "http://lsf.education.fr/videos/trimestre.flv"
+    "label": "Trimestre",
+    "video": "http://lsf.education.fr/videos/trimestre.flv"
   },
-  "trophée": {
-    "mot": "Trophée",
-    "url": "http://lsf.education.fr/videos/trophée.flv"
+  "trophee": {
+    "label": "Trophée",
+    "video": "http://lsf.education.fr/videos/trophee.flv"
   },
   "typique": {
-    "mot": "Typique",
-    "url": "http://lsf.education.fr/videos/typique.flv"
+    "label": "Typique",
+    "video": "http://lsf.education.fr/videos/typique.flv"
   },
   "usine": {
-    "mot": "Usine",
-    "url": "http://lsf.education.fr/videos/usine.flv"
+    "label": "Usine",
+    "video": "http://lsf.education.fr/videos/usine.flv"
   },
   "vaccination": {
-    "mot": "Vaccination",
-    "url": "http://lsf.education.fr/videos/vaccination.flv"
+    "label": "Vaccination",
+    "video": "http://lsf.education.fr/videos/vaccination.flv"
   },
   "vaincre": {
-    "mot": "Vaincre",
-    "url": "http://lsf.education.fr/videos/vaincre.flv"
+    "label": "Vaincre",
+    "video": "http://lsf.education.fr/videos/vaincre.flv"
   },
-  "vallée": {
-    "mot": "Vallée",
-    "url": "http://lsf.education.fr/videos/vallée.flv"
+  "vallee": {
+    "label": "Vallée",
+    "video": "http://lsf.education.fr/videos/vallee.flv"
   },
-  "vanité": {
-    "mot": "Vanité",
-    "url": "http://lsf.education.fr/videos/vanité.flv"
+  "vanite": {
+    "label": "Vanité",
+    "video": "http://lsf.education.fr/videos/vanite.flv"
   },
   "verglas": {
-    "mot": "Verglas",
-    "url": "http://lsf.education.fr/videos/verglas.flv"
+    "label": "Verglas",
+    "video": "http://lsf.education.fr/videos/verglas.flv"
   },
   "vibration": {
-    "mot": "Vibration",
-    "url": "http://lsf.education.fr/videos/vibration.flv"
+    "label": "Vibration",
+    "video": "http://lsf.education.fr/videos/vibration.flv"
   },
   "victoire": {
-    "mot": "Victoire",
-    "url": "http://lsf.education.fr/videos/victoire.flv"
+    "label": "Victoire",
+    "video": "http://lsf.education.fr/videos/victoire.flv"
   },
   "ville": {
-    "mot": "Ville",
-    "url": "http://lsf.education.fr/videos/ville.flv"
+    "label": "Ville",
+    "video": "http://lsf.education.fr/videos/ville.flv"
   },
   "virus": {
-    "mot": "Virus",
-    "url": "http://lsf.education.fr/videos/virus.flv"
+    "label": "Virus",
+    "video": "http://lsf.education.fr/videos/virus.flv"
   },
   "voir": {
-    "mot": "Voir",
-    "url": "http://lsf.education.fr/videos/voir.flv"
+    "label": "Voir",
+    "video": "http://lsf.education.fr/videos/voir.flv"
   },
   "zoo": {
-    "mot": "Zoo",
-    "url": "http://lsf.education.fr/videos/zoo.flv"
+    "label": "Zoo",
+    "video": "http://lsf.education.fr/videos/zoo.flv"
   }
 }

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Résultats</h1>
+    <h1>{{count}} Résultats</h1>
     <ul id="resultats">
       <li v-for="mot in vocabulaire">
         <a :href="mot.video">
@@ -26,17 +26,11 @@ export default {
       .then(response => {
         this.vocabulaire = response.body;
       });
+  },
+  computed: {
+    count: function() {
+      return Object.keys(this.vocabulaire).length;
+    }
   }
 };
 </script>
-
-<style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

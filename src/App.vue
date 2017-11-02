@@ -20,6 +20,14 @@
 </template>
 
 <script>
+import got from 'got';
+
+let vocabulary = got.get(
+  'https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/vocabulaire.json',
+  { json: true }
+);
+console.log(vocabulary);
+
 export default {
   name: 'app',
   data() {

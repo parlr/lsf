@@ -8,6 +8,7 @@ module.exports = {
     publicPath: '/dist/',
     filename: 'build.js'
   },
+  plugins: [new webpack.IgnorePlugin(/^electron$/)],
   module: {
     rules: [
       {

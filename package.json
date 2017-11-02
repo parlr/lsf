@@ -1,0 +1,13 @@
+{
+  "name": "lsf",
+  "version": "0.1.0",
+  "description": "Apprendre le vocabulaire LSF (Langue des Signes Française)",
+  "main": "index.js",
+  "repository": "git@github.com:edouard-lopez/lsf.git",
+  "author": "Edouard Lopez <contact@edouard-lopez.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}

@@ -31,9 +31,12 @@
       ]
     ]
   },
+  "engines": {
+    "node": "^4.5 || 6.* || >= 7.*"
+  },
   "name": "lsf",
   "description": "Apprendre le vocabulaire LSF (Langue des Signes Française)",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "repository": "git@github.com:edouard-lopez/lsf.git",
   "author": "Edouard Lopez <contact@edouard-lopez.com>"
 }

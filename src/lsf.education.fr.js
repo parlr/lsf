@@ -9,16 +9,17 @@
 */
 function gatherWords() {
   let mots = document.querySelectorAll('.words');
-  const lsf = {};
+  const lsf = [];
 
   mots.forEach(item => {
     let mot = item.textContent;
-    let cle = clean(mot);
+    let key = clean(mot);
 
-    lsf[cle] = {
+    lsf.push({
+      key,
       label: mot,
-      video: `http://lsf.education.fr/videos/${cle}.flv`
-    };
+      video: `http://lsf.education.fr/videos/${key}.flv`
+    });
   });
   return lsf;
 }

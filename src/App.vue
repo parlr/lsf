@@ -16,12 +16,20 @@ export default {
 </script>
 
 <style lang="scss">
-#app {
+body {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  background-color: #FDFDFD;
+  margin: 0;
+}
+
+a:active, a:focus, a:hover {
+  color: #c13c27;
+}
+a {
+  color: #dd6a58;
+  transition: color 0.1s linear;
 }
 </style>

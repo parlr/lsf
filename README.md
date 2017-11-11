@@ -4,9 +4,9 @@
 
 ## Todo
 
-* [ ] afficher la liste de mots
+* [x] afficher la liste de mots
 * [ ] jouer une video
-* [ ] filtrer la liste
+* [x] filtrer la liste
 * [ ] stocker le JSON sur Firebase
 * [ ] marquer comme vu
 * [ ] étendre le vocabulaire (mot/video)

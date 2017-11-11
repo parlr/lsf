@@ -1,16 +1,56 @@
 <template>
   <div id="app">
-    <results-list></results-list>
+    <header class="header">
+      <h2>{{count}} Résultats</h2>
+      <input v-model="search" placeholder="comment signer…">
+    </header>
+    <main>
+      <aside>
+        <figure>
+          <div id="player" ref="player" class="player"></div>
+          <figcaption><b>{{videoPlaying}}</b></figcaption>
+        </figure>
+      </aside>
+      <ul id="resultats">
+        <li v-for="mot in filteredMots">
+          <span @click="play(mot)" :id="mot.key">
+            <span v-html="$options.filters.highlight(mot.label, search)"></span>
+          </span>
+        </li>
+      </ul>
+    </main>
   </div>
 </template>
 
 <script>
-import resultsList from './components/results-list.vue';
+import got from 'got';
+import dataset from './assets/vocabulaire.json';
 
 export default {
   name: 'app',
-  components: {
-    'results-list': resultsList
+  data: function() {
+    return {
+      search: '',
+      vocabulaire: [],
+      videoPlaying: undefined
+    };
+  },
+  created: function() {
+    this.vocabulaire = dataset;
+  },
+  computed: {
+    count: function() {
+      return this.filteredMots.length;
+    },
+    filteredMots: function() {
+      return this.vocabulaire.filter(
+        mot =>
+          mot.label.indexOf(this.search) !== -1 ||
+          mot.key.indexOf(this.search) !== -1
+      );
+    }
+  },
+  methods: {
   }
 };
 </script>
@@ -31,5 +71,22 @@ a:active, a:focus, a:hover {
 a {
   color: #dd6a58;
   transition: color 0.1s linear;
+}
+
+.header {
+  background-color: #E04E39;
+  color: white;
+  padding: .5rem;
+}
+h1 { padding: 0; margin: 0}
+li { line-height: 1.5rem;}
+.player {
+  display:block;
+  width:425px;
+  height:300px;
+}
+.highlight {
+  background-color: #F8E7CF;
+  color: #444;
 }
 </style>

@@ -1,6 +1,7 @@
 /**
- 1. run in a Firefox console
- 2. copy `vocabulaire` content to clipboard:
+ 1. Visit http://lsf.education.fr/
+ 2. run below script in a Firefox console
+ 3. copy `vocabulaire` content to clipboard:
   1. Right-click the object and select _Store as global variable_
   2. type in the console:
 

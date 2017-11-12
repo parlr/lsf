@@ -1,3 +1,4 @@
+src/assets/flv/*
 .DS_Store
 node_modules/
 dist/

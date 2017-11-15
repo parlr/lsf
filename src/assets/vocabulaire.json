@@ -2,2351 +2,2351 @@
   {
     "key": "abbaye",
     "label": "Abbaye",
-    "video": "http://lsf.education.fr/videos/abbaye.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/abbaye.webm"
   },
   {
     "key": "abdiquer",
     "label": "Abdiquer",
-    "video": "http://lsf.education.fr/videos/abdiquer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/abdiquer.webm"
   },
   {
     "key": "ablation",
     "label": "Ablation",
-    "video": "http://lsf.education.fr/videos/ablation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ablation.webm"
   },
   {
     "key": "abonnement",
     "label": "Abonnement",
-    "video": "http://lsf.education.fr/videos/abonnement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/abonnement.webm"
   },
   {
     "key": "academie",
     "label": "Académie",
-    "video": "http://lsf.education.fr/videos/academie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/academie.webm"
   },
   {
     "key": "accident",
     "label": "Accident",
-    "video": "http://lsf.education.fr/videos/accident-voiture.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accident-voiture.webm"
   },
   {
     "key": "accompagner",
     "label": "Accompagner",
-    "video": "http://lsf.education.fr/videos/accompagner.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accompagner.webm"
   },
   {
     "key": "accord",
     "label": "Accord",
-    "video": "http://lsf.education.fr/videos/accord.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accord.webm"
   },
   {
     "key": "acide",
     "label": "Acide",
-    "video": "http://lsf.education.fr/videos/acide.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/acide.webm"
   },
   {
     "key": "acoustique",
     "label": "Acoustique",
-    "video": "http://lsf.education.fr/videos/accoustique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accoustique.webm"
   },
   {
     "key": "action",
     "label": "Action",
-    "video": "http://lsf.education.fr/videos/action.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/action.webm"
   },
   {
     "key": "adaptation",
     "label": "Adaptation",
-    "video": "http://lsf.education.fr/videos/adaptation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adaptation.webm"
   },
   {
     "key": "adherer",
     "label": "Adhérer",
-    "video": "http://lsf.education.fr/videos/adherer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adherer.webm"
   },
   {
     "key": "adjuger",
     "label": "Adjuger",
-    "video": "http://lsf.education.fr/videos/adjuger.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adjuger.webm"
   },
   {
     "key": "administrer",
     "label": "Administrer",
-    "video": "http://lsf.education.fr/videos/administrer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/administrer.webm"
   },
   {
     "key": "adversaire",
     "label": "Adversaire",
-    "video": "http://lsf.education.fr/videos/adversaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adversaire.webm"
   },
   {
     "key": "affaire",
     "label": "Affaire",
-    "video": "http://lsf.education.fr/videos/affaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/affaire.webm"
   },
   {
     "key": "agence",
     "label": "Agence",
-    "video": "http://lsf.education.fr/videos/agence.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/agence.webm"
   },
   {
     "key": "agression",
     "label": "Agression",
-    "video": "http://lsf.education.fr/videos/agression.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/agression.webm"
   },
   {
     "key": "agriculture",
     "label": "Agriculture",
-    "video": "http://lsf.education.fr/videos/agriculture.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/agriculture.webm"
   },
   {
     "key": "albi",
     "label": "Albi",
-    "video": "http://lsf.education.fr/videos/albi.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/albi.webm"
   },
   {
     "key": "album_de_photos",
     "label": "Album de photos",
-    "video": "http://lsf.education.fr/videos/album_de_photos.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/album_de_photos.webm"
   },
   {
     "key": "algerie",
     "label": "Algérie",
-    "video": "http://lsf.education.fr/videos/algerie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/algerie.webm"
   },
   {
     "key": "allemagne",
     "label": "Allemagne",
-    "video": "http://lsf.education.fr/videos/allemagne.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/allemagne.webm"
   },
   {
     "key": "alliance",
     "label": "Alliance",
-    "video": "http://lsf.education.fr/videos/s'allier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/s'allier.webm"
   },
   {
     "key": "ambiance",
     "label": "Ambiance",
-    "video": "http://lsf.education.fr/videos/ambiance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ambiance.webm"
   },
   {
     "key": "ambition",
     "label": "Ambition",
-    "video": "http://lsf.education.fr/videos/ambition.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ambition.webm"
   },
   {
     "key": "analyse",
     "label": "Analyse",
-    "video": "http://lsf.education.fr/videos/analyse.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/analyse.webm"
   },
   {
     "key": "anatomie",
     "label": "Anatomie",
-    "video": "http://lsf.education.fr/videos/anatomie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/anatomie.webm"
   },
   {
     "key": "angers",
     "label": "Angers",
-    "video": "http://lsf.education.fr/videos/angers.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/angers.webm"
   },
   {
     "key": "anonyme",
     "label": "Anonyme",
-    "video": "http://lsf.education.fr/videos/anonyme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/anonyme.webm"
   },
   {
     "key": "antiquite",
     "label": "Antiquité",
-    "video": "http://lsf.education.fr/videos/antiquite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/antiquite.webm"
   },
   {
     "key": "aorte",
     "label": "Aorte",
-    "video": "http://lsf.education.fr/videos/aorte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/aorte.webm"
   },
   {
     "key": "apesanteur",
     "label": "Apesanteur",
-    "video": "http://lsf.education.fr/videos/apesanteur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/apesanteur.webm"
   },
   {
     "key": "architecte",
     "label": "Architecte",
-    "video": "http://lsf.education.fr/videos/architecte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/architecte.webm"
   },
   {
     "key": "archives",
     "label": "Archives",
-    "video": "http://lsf.education.fr/videos/archives.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/archives.webm"
   },
   {
     "key": "articulation",
     "label": "Articulation",
-    "video": "http://lsf.education.fr/videos/articulation-os.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/articulation-os.webm"
   },
   {
     "key": "arts",
     "label": "Arts",
-    "video": "http://lsf.education.fr/videos/arts.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/arts.webm"
   },
   {
     "key": "assemblee_nationale",
     "label": "Assemblée nationale",
-    "video": "http://lsf.education.fr/videos/assemblee_nationale.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/assemblee_nationale.webm"
   },
   {
     "key": "association",
     "label": "Association",
-    "video": "http://lsf.education.fr/videos/association.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/association.webm"
   },
   {
     "key": "assurance",
     "label": "Assurance",
-    "video": "http://lsf.education.fr/videos/assurance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/assurance.webm"
   },
   {
     "key": "asthme",
     "label": "Asthme",
-    "video": "http://lsf.education.fr/videos/asthme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/asthme.webm"
   },
   {
     "key": "atome",
     "label": "Atome",
-    "video": "http://lsf.education.fr/videos/atome.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/atome.webm"
   },
   {
     "key": "attestation",
     "label": "Attestation",
-    "video": "http://lsf.education.fr/videos/attestation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/attestation.webm"
   },
   {
     "key": "audiogramme",
     "label": "Audiogramme",
-    "video": "http://lsf.education.fr/videos/audiogramme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/audiogramme.webm"
   },
   {
     "key": "audiovisuel",
     "label": "Audiovisuel",
-    "video": "http://lsf.education.fr/videos/audiovisuel.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/audiovisuel.webm"
   },
   {
     "key": "australie",
     "label": "Australie",
-    "video": "http://lsf.education.fr/videos/australie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/australie.webm"
   },
   {
     "key": "automobile",
     "label": "Automobile",
-    "video": "http://lsf.education.fr/videos/automobile.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/automobile.webm"
   },
   {
     "key": "autonomie",
     "label": "Autonomie",
-    "video": "http://lsf.education.fr/videos/autonomie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/autonomie.webm"
   },
   {
     "key": "autriche",
     "label": "Autriche",
-    "video": "http://lsf.education.fr/videos/autriche.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/autriche.webm"
   },
   {
     "key": "avignon",
     "label": "Avignon",
-    "video": "http://lsf.education.fr/videos/avignon.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/avignon.webm"
   },
   {
     "key": "avocat",
     "label": "Avocat",
-    "video": "http://lsf.education.fr/videos/avocat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/avocat.webm"
   },
   {
     "key": "bac",
     "label": "Bac",
-    "video": "http://lsf.education.fr/videos/bac.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bac.webm"
   },
   {
     "key": "banlieue",
     "label": "Banlieue",
-    "video": "http://lsf.education.fr/videos/banlieue.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/banlieue.webm"
   },
   {
     "key": "banque",
     "label": "Banque",
-    "video": "http://lsf.education.fr/videos/banque.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/banque.webm"
   },
   {
     "key": "banquet",
     "label": "Banquet",
-    "video": "http://lsf.education.fr/videos/banquet.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/banquet.webm"
   },
   {
     "key": "bapteme",
     "label": "Baptême",
-    "video": "http://lsf.education.fr/videos/bapteme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bapteme.webm"
   },
   {
     "key": "base",
     "label": "Base",
-    "video": "http://lsf.education.fr/videos/base.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/base.webm"
   },
   {
     "key": "batiment",
     "label": "Bâtiment",
-    "video": "http://lsf.education.fr/videos/batiment.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/batiment.webm"
   },
   {
     "key": "belgique",
     "label": "Belgique",
-    "video": "http://lsf.education.fr/videos/belgique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/belgique.webm"
   },
   {
     "key": "benefice",
     "label": "Bénéfice",
-    "video": "http://lsf.education.fr/videos/benefice.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/benefice.webm"
   },
   {
     "key": "benevolat",
     "label": "Bénévolat",
-    "video": "http://lsf.education.fr/videos/benevolat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/benevolat.webm"
   },
   {
     "key": "biarritz",
     "label": "Biarritz",
-    "video": "http://lsf.education.fr/videos/biarritz.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/biarritz.webm"
   },
   {
     "key": "bible",
     "label": "Bible",
-    "video": "http://lsf.education.fr/videos/bible.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bible.webm"
   },
   {
     "key": "bibliotheque",
     "label": "Bibliothèque",
-    "video": "http://lsf.education.fr/videos/bibliotheque.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bibliotheque.webm"
   },
   {
     "key": "bilan",
     "label": "Bilan",
-    "video": "http://lsf.education.fr/videos/bilan.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bilan.webm"
   },
   {
     "key": "bilingue",
     "label": "Bilingue",
-    "video": "http://lsf.education.fr/videos/bilinguisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bilinguisme.webm"
   },
   {
     "key": "bilinguisme",
     "label": "Bilinguisme",
-    "video": "http://lsf.education.fr/videos/bilinguisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bilinguisme.webm"
   },
   {
     "key": "biochimie",
     "label": "Biochimie",
-    "video": "http://lsf.education.fr/videos/biochimie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/biochimie.webm"
   },
   {
     "key": "biologie",
     "label": "Biologie",
-    "video": "http://lsf.education.fr/videos/biologie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/biologie.webm"
   },
   {
     "key": "bordeaux",
     "label": "Bordeaux",
-    "video": "http://lsf.education.fr/videos/bordeaux.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bordeaux.webm"
   },
   {
     "key": "bouddhisme",
     "label": "Bouddhisme",
-    "video": "http://lsf.education.fr/videos/boudisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/boudisme.webm"
   },
   {
     "key": "bourgeois",
     "label": "Bourgeois",
-    "video": "http://lsf.education.fr/videos/bourgeois.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bourgeois.webm"
   },
   {
     "key": "bresil",
     "label": "Brésil",
-    "video": "http://lsf.education.fr/videos/bresil.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bresil.webm"
   },
   {
     "key": "bruxelles",
     "label": "Bruxelles",
-    "video": "http://lsf.education.fr/videos/bruxelle.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bruxelle.webm"
   },
   {
     "key": "budget",
     "label": "Budget",
-    "video": "http://lsf.education.fr/videos/budget.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/budget.webm"
   },
   {
     "key": "bulgarie",
     "label": "Bulgarie",
-    "video": "http://lsf.education.fr/videos/bulgarie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bulgarie.webm"
   },
   {
     "key": "cable",
     "label": "Câble",
-    "video": "http://lsf.education.fr/videos/cable.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cable.webm"
   },
   {
     "key": "calcul",
     "label": "Calcul",
-    "video": "http://lsf.education.fr/videos/calcul.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/calcul.webm"
   },
   {
     "key": "calendrier",
     "label": "Calendrier",
-    "video": "http://lsf.education.fr/videos/calendrier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/calendrier.webm"
   },
   {
     "key": "canada",
     "label": "Canada",
-    "video": "http://lsf.education.fr/videos/canada.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/canada.webm"
   },
   {
     "key": "cancer",
     "label": "Cancer",
-    "video": "http://lsf.education.fr/videos/cancer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cancer.webm"
   },
   {
     "key": "candidat",
     "label": "Candidat",
-    "video": "http://lsf.education.fr/videos/candidat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/candidat.webm"
   },
   {
     "key": "capacite",
     "label": "Capacité",
-    "video": "http://lsf.education.fr/videos/capacite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/capacite.webm"
   },
   {
     "key": "capitale",
     "label": "Capitale",
-    "video": "http://lsf.education.fr/videos/capitale.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/capitale.webm"
   },
   {
     "key": "caractere",
     "label": "Caractère",
-    "video": "http://lsf.education.fr/videos/caractere.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/caractere.webm"
   },
   {
     "key": "careme",
     "label": "Carême",
-    "video": "http://lsf.education.fr/videos/careme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/careme.webm"
   },
   {
     "key": "carte_d_identite",
     "label": "Carte d'identité",
-    "video": "http://lsf.education.fr/videos/carte_d_identite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/carte_d_identite.webm"
   },
   {
     "key": "catholique",
     "label": "Catholique",
-    "video": "http://lsf.education.fr/videos/catholique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/catholique.webm"
   },
   {
     "key": "celibataire",
     "label": "Célibataire",
-    "video": "http://lsf.education.fr/videos/celibataire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/celibataire.webm"
   },
   {
     "key": "censure",
     "label": "Censure",
-    "video": "http://lsf.education.fr/videos/censure.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/censure.webm"
   },
   {
     "key": "chambery",
     "label": "Chambéry",
-    "video": "http://lsf.education.fr/videos/chambery.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chambery.webm"
   },
   {
     "key": "charpente",
     "label": "Charpente",
-    "video": "http://lsf.education.fr/videos/charpente.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/charpente.webm"
   },
   {
     "key": "chequier",
     "label": "Chéquier",
-    "video": "http://lsf.education.fr/videos/chequier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chequier.webm"
   },
   {
     "key": "chimie",
     "label": "Chimie",
-    "video": "http://lsf.education.fr/videos/chimie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chimie.webm"
   },
   {
     "key": "chine",
     "label": "Chine",
-    "video": "http://lsf.education.fr/videos/chine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chine.webm"
   },
   {
     "key": "cinema",
     "label": "Cinéma",
-    "video": "http://lsf.education.fr/videos/cinema.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cinema.webm"
   },
   {
     "key": "citoyen",
     "label": "Citoyen",
-    "video": "http://lsf.education.fr/videos/citoyen.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/citoyen.webm"
   },
   {
     "key": "code_de_la_route",
     "label": "Code (de la route)",
-    "video": "http://lsf.education.fr/videos/code_de_la_route.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/code_de_la_route.webm"
   },
   {
     "key": "coiffure",
     "label": "Coiffure",
-    "video": "http://lsf.education.fr/videos/coiffure.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/coiffure.webm"
   },
   {
     "key": "collaboration",
     "label": "Collaboration",
-    "video": "http://lsf.education.fr/videos/collaboration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/collaboration.webm"
   },
   {
     "key": "comedie",
     "label": "Comédie",
-    "video": "http://lsf.education.fr/videos/comedie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comedie.webm"
   },
   {
     "key": "comedien",
     "label": "Comédien",
-    "video": "http://lsf.education.fr/videos/comedien.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comedien.webm"
   },
   {
     "key": "comite",
     "label": "Comité",
-    "video": "http://lsf.education.fr/videos/comite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comite.webm"
   },
   {
     "key": "commerce",
     "label": "Commerce",
-    "video": "http://lsf.education.fr/videos/commerce.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/commerce.webm"
   },
   {
     "key": "commission",
     "label": "Commission",
-    "video": "http://lsf.education.fr/videos/commission.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/commission.webm"
   },
   {
     "key": "communication",
     "label": "Communication",
-    "video": "http://lsf.education.fr/videos/communication.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/communication.webm"
   },
   {
     "key": "communisme",
     "label": "Communisme",
-    "video": "http://lsf.education.fr/videos/communisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/communisme.webm"
   },
   {
     "key": "competent",
     "label": "Compétent",
-    "video": "http://lsf.education.fr/videos/competant.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/competant.webm"
   },
   {
     "key": "competition",
     "label": "Compétition",
-    "video": "http://lsf.education.fr/videos/competition.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/competition.webm"
   },
   {
     "key": "comportement",
     "label": "Comportement",
-    "video": "http://lsf.education.fr/videos/comportement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comportement.webm"
   },
   {
     "key": "compromis",
     "label": "Compromis",
-    "video": "http://lsf.education.fr/videos/compromis.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/compromis.webm"
   },
   {
     "key": "comptabilite",
     "label": "Comptabilité",
-    "video": "http://lsf.education.fr/videos/comptabilite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comptabilite.webm"
   },
   {
     "key": "concentration",
     "label": "Concentration",
-    "video": "http://lsf.education.fr/videos/concentration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concentration.webm"
   },
   {
     "key": "concept",
     "label": "Concept",
-    "video": "http://lsf.education.fr/videos/concept.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concept.webm"
   },
   {
     "key": "concours",
     "label": "Concours",
-    "video": "http://lsf.education.fr/videos/concours.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concours.webm"
   },
   {
     "key": "concurrence",
     "label": "Concurrence",
-    "video": "http://lsf.education.fr/videos/concurrence.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concurrence.webm"
   },
   {
     "key": "conference",
     "label": "Conférence",
-    "video": "http://lsf.education.fr/videos/conference.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conference.webm"
   },
   {
     "key": "confiance",
     "label": "Confiance",
-    "video": "http://lsf.education.fr/videos/confiance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/confiance.webm"
   },
   {
     "key": "conflit",
     "label": "Conflit",
-    "video": "http://lsf.education.fr/videos/conflit.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conflit.webm"
   },
   {
     "key": "congres",
     "label": "Congrès",
-    "video": "http://lsf.education.fr/videos/congrès.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/congrès.webm"
   },
   {
     "key": "connaissance",
     "label": "Connaissance",
-    "video": "http://lsf.education.fr/videos/connaissance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/connaissance.webm"
   },
   {
     "key": "conscience",
     "label": "Conscience",
-    "video": "http://lsf.education.fr/videos/conscience.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conscience.webm"
   },
   {
     "key": "conseiller",
     "label": "Conseiller",
-    "video": "http://lsf.education.fr/videos/conseiller.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conseiller.webm"
   },
   {
     "key": "construction_navale",
     "label": "Construction navale",
-    "video": "http://lsf.education.fr/videos/construction_navale.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/construction_navale.webm"
   },
   {
     "key": "conte",
     "label": "Conte",
-    "video": "http://lsf.education.fr/videos/conte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conte.webm"
   },
   {
     "key": "contrat",
     "label": "Contrat",
-    "video": "http://lsf.education.fr/videos/contrat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/contrat.webm"
   },
   {
     "key": "convaincre",
     "label": "Convaincre",
-    "video": "http://lsf.education.fr/videos/convaincre2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/convaincre2.webm"
   },
   {
     "key": "convention",
     "label": "Convention",
-    "video": "http://lsf.education.fr/videos/convertion.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/convertion.webm"
   },
   {
     "key": "conversation",
     "label": "Conversation",
-    "video": "http://lsf.education.fr/videos/conversation_(discuter).flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conversation_(discuter).webm"
   },
   {
     "key": "convoquer",
     "label": "Convoquer",
-    "video": "http://lsf.education.fr/videos/convoquer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/convoquer.webm"
   },
   {
     "key": "correction",
     "label": "Correction",
-    "video": "http://lsf.education.fr/videos/correction_(annuler).flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/correction_(annuler).webm"
   },
   {
     "key": "cotisation",
     "label": "Cotisation",
-    "video": "http://lsf.education.fr/videos/cotisation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cotisation.webm"
   },
   {
     "key": "coupable",
     "label": "Coupable",
-    "video": "http://lsf.education.fr/videos/coupable.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/coupable.webm"
   },
   {
     "key": "credit",
     "label": "Crédit",
-    "video": "http://lsf.education.fr/videos/credit.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/credit.webm"
   },
   {
     "key": "crime",
     "label": "Crime",
-    "video": "http://lsf.education.fr/videos/crime.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/crime.webm"
   },
   {
     "key": "critiquer",
     "label": "Critiquer",
-    "video": "http://lsf.education.fr/videos/critiquer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/critiquer.webm"
   },
   {
     "key": "culture_generale",
     "label": "Culture (générale)",
-    "video": "http://lsf.education.fr/videos/culture1.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/culture1.webm"
   },
   {
     "key": "culture_terre",
     "label": "Culture (terre)",
-    "video": "http://lsf.education.fr/videos/culture_de_la_terre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/culture_de_la_terre.webm"
   },
   {
     "key": "curiosite",
     "label": "Curiosité",
-    "video": "http://lsf.education.fr/videos/curieux.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/curieux.webm"
   },
   {
     "key": "danemark",
     "label": "Danemark",
-    "video": "http://lsf.education.fr/videos/danemark.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/danemark.webm"
   },
   {
     "key": "debat",
     "label": "Débat",
-    "video": "http://lsf.education.fr/videos/debat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/debat.webm"
   },
   {
     "key": "debilite",
     "label": "Débilité",
-    "video": "http://lsf.education.fr/videos/debilite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/debilite.webm"
   },
   {
     "key": "debit",
     "label": "Débit",
-    "video": "http://lsf.education.fr/videos/debit_banque.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/debit_banque.webm"
   },
   {
     "key": "decentralisation",
     "label": "Décentralisation",
-    "video": "http://lsf.education.fr/videos/decentralisation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decentralisation.webm"
   },
   {
     "key": "decision",
     "label": "Décision",
-    "video": "http://lsf.education.fr/videos/decision.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decision.webm"
   },
   {
     "key": "declaration_general",
     "label": "Déclaration (général)",
-    "video": "http://lsf.education.fr/videos/declaration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/declaration.webm"
   },
   {
     "key": "declaration_des_droits_de_l_homme",
     "label": "Déclaration des droits de l'homme",
-    "video": "http://lsf.education.fr/videos/declaration_droits_de_l_homme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/declaration_droits_de_l_homme.webm"
   },
   {
     "key": "decommander",
     "label": "Décommander",
-    "video": "http://lsf.education.fr/videos/decommander.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decommander.webm"
   },
   {
     "key": "decompte",
     "label": "Décompte",
-    "video": "http://lsf.education.fr/videos/decompte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decompte.webm"
   },
   {
     "key": "decors",
     "label": "Décors",
-    "video": "http://lsf.education.fr/videos/decors.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decors.webm"
   },
   {
     "key": "decouragement",
     "label": "Découragement",
-    "video": "http://lsf.education.fr/videos/decouragement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decouragement.webm"
   },
   {
     "key": "decouverte",
     "label": "Découverte",
-    "video": "http://lsf.education.fr/videos/decouverte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decouverte.webm"
   },
   {
     "key": "defaut",
     "label": "Défaut",
-    "video": "http://lsf.education.fr/videos/defaut.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/defaut.webm"
   },
   {
     "key": "defense",
     "label": "Défense",
-    "video": "http://lsf.education.fr/videos/defenseur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/defenseur.webm"
   },
   {
     "key": "deficit",
     "label": "Déficit",
-    "video": "http://lsf.education.fr/videos/deficit.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/deficit.webm"
   },
   {
     "key": "degressif",
     "label": "Dégressif",
-    "video": "http://lsf.education.fr/videos/degressif.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/degressif.webm"
   },
   {
     "key": "degustation",
     "label": "Dégustation",
-    "video": "http://lsf.education.fr/videos/degustation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/degustation.webm"
   },
   {
     "key": "delivrance",
     "label": "Délivrance",
-    "video": "http://lsf.education.fr/videos/delivrance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/delivrance.webm"
   },
   {
     "key": "deluge",
     "label": "Déluge",
-    "video": "http://lsf.education.fr/videos/deluge.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/deluge.webm"
   },
   {
     "key": "demenagement",
     "label": "Déménagement",
-    "video": "http://lsf.education.fr/videos/demenagement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/demenagement.webm"
   },
   {
     "key": "demissioner",
     "label": "Démissioner",
-    "video": "http://lsf.education.fr/videos/demissionner.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/demissionner.webm"
   },
   {
     "key": "democratie",
     "label": "Démocratie",
-    "video": "http://lsf.education.fr/videos/democratie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/democratie.webm"
   },
   {
     "key": "demonstration",
     "label": "Démonstration",
-    "video": "http://lsf.education.fr/videos/demonstration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/demonstration.webm"
   },
   {
     "key": "depression",
     "label": "Dépression",
-    "video": "http://lsf.education.fr/videos/depression.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/depression.webm"
   },
   {
     "key": "depute",
     "label": "Député",
-    "video": "http://lsf.education.fr/videos/depute.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/depute.webm"
   },
   {
     "key": "derogation",
     "label": "Dérogation",
-    "video": "http://lsf.education.fr/videos/derogation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/derogation.webm"
   },
   {
     "key": "dette",
     "label": "Dette",
-    "video": "http://lsf.education.fr/videos/dette.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dette.webm"
   },
   {
     "key": "devis",
     "label": "Devis",
-    "video": "http://lsf.education.fr/videos/devis.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/devis.webm"
   },
   {
     "key": "diabete",
     "label": "Diabète",
-    "video": "http://lsf.education.fr/videos/diabete.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/diabete.webm"
   },
   {
     "key": "dialogue",
     "label": "Dialogue",
-    "video": "http://lsf.education.fr/videos/dialogue.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dialogue.webm"
   },
   {
     "key": "dijon",
     "label": "Dijon",
-    "video": "http://lsf.education.fr/videos/dijon.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dijon.webm"
   },
   {
     "key": "dilatation",
     "label": "Dilatation",
-    "video": "http://lsf.education.fr/videos/dilatation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dilatation.webm"
   },
   {
     "key": "diplomatique",
     "label": "Diplomatique",
-    "video": "http://lsf.education.fr/videos/diplomatique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/diplomatique.webm"
   },
   {
     "key": "diplome",
     "label": "Diplôme",
-    "video": "http://lsf.education.fr/videos/diplome.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/diplome.webm"
   },
   {
     "key": "directeur",
     "label": "Directeur",
-    "video": "http://lsf.education.fr/videos/directeur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/directeur.webm"
   },
   {
     "key": "distance",
     "label": "Distance",
-    "video": "http://lsf.education.fr/videos/distance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/distance.webm"
   },
   {
     "key": "divorce",
     "label": "Divorce",
-    "video": "http://lsf.education.fr/videos/divorce.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/divorce.webm"
   },
   {
     "key": "doctorat",
     "label": "Doctorat",
-    "video": "http://lsf.education.fr/videos/doctorat_en_medecine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/doctorat_en_medecine.webm"
   },
   {
     "key": "documentation",
     "label": "Documentation",
-    "video": "http://lsf.education.fr/videos/documentation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/documentation.webm"
   },
   {
     "key": "dossier",
     "label": "Dossier",
-    "video": "http://lsf.education.fr/videos/dossier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dossier.webm"
   },
   {
     "key": "doyen",
     "label": "Doyen",
-    "video": "http://lsf.education.fr/videos/doyen.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/doyen.webm"
   },
   {
     "key": "drogue",
     "label": "Drogue",
-    "video": "http://lsf.education.fr/videos/drogue.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/drogue.webm"
   },
   {
     "key": "droit",
     "label": "Droit",
-    "video": "http://lsf.education.fr/videos/droit.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/droit.webm"
   },
   {
     "key": "ebeniste",
     "label": "Ebéniste",
-    "video": "http://lsf.education.fr/videos/ebeniste.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ebeniste.webm"
   },
   {
     "key": "echange",
     "label": "Echange",
-    "video": "http://lsf.education.fr/videos/echange.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/echange.webm"
   },
   {
     "key": "echelon",
     "label": "Echelon",
-    "video": "http://lsf.education.fr/videos/echelon.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/echelon.webm"
   },
   {
     "key": "eclairage",
     "label": "Eclairage",
-    "video": "http://lsf.education.fr/videos/eclairage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/eclairage.webm"
   },
   {
     "key": "eclipse",
     "label": "Eclipse",
-    "video": "http://lsf.education.fr/videos/eclipse.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/eclipse.webm"
   },
   {
     "key": "ecole",
     "label": "Ecole",
-    "video": "http://lsf.education.fr/videos/ecole.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ecole.webm"
   },
   {
     "key": "economie",
     "label": "Economie",
-    "video": "http://lsf.education.fr/videos/economie1.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/economie1.webm"
   },
   {
     "key": "ecosse",
     "label": "Ecosse",
-    "video": "http://lsf.education.fr/videos/ecosse.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ecosse.webm"
   },
   {
     "key": "edifice",
     "label": "Edifice",
-    "video": "http://lsf.education.fr/videos/edifice.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/edifice.webm"
   },
   {
     "key": "educateur",
     "label": "Educateur",
-    "video": "http://lsf.education.fr/videos/educateur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/educateur.webm"
   },
   {
     "key": "egypte",
     "label": "Egypte",
-    "video": "http://lsf.education.fr/videos/egypte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/egypte.webm"
   },
   {
     "key": "electricite",
     "label": "Electricité",
-    "video": "http://lsf.education.fr/videos/electricite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/electricite.webm"
   },
   {
     "key": "electronique",
     "label": "Electronique",
-    "video": "http://lsf.education.fr/videos/electronique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/electronique.webm"
   },
   {
     "key": "electrotechnique",
     "label": "Electrotechnique",
-    "video": "http://lsf.education.fr/videos/electro-technique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/electro-technique.webm"
   },
   {
     "key": "elegance",
     "label": "Elégance",
-    "video": "http://lsf.education.fr/videos/elegance.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/elegance.webm"
   },
   {
     "key": "emballage",
     "label": "Emballage",
-    "video": "http://lsf.education.fr/videos/emballage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/emballage.webm"
   },
   {
     "key": "embaucher",
     "label": "Embaucher",
-    "video": "http://lsf.education.fr/videos/embaucher.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/embaucher.webm"
   },
   {
     "key": "emploi_du_temps",
     "label": "Emploi du temps",
-    "video": "http://lsf.education.fr/videos/emploi_du_temps.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/emploi_du_temps.webm"
   },
   {
     "key": "emprunt",
     "label": "Emprunt",
-    "video": "http://lsf.education.fr/videos/emprunt.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/emprunt.webm"
   },
   {
     "key": "encephalogramme",
     "label": "Encéphalogramme",
-    "video": "http://lsf.education.fr/videos/encephalogramme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/encephalogramme.webm"
   },
   {
     "key": "endoctriner",
     "label": "Endoctriner",
-    "video": "http://lsf.education.fr/videos/endoctriner.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/endoctriner.webm"
   },
   {
     "key": "engagement",
     "label": "Engagement",
-    "video": "http://lsf.education.fr/videos/engagement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/engagement.webm"
   },
   {
     "key": "engrenage",
     "label": "Engrenage",
-    "video": "http://lsf.education.fr/videos/engrenage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/engrenage.webm"
   },
   {
     "key": "enlevement",
     "label": "Enlèvement",
-    "video": "http://lsf.education.fr/videos/enlevement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enlevement.webm"
   },
   {
     "key": "ennemi",
     "label": "Ennemi",
-    "video": "http://lsf.education.fr/videos/ennemi.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ennemi.webm"
   },
   {
     "key": "enquete",
     "label": "Enquête",
-    "video": "http://lsf.education.fr/videos/enquete.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enquete.webm"
   },
   {
     "key": "enregistrer",
     "label": "Enregistrer",
-    "video": "http://lsf.education.fr/videos/enregistrer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enregistrer.webm"
   },
   {
     "key": "enseigner",
     "label": "Enseigner",
-    "video": "http://lsf.education.fr/videos/enseigner.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enseigner.webm"
   },
   {
     "key": "enthousiasme",
     "label": "Enthousiasme",
-    "video": "http://lsf.education.fr/videos/enthousiasme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enthousiasme.webm"
   },
   {
     "key": "envergure",
     "label": "Envergure",
-    "video": "http://lsf.education.fr/videos/envergure-oiseaux.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/envergure-oiseaux.webm"
   },
   {
     "key": "envie",
     "label": "Envie",
-    "video": "http://lsf.education.fr/videos/envie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/envie.webm"
   },
   {
     "key": "ephemere",
     "label": "Ephémère",
-    "video": "http://lsf.education.fr/videos/ephemere.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ephemere.webm"
   },
   {
     "key": "epilepsie",
     "label": "Epilepsie",
-    "video": "http://lsf.education.fr/videos/epilepsie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/epilepsie.webm"
   },
   {
     "key": "equilibre",
     "label": "Equilibre",
-    "video": "http://lsf.education.fr/videos/equilibre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/equilibre.webm"
   },
   {
     "key": "equipe",
     "label": "Equipe",
-    "video": "http://lsf.education.fr/videos/equipe.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/equipe.webm"
   },
   {
     "key": "espagne",
     "label": "Espagne",
-    "video": "http://lsf.education.fr/videos/espagne.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/espagne.webm"
   },
   {
     "key": "etat_pays",
     "label": "Etat (pays)",
-    "video": "http://lsf.education.fr/videos/etat-pays.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etat-pays.webm"
   },
   {
     "key": "etats-unis",
     "label": "Etats-Unis",
-    "video": "http://lsf.education.fr/videos/etats-unis.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etats-unis.webm"
   },
   {
     "key": "etranger",
     "label": "Etranger",
-    "video": "http://lsf.education.fr/videos/etranger.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etranger.webm"
   },
   {
     "key": "etudiant",
     "label": "Etudiant",
-    "video": "http://lsf.education.fr/videos/etudiant.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etudiant.webm"
   },
   {
     "key": "europe",
     "label": "Europe",
-    "video": "http://lsf.education.fr/videos/europe.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/europe.webm"
   },
   {
     "key": "evolution",
     "label": "Evolution",
-    "video": "http://lsf.education.fr/videos/evolution.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/evolution.webm"
   },
   {
     "key": "examen",
     "label": "Examen",
-    "video": "http://lsf.education.fr/videos/examen.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/examen.webm"
   },
   {
     "key": "exemple",
     "label": "Exemple",
-    "video": "http://lsf.education.fr/videos/exemple.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exemple.webm"
   },
   {
     "key": "exercice",
     "label": "Exercice",
-    "video": "http://lsf.education.fr/videos/exercice.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exercice.webm"
   },
   {
     "key": "experience",
     "label": "Expérience",
-    "video": "http://lsf.education.fr/videos/experience.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/experience.webm"
   },
   {
     "key": "expert",
     "label": "Expert",
-    "video": "http://lsf.education.fr/videos/expert.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/expert.webm"
   },
   {
     "key": "exploit",
     "label": "Exploit",
-    "video": "http://lsf.education.fr/videos/exploit.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exploit.webm"
   },
   {
     "key": "exportation",
     "label": "Exportation",
-    "video": "http://lsf.education.fr/videos/exportation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exportation.webm"
   },
   {
     "key": "expression_groupe_de_mots",
     "label": "Expression (groupe de mots)",
-    "video": "http://lsf.education.fr/videos/expression-mots.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/expression-mots.webm"
   },
   {
     "key": "expression_visage",
     "label": "Expression (visage)",
-    "video": "http://lsf.education.fr/videos/expression-visage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/expression-visage.webm"
   },
   {
     "key": "fabrication",
     "label": "Fabrication",
-    "video": "http://lsf.education.fr/videos/fabrication.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fabrication.webm"
   },
   {
     "key": "facture",
     "label": "Facture",
-    "video": "http://lsf.education.fr/videos/facture.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/facture.webm"
   },
   {
     "key": "faillite",
     "label": "Faillite",
-    "video": "http://lsf.education.fr/videos/faillite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/faillite.webm"
   },
   {
     "key": "falsifier",
     "label": "Falsifier",
-    "video": "http://lsf.education.fr/videos/falcifier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/falcifier.webm"
   },
   {
     "key": "fantasme",
     "label": "Fantasme",
-    "video": "http://lsf.education.fr/videos/fantasme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fantasme.webm"
   },
   {
     "key": "fascisme",
     "label": "Fascisme",
-    "video": "http://lsf.education.fr/videos/fascisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fascisme.webm"
   },
   {
     "key": "faussaire",
     "label": "Faussaire",
-    "video": "http://lsf.education.fr/videos/faussaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/faussaire.webm"
   },
   {
     "key": "federation",
     "label": "Fédération",
-    "video": "http://lsf.education.fr/videos/federation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/federation.webm"
   },
   {
     "key": "felicitations",
     "label": "Félicitations",
-    "video": "http://lsf.education.fr/videos/felicitation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/felicitation.webm"
   },
   {
     "key": "finlande",
     "label": "Finlande",
-    "video": "http://lsf.education.fr/videos/finlande.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/finlande.webm"
   },
   {
     "key": "fleuve",
     "label": "Fleuve",
-    "video": "http://lsf.education.fr/videos/fleuve.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fleuve.webm"
   },
   {
     "key": "foie",
     "label": "Foie",
-    "video": "http://lsf.education.fr/videos/foie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/foie.webm"
   },
   {
     "key": "fonder",
     "label": "Fonder",
-    "video": "http://lsf.education.fr/videos/fonder.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fonder.webm"
   },
   {
     "key": "foret",
     "label": "Forêt",
-    "video": "http://lsf.education.fr/videos/foret2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/foret2.webm"
   },
   {
     "key": "formation",
     "label": "Formation",
-    "video": "http://lsf.education.fr/videos/formation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/formation.webm"
   },
   {
     "key": "français",
     "label": "Français",
-    "video": "http://lsf.education.fr/videos/francais.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/francais.webm"
   },
   {
     "key": "france",
     "label": "France",
-    "video": "http://lsf.education.fr/videos/france.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/france.webm"
   },
   {
     "key": "futur",
     "label": "Futur",
-    "video": "http://lsf.education.fr/videos/futur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/futur.webm"
   },
   {
     "key": "geographie",
     "label": "Géographie",
-    "video": "http://lsf.education.fr/videos/geographie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/geographie.webm"
   },
   {
     "key": "grammaire",
     "label": "Grammaire",
-    "video": "http://lsf.education.fr/videos/grammaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/grammaire.webm"
   },
   {
     "key": "gravure",
     "label": "Gravure",
-    "video": "http://lsf.education.fr/videos/gravure.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/gravure.webm"
   },
   {
     "key": "grece",
     "label": "Grèce",
-    "video": "http://lsf.education.fr/videos/grece.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/grece.webm"
   },
   {
     "key": "guyane",
     "label": "Guyane",
-    "video": "http://lsf.education.fr/videos/guyane.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/guyane.webm"
   },
   {
     "key": "gymnastique",
     "label": "Gymnastique",
-    "video": "http://lsf.education.fr/videos/gymnastique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/gymnastique.webm"
   },
   {
     "key": "haine",
     "label": "Haine",
-    "video": "http://lsf.education.fr/videos/haine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/haine.webm"
   },
   {
     "key": "handicape",
     "label": "Handicapé",
-    "video": "http://lsf.education.fr/videos/handicape.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/handicape.webm"
   },
   {
     "key": "heritage",
     "label": "Héritage",
-    "video": "http://lsf.education.fr/videos/heritage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/heritage.webm"
   },
   {
     "key": "hierarchie",
     "label": "Hiérarchie",
-    "video": "http://lsf.education.fr/videos/hierarchie2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hierarchie2.webm"
   },
   {
     "key": "histoire",
     "label": "Histoire",
-    "video": "http://lsf.education.fr/videos/histoire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/histoire.webm"
   },
   {
     "key": "hollande",
     "label": "Hollande",
-    "video": "http://lsf.education.fr/videos/hollande.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hollande.webm"
   },
   {
     "key": "hommage",
     "label": "Hommage",
-    "video": "http://lsf.education.fr/videos/hommage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hommage.webm"
   },
   {
     "key": "homme",
     "label": "Homme",
-    "video": "http://lsf.education.fr/videos/homme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/homme.webm"
   },
   {
     "key": "hongrie",
     "label": "Hongrie",
-    "video": "http://lsf.education.fr/videos/hongrie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hongrie.webm"
   },
   {
     "key": "honneur",
     "label": "Honneur",
-    "video": "http://lsf.education.fr/videos/honneur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/honneur.webm"
   },
   {
     "key": "hopital",
     "label": "Hôpital",
-    "video": "http://lsf.education.fr/videos/hopital.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hopital.webm"
   },
   {
     "key": "horizon",
     "label": "Horizon",
-    "video": "http://lsf.education.fr/videos/horizon.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/horizon.webm"
   },
   {
     "key": "horticulture",
     "label": "Horticulture",
-    "video": "http://lsf.education.fr/videos/horticulture.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/horticulture.webm"
   },
   {
     "key": "hotel",
     "label": "Hôtel",
-    "video": "http://lsf.education.fr/videos/hotel.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hotel.webm"
   },
   {
     "key": "huissier",
     "label": "Huissier",
-    "video": "http://lsf.education.fr/videos/huissier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/huissier.webm"
   },
   {
     "key": "hypocrite",
     "label": "Hypocrite",
-    "video": "http://lsf.education.fr/videos/hypocrite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hypocrite.webm"
   },
   {
     "key": "ideologie",
     "label": "Idéologie",
-    "video": "http://lsf.education.fr/videos/ideologie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ideologie.webm"
   },
   {
     "key": "illusion",
     "label": "Illusion",
-    "video": "http://lsf.education.fr/videos/illusion.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/illusion.webm"
   },
   {
     "key": "impots",
     "label": "Impôts",
-    "video": "http://lsf.education.fr/videos/impots.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/impots.webm"
   },
   {
     "key": "imprimer",
     "label": "Imprimer",
-    "video": "http://lsf.education.fr/videos/imprimer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/imprimer.webm"
   },
   {
     "key": "inauguration",
     "label": "Inauguration",
-    "video": "http://lsf.education.fr/videos/inauguration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/inauguration.webm"
   },
   {
     "key": "inde",
     "label": "Inde",
-    "video": "http://lsf.education.fr/videos/inde.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/inde.webm"
   },
   {
     "key": "individu",
     "label": "Individu",
-    "video": "http://lsf.education.fr/videos/individu.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/individu.webm"
   },
   {
     "key": "infarctus",
     "label": "Infarctus",
-    "video": "http://lsf.education.fr/videos/infarctus.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/infarctus.webm"
   },
   {
     "key": "infirmiere",
     "label": "Infirmière",
-    "video": "http://lsf.education.fr/videos/infirmiere.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/infirmiere.webm"
   },
   {
     "key": "influence",
     "label": "Influence",
-    "video": "http://lsf.education.fr/videos/influence.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/influence.webm"
   },
   {
     "key": "information",
     "label": "Information",
-    "video": "http://lsf.education.fr/videos/information.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/information.webm"
   },
   {
     "key": "informatique",
     "label": "Informatique",
-    "video": "http://lsf.education.fr/videos/informatique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/informatique.webm"
   },
   {
     "key": "informer",
     "label": "Informer",
-    "video": "http://lsf.education.fr/videos/informer.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/informer.webm"
   },
   {
     "key": "ingenieur",
     "label": "Ingénieur",
-    "video": "http://lsf.education.fr/videos/ingenieur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ingenieur.webm"
   },
   {
     "key": "insertion",
     "label": "Insertion",
-    "video": "http://lsf.education.fr/videos/insertion.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/insertion.webm"
   },
   {
     "key": "integration",
     "label": "Intégration",
-    "video": "http://lsf.education.fr/videos/intergration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/intergration.webm"
   },
   {
     "key": "intelligence",
     "label": "Intelligence",
-    "video": "http://lsf.education.fr/videos/intelligence.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/intelligence.webm"
   },
   {
     "key": "interioriser",
     "label": "Intérioriser",
-    "video": "http://lsf.education.fr/videos/interioriser.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/interioriser.webm"
   },
   {
     "key": "international",
     "label": "International",
-    "video": "http://lsf.education.fr/videos/international.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/international.webm"
   },
   {
     "key": "internet",
     "label": "Internet",
-    "video": "http://lsf.education.fr/videos/internet.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/internet.webm"
   },
   {
     "key": "interpreter",
     "label": "Interpréter",
-    "video": "http://lsf.education.fr/videos/interpreter.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/interpreter.webm"
   },
   {
     "key": "intervenir",
     "label": "Intervenir",
-    "video": "http://lsf.education.fr/videos/intervenir.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/intervenir.webm"
   },
   {
     "key": "interview",
     "label": "Interview",
-    "video": "http://lsf.education.fr/videos/interview.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/interview.webm"
   },
   {
     "key": "invention",
     "label": "Invention",
-    "video": "http://lsf.education.fr/videos/invention.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/invention.webm"
   },
   {
     "key": "irlande",
     "label": "Irlande",
-    "video": "http://lsf.education.fr/videos/irlande.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/irlande.webm"
   },
   {
     "key": "israël",
     "label": "Israël",
-    "video": "http://lsf.education.fr/videos/israel.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/israel.webm"
   },
   {
     "key": "italie",
     "label": "Italie",
-    "video": "http://lsf.education.fr/videos/italie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/italie.webm"
   },
   {
     "key": "japon",
     "label": "Japon",
-    "video": "http://lsf.education.fr/videos/japon.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/japon.webm"
   },
   {
     "key": "jardinage",
     "label": "Jardinage",
-    "video": "http://lsf.education.fr/videos/jardinage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/jardinage.webm"
   },
   {
     "key": "jazz",
     "label": "Jazz",
-    "video": "http://lsf.education.fr/videos/jazz.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/jazz.webm"
   },
   {
     "key": "jeunesse",
     "label": "Jeunesse",
-    "video": "http://lsf.education.fr/videos/jeunesse.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/jeunesse.webm"
   },
   {
     "key": "justice",
     "label": "Justice",
-    "video": "http://lsf.education.fr/videos/justice2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/justice2.webm"
   },
   {
     "key": "kidnapper",
     "label": "Kidnapper",
-    "video": "http://lsf.education.fr/videos/kidnapper.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kidnapper.webm"
   },
   {
     "key": "kilogramme",
     "label": "Kilogramme",
-    "video": "http://lsf.education.fr/videos/kilo.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kilo.webm"
   },
   {
     "key": "kilometre",
     "label": "Kilomètre",
-    "video": "http://lsf.education.fr/videos/km.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/km.webm"
   },
   {
     "key": "kilowatt",
     "label": "Kilowatt",
-    "video": "http://lsf.education.fr/videos/k_watt.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/k_watt.webm"
   },
   {
     "key": "kinesitherapie",
     "label": "Kinésithérapie",
-    "video": "http://lsf.education.fr/videos/kinesitherapie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kinesitherapie.webm"
   },
   {
     "key": "kleptomanie",
     "label": "Kleptomanie",
-    "video": "http://lsf.education.fr/videos/kleptomanie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kleptomanie.webm"
   },
   {
     "key": "langue",
     "label": "Langue",
-    "video": "http://lsf.education.fr/videos/langue.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/langue.webm"
   },
   {
     "key": "laos",
     "label": "Laos",
-    "video": "http://lsf.education.fr/videos/laos.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/laos.webm"
   },
   {
     "key": "leader",
     "label": "Leader",
-    "video": "http://lsf.education.fr/videos/leader.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/leader.webm"
   },
   {
     "key": "lecture",
     "label": "Lecture",
-    "video": "http://lsf.education.fr/videos/lecture.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lecture.webm"
   },
   {
     "key": "lecture_labiale",
     "label": "Lecture labiale",
-    "video": "http://lsf.education.fr/videos/lecture_labiale.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lecture_labiale.webm"
   },
   {
     "key": "liberte",
     "label": "Liberté",
-    "video": "http://lsf.education.fr/videos/liberte.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/liberte.webm"
   },
   {
     "key": "licenciement",
     "label": "Licenciement",
-    "video": "http://lsf.education.fr/videos/licenciement.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/licenciement.webm"
   },
   {
     "key": "lille",
     "label": "Lille",
-    "video": "http://lsf.education.fr/videos/lille.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lille.webm"
   },
   {
     "key": "limoges",
     "label": "Limoges",
-    "video": "http://lsf.education.fr/videos/limoges.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/limoges.webm"
   },
   {
     "key": "linguistique",
     "label": "Linguistique",
-    "video": "http://lsf.education.fr/videos/linguistique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/linguistique.webm"
   },
   {
     "key": "loi",
     "label": "Loi",
-    "video": "http://lsf.education.fr/videos/loi.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/loi.webm"
   },
   {
     "key": "lyon",
     "label": "Lyon",
-    "video": "http://lsf.education.fr/videos/lyon.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lyon.webm"
   },
   {
     "key": "machine",
     "label": "Machine",
-    "video": "http://lsf.education.fr/videos/machine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/machine.webm"
   },
   {
     "key": "mafia",
     "label": "Mafia",
-    "video": "http://lsf.education.fr/videos/mafia.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mafia.webm"
   },
   {
     "key": "mairie",
     "label": "Mairie",
-    "video": "http://lsf.education.fr/videos/mairie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mairie.webm"
   },
   {
     "key": "majeur",
     "label": "Majeur",
-    "video": "http://lsf.education.fr/videos/majeur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/majeur.webm"
   },
   {
     "key": "manifestation",
     "label": "Manifestation",
-    "video": "http://lsf.education.fr/videos/manifestation2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/manifestation2.webm"
   },
   {
     "key": "marginal",
     "label": "Marginal",
-    "video": "http://lsf.education.fr/videos/marginal.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/marginal.webm"
   },
   {
     "key": "maroc",
     "label": "Maroc",
-    "video": "http://lsf.education.fr/videos/maroc.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/maroc.webm"
   },
   {
     "key": "marseille",
     "label": "Marseille",
-    "video": "http://lsf.education.fr/videos/marseille.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/marseille.webm"
   },
   {
     "key": "mecanique",
     "label": "Mécanique",
-    "video": "http://lsf.education.fr/videos/mecanique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mecanique.webm"
   },
   {
     "key": "medecin",
     "label": "Médecin",
-    "video": "http://lsf.education.fr/videos/medecin.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/medecin.webm"
   },
   {
     "key": "medicament",
     "label": "Médicament",
-    "video": "http://lsf.education.fr/videos/medicament.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/medicament.webm"
   },
   {
     "key": "memoire",
     "label": "Mémoire",
-    "video": "http://lsf.education.fr/videos/memoire_these.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/memoire_these.webm"
   },
   {
     "key": "mensuel",
     "label": "Mensuel",
-    "video": "http://lsf.education.fr/videos/mensuel.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mensuel.webm"
   },
   {
     "key": "message",
     "label": "Message",
-    "video": "http://lsf.education.fr/videos/message.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/message.webm"
   },
   {
     "key": "methode",
     "label": "Méthode",
-    "video": "http://lsf.education.fr/videos/methode.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/methode.webm"
   },
   {
     "key": "metier",
     "label": "Métier",
-    "video": "http://lsf.education.fr/videos/metier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/metier.webm"
   },
   {
     "key": "metz",
     "label": "Metz",
-    "video": "http://lsf.education.fr/videos/metz.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/metz.webm"
   },
   {
     "key": "mexique",
     "label": "Mexique",
-    "video": "http://lsf.education.fr/videos/mexique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mexique.webm"
   },
   {
     "key": "microbe",
     "label": "Microbe",
-    "video": "http://lsf.education.fr/videos/microbe.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/microbe.webm"
   },
   {
     "key": "microscope",
     "label": "Microscope",
-    "video": "http://lsf.education.fr/videos/microscope.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/microscope.webm"
   },
   {
     "key": "militaire",
     "label": "Militaire",
-    "video": "http://lsf.education.fr/videos/militaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/militaire.webm"
   },
   {
     "key": "mine",
     "label": "Mine",
-    "video": "http://lsf.education.fr/videos/mine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mine.webm"
   },
   {
     "key": "minorite",
     "label": "Minorité",
-    "video": "http://lsf.education.fr/videos/minorite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/minorite.webm"
   },
   {
     "key": "mode_la",
     "label": "Mode (la)",
-    "video": "http://lsf.education.fr/videos/la_mode.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/la_mode.webm"
   },
   {
     "key": "moderne",
     "label": "Moderne",
-    "video": "http://lsf.education.fr/videos/moderne.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/moderne.webm"
   },
   {
     "key": "monaco",
     "label": "Monaco",
-    "video": "http://lsf.education.fr/videos/monaco.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/monaco.webm"
   },
   {
     "key": "monde",
     "label": "Monde",
-    "video": "http://lsf.education.fr/videos/monde.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/monde.webm"
   },
   {
     "key": "montagne",
     "label": "Montagne",
-    "video": "http://lsf.education.fr/videos/montagne.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/montagne.webm"
   },
   {
     "key": "montpellier",
     "label": "Montpellier",
-    "video": "http://lsf.education.fr/videos/montpellier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/montpellier.webm"
   },
   {
     "key": "moral",
     "label": "Moral",
-    "video": "http://lsf.education.fr/videos/moral.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/moral.webm"
   },
   {
     "key": "mulhouse",
     "label": "Mulhouse",
-    "video": "http://lsf.education.fr/videos/mulhouse.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mulhouse.webm"
   },
   {
     "key": "musique",
     "label": "Musique",
-    "video": "http://lsf.education.fr/videos/musique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/musique.webm"
   },
   {
     "key": "musulman",
     "label": "Musulman",
-    "video": "http://lsf.education.fr/videos/musulman.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/musulman.webm"
   },
   {
     "key": "mutation",
     "label": "Mutation",
-    "video": "http://lsf.education.fr/videos/mutation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mutation.webm"
   },
   {
     "key": "nancy",
     "label": "Nancy",
-    "video": "http://lsf.education.fr/videos/nancy.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nancy.webm"
   },
   {
     "key": "nantes",
     "label": "Nantes",
-    "video": "http://lsf.education.fr/videos/nantes.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nantes.webm"
   },
   {
     "key": "nationalite",
     "label": "Nationalité",
-    "video": "http://lsf.education.fr/videos/nationalite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nationalite.webm"
   },
   {
     "key": "naturel",
     "label": "Naturel",
-    "video": "http://lsf.education.fr/videos/naturel.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/naturel.webm"
   },
   {
     "key": "neurologie",
     "label": "Neurologie",
-    "video": "http://lsf.education.fr/videos/neurologique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/neurologique.webm"
   },
   {
     "key": "neutre",
     "label": "Neutre",
-    "video": "http://lsf.education.fr/videos/neutre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/neutre.webm"
   },
   {
     "key": "nimes",
     "label": "Nîmes",
-    "video": "http://lsf.education.fr/videos/nimes.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nimes.webm"
   },
   {
     "key": "niveau",
     "label": "Niveau",
-    "video": "http://lsf.education.fr/videos/niveau.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/niveau.webm"
   },
   {
     "key": "normal",
     "label": "Normal",
-    "video": "http://lsf.education.fr/videos/normal.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/normal.webm"
   },
   {
     "key": "norvege",
     "label": "Norvège",
-    "video": "http://lsf.education.fr/videos/norvege.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/norvege.webm"
   },
   {
     "key": "notaire",
     "label": "Notaire",
-    "video": "http://lsf.education.fr/videos/notaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/notaire.webm"
   },
   {
     "key": "nucleaire",
     "label": "Nucléaire",
-    "video": "http://lsf.education.fr/videos/nucleaire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nucleaire.webm"
   },
   {
     "key": "objectif",
     "label": "Objectif",
-    "video": "http://lsf.education.fr/videos/objectif.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/objectif.webm"
   },
   {
     "key": "objection",
     "label": "Objection",
-    "video": "http://lsf.education.fr/videos/objection.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/objection.webm"
   },
   {
     "key": "obligation",
     "label": "Obligation",
-    "video": "http://lsf.education.fr/videos/obligation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/obligation.webm"
   },
   {
     "key": "observateur",
     "label": "Observateur",
-    "video": "http://lsf.education.fr/videos/observateur.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/observateur.webm"
   },
   {
     "key": "officiel",
     "label": "Officiel",
-    "video": "http://lsf.education.fr/videos/officiel.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/officiel.webm"
   },
   {
     "key": "oppression",
     "label": "Oppression",
-    "video": "http://lsf.education.fr/videos/opression.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/opression.webm"
   },
   {
     "key": "oral",
     "label": "Oral",
-    "video": "http://lsf.education.fr/videos/oral.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/oral.webm"
   },
   {
     "key": "organiser",
     "label": "Organiser",
-    "video": "http://lsf.education.fr/videos/organiser.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/organiser.webm"
   },
   {
     "key": "origine",
     "label": "Origine",
-    "video": "http://lsf.education.fr/videos/origine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/origine.webm"
   },
   {
     "key": "orleans",
     "label": "Orléans",
-    "video": "http://lsf.education.fr/videos/orleans.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/orleans.webm"
   },
   {
     "key": "outil",
     "label": "Outil",
-    "video": "http://lsf.education.fr/videos/outil.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/outil.webm"
   },
   {
     "key": "paques",
     "label": "Pâques",
-    "video": "http://lsf.education.fr/videos/paques.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/paques.webm"
   },
   {
     "key": "paris",
     "label": "Paris",
-    "video": "http://lsf.education.fr/videos/paris.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/paris.webm"
   },
   {
     "key": "pedagogie",
     "label": "Pédagogie",
-    "video": "http://lsf.education.fr/videos/pedagogie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pedagogie.webm"
   },
   {
     "key": "pedophilie",
     "label": "Pédophilie",
-    "video": "http://lsf.education.fr/videos/pedophile.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pedophile.webm"
   },
   {
     "key": "pharmacie",
     "label": "Pharmacie",
-    "video": "http://lsf.education.fr/videos/pharmacie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pharmacie.webm"
   },
   {
     "key": "philosophe",
     "label": "Philosophe",
-    "video": "http://lsf.education.fr/videos/philosophe.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/philosophe.webm"
   },
   {
     "key": "photocopie",
     "label": "Photocopie",
-    "video": "http://lsf.education.fr/videos/photocopie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/photocopie.webm"
   },
   {
     "key": "photographie",
     "label": "Photographie",
-    "video": "http://lsf.education.fr/videos/photographie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/photographie.webm"
   },
   {
     "key": "physique",
     "label": "Physique",
-    "video": "http://lsf.education.fr/videos/physique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/physique.webm"
   },
   {
     "key": "plastique",
     "label": "Plastique",
-    "video": "http://lsf.education.fr/videos/plastique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/plastique.webm"
   },
   {
     "key": "plombier",
     "label": "Plombier",
-    "video": "http://lsf.education.fr/videos/plombier.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/plombier.webm"
   },
   {
     "key": "poeme",
     "label": "Poème",
-    "video": "http://lsf.education.fr/videos/poeme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/poeme.webm"
   },
   {
     "key": "poitiers",
     "label": "Poitiers",
-    "video": "http://lsf.education.fr/videos/poitiers.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/poitiers.webm"
   },
   {
     "key": "politique",
     "label": "Politique",
-    "video": "http://lsf.education.fr/videos/politique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/politique.webm"
   },
   {
     "key": "positif",
     "label": "Positif",
-    "video": "http://lsf.education.fr/videos/positif.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/positif.webm"
   },
   {
     "key": "pouvoir",
     "label": "Pouvoir",
-    "video": "http://lsf.education.fr/videos/pouvoir.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pouvoir.webm"
   },
   {
     "key": "priorite",
     "label": "Priorité",
-    "video": "http://lsf.education.fr/videos/priori.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/priori.webm"
   },
   {
     "key": "prive",
     "label": "Privé",
-    "video": "http://lsf.education.fr/videos/prive2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/prive2.webm"
   },
   {
     "key": "probleme",
     "label": "Problème",
-    "video": "http://lsf.education.fr/videos/probleme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/probleme.webm"
   },
   {
     "key": "production",
     "label": "Production",
-    "video": "http://lsf.education.fr/videos/production.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/production.webm"
   },
   {
     "key": "programme",
     "label": "Programme",
-    "video": "http://lsf.education.fr/videos/programme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/programme.webm"
   },
   {
     "key": "proposition",
     "label": "Proposition",
-    "video": "http://lsf.education.fr/videos/proposition.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/proposition.webm"
   },
   {
     "key": "radioactif",
     "label": "Radioactif",
-    "video": "http://lsf.education.fr/videos/radioactif.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/radioactif.webm"
   },
   {
     "key": "recherche",
     "label": "Recherche",
-    "video": "http://lsf.education.fr/videos/recherche.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/recherche.webm"
   },
   {
     "key": "reims",
     "label": "Reims",
-    "video": "http://lsf.education.fr/videos/reims.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/reims.webm"
   },
   {
     "key": "relation",
     "label": "Relation",
-    "video": "http://lsf.education.fr/videos/relation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/relation.webm"
   },
   {
     "key": "rennes",
     "label": "Rennes",
-    "video": "http://lsf.education.fr/videos/rennes.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/rennes.webm"
   },
   {
     "key": "responsable",
     "label": "Responsable",
-    "video": "http://lsf.education.fr/videos/responsable.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/responsable.webm"
   },
   {
     "key": "restauration",
     "label": "Restauration",
-    "video": "http://lsf.education.fr/videos/restauration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/restauration.webm"
   },
   {
     "key": "revision",
     "label": "Révision",
-    "video": "http://lsf.education.fr/videos/revision.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/revision.webm"
   },
   {
     "key": "rival",
     "label": "Rival",
-    "video": "http://lsf.education.fr/videos/rival.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/rival.webm"
   },
   {
     "key": "roi",
     "label": "Roi",
-    "video": "http://lsf.education.fr/videos/roi.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/roi.webm"
   },
   {
     "key": "role",
     "label": "Rôle",
-    "video": "http://lsf.education.fr/videos/role.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/role.webm"
   },
   {
     "key": "rome",
     "label": "Rome",
-    "video": "http://lsf.education.fr/videos/rome.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/rome.webm"
   },
   {
     "key": "roumanie",
     "label": "Roumanie",
-    "video": "http://lsf.education.fr/videos/roumanie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/roumanie.webm"
   },
   {
     "key": "russie",
     "label": "Russie",
-    "video": "http://lsf.education.fr/videos/urss.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/urss.webm"
   },
   {
     "key": "saint_etienne",
     "label": "Saint Etienne",
-    "video": "http://lsf.education.fr/videos/saint-etienne.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/saint-etienne.webm"
   },
   {
     "key": "sante",
     "label": "Santé",
-    "video": "http://lsf.education.fr/videos/sante.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sante.webm"
   },
   {
     "key": "scanner",
     "label": "Scanner",
-    "video": "http://lsf.education.fr/videos/scanner_medical.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/scanner_medical.webm"
   },
   {
     "key": "schizophrene",
     "label": "Schizophrène",
-    "video": "http://lsf.education.fr/videos/schizophrene.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/schizophrene.webm"
   },
   {
     "key": "sculpture",
     "label": "Sculpture",
-    "video": "http://lsf.education.fr/videos/sculpture.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sculpture.webm"
   },
   {
     "key": "secretariat",
     "label": "Secrétariat",
-    "video": "http://lsf.education.fr/videos/secretaria.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/secretaria.webm"
   },
   {
     "key": "segregation",
     "label": "Ségrégation",
-    "video": "http://lsf.education.fr/videos/segregation.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/segregation.webm"
   },
   {
     "key": "seisme",
     "label": "Séisme",
-    "video": "http://lsf.education.fr/videos/seisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/seisme.webm"
   },
   {
     "key": "selection",
     "label": "Sélection",
-    "video": "http://lsf.education.fr/videos/selection2.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/selection2.webm"
   },
   {
     "key": "social",
     "label": "Social",
-    "video": "http://lsf.education.fr/videos/social.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/social.webm"
   },
   {
     "key": "soigner",
     "label": "Soigner",
-    "video": "http://lsf.education.fr/videos/soigner.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/soigner.webm"
   },
   {
     "key": "soldat",
     "label": "Soldat",
-    "video": "http://lsf.education.fr/videos/soldat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/soldat.webm"
   },
   {
     "key": "sous-titrage",
     "label": "Sous-Titrage",
-    "video": "http://lsf.education.fr/videos/sous_titrage.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sous_titrage.webm"
   },
   {
     "key": "sport",
     "label": "Sport",
-    "video": "http://lsf.education.fr/videos/sport.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sport.webm"
   },
   {
     "key": "statuts",
     "label": "Statuts",
-    "video": "http://lsf.education.fr/videos/statuts.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/statuts.webm"
   },
   {
     "key": "strasbourg",
     "label": "Strasbourg",
-    "video": "http://lsf.education.fr/videos/strasbourg.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/strasbourg.webm"
   },
   {
     "key": "subvention",
     "label": "Subvention",
-    "video": "http://lsf.education.fr/videos/subvention.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/subvention.webm"
   },
   {
     "key": "suede",
     "label": "Suède",
-    "video": "http://lsf.education.fr/videos/suede.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/suede.webm"
   },
   {
     "key": "symbole",
     "label": "Symbole",
-    "video": "http://lsf.education.fr/videos/symbole.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/symbole.webm"
   },
   {
     "key": "sympathie",
     "label": "Sympathie",
-    "video": "http://lsf.education.fr/videos/sympathie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sympathie.webm"
   },
   {
     "key": "syndicat",
     "label": "Syndicat",
-    "video": "http://lsf.education.fr/videos/syndicat.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/syndicat.webm"
   },
   {
     "key": "tarif",
     "label": "Tarif",
-    "video": "http://lsf.education.fr/videos/tarif.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/tarif.webm"
   },
   {
     "key": "taxe",
     "label": "Taxe",
-    "video": "http://lsf.education.fr/videos/taxe.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/taxe.webm"
   },
   {
     "key": "technique",
     "label": "Technique",
-    "video": "http://lsf.education.fr/videos/technique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/technique.webm"
   },
   {
     "key": "telecommunications",
     "label": "Télécommunications",
-    "video": "http://lsf.education.fr/videos/telecommunication.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/telecommunication.webm"
   },
   {
     "key": "television",
     "label": "Télévision",
-    "video": "http://lsf.education.fr/videos/television.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/television.webm"
   },
   {
     "key": "terre",
     "label": "Terre",
-    "video": "http://lsf.education.fr/videos/terre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/terre.webm"
   },
   {
     "key": "theatre",
     "label": "Théâtre",
-    "video": "http://lsf.education.fr/videos/theatre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/theatre.webm"
   },
   {
     "key": "theorie",
     "label": "Théorie",
-    "video": "http://lsf.education.fr/videos/theorie.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/theorie.webm"
   },
   {
     "key": "thermometre",
     "label": "Thermomètre",
-    "video": "http://lsf.education.fr/videos/thermometre1.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/thermometre1.webm"
   },
   {
     "key": "timbre",
     "label": "Timbre",
-    "video": "http://lsf.education.fr/videos/timbre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/timbre.webm"
   },
   {
     "key": "toulouse",
     "label": "Toulouse",
-    "video": "http://lsf.education.fr/videos/toulouse.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/toulouse.webm"
   },
   {
     "key": "tourisme",
     "label": "Tourisme",
-    "video": "http://lsf.education.fr/videos/tourisme.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/tourisme.webm"
   },
   {
     "key": "tours",
     "label": "Tours",
-    "video": "http://lsf.education.fr/videos/tours.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/tours.webm"
   },
   {
     "key": "toxique",
     "label": "Toxique",
-    "video": "http://lsf.education.fr/videos/toxique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/toxique.webm"
   },
   {
     "key": "trajectoire",
     "label": "Trajectoire",
-    "video": "http://lsf.education.fr/videos/trajectoire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/trajectoire.webm"
   },
   {
     "key": "transport",
     "label": "Transport",
-    "video": "http://lsf.education.fr/videos/transport.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/transport.webm"
   },
   {
     "key": "trimestre",
     "label": "Trimestre",
-    "video": "http://lsf.education.fr/videos/trimestre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/trimestre.webm"
   },
   {
     "key": "trophee",
     "label": "Trophée",
-    "video": "http://lsf.education.fr/videos/trophee.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/trophee.webm"
   },
   {
     "key": "typique",
     "label": "Typique",
-    "video": "http://lsf.education.fr/videos/typique.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/typique.webm"
   },
   {
     "key": "usine",
     "label": "Usine",
-    "video": "http://lsf.education.fr/videos/usine.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/usine.webm"
   },
   {
     "key": "vaccination",
     "label": "Vaccination",
-    "video": "http://lsf.education.fr/videos/vaccination.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vaccination.webm"
   },
   {
     "key": "vaincre",
     "label": "Vaincre",
-    "video": "http://lsf.education.fr/videos/vaincre.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vaincre.webm"
   },
   {
     "key": "vallee",
     "label": "Vallée",
-    "video": "http://lsf.education.fr/videos/vallee.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vallee.webm"
   },
   {
     "key": "vanite",
     "label": "Vanité",
-    "video": "http://lsf.education.fr/videos/vanite.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vanite.webm"
   },
   {
     "key": "verglas",
     "label": "Verglas",
-    "video": "http://lsf.education.fr/videos/verglas.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/verglas.webm"
   },
   {
     "key": "vibration",
     "label": "Vibration",
-    "video": "http://lsf.education.fr/videos/vibration.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vibration.webm"
   },
   {
     "key": "victoire",
     "label": "Victoire",
-    "video": "http://lsf.education.fr/videos/victoire.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/victoire.webm"
   },
   {
     "key": "ville",
     "label": "Ville",
-    "video": "http://lsf.education.fr/videos/ville.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ville.webm"
   },
   {
     "key": "virus",
     "label": "Virus",
-    "video": "http://lsf.education.fr/videos/virus.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/virus.webm"
   },
   {
     "key": "voir",
     "label": "Voir",
-    "video": "http://lsf.education.fr/videos/voir.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/voir.webm"
   },
   {
     "key": "zoo",
     "label": "Zoo",
-    "video": "http://lsf.education.fr/videos/zoo.flv"
+    "video": "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/zoo.webm"
   }
 ]

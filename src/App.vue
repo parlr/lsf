@@ -16,7 +16,7 @@
       <ul id="resultats">
         <li v-for="mot in filteredMots">
           <span @click="play(mot)" :id="mot.key">
-            <span v-html="$options.filters.highlight(mot.label, search)"></span>
+             <div :inner-html.prop="mot.label | highlight(search)"></div>
           </span>
         </li>
       </ul>
@@ -28,6 +28,8 @@
 import got from 'got';
 import dataset from './assets/vocabulaire.json';
 import videojs from 'video.js'
+import {highlight} from './filters.js';
+
 
 export default {
   name: 'app',
@@ -68,6 +70,9 @@ export default {
       this.player.src(this.videoPlaying.video)
       this.player.play();
     }
+  },
+  filters: {
+    highlight
   }
 };
 </script>

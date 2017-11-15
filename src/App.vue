@@ -7,8 +7,10 @@
     <main>
       <aside>
         <figure>
-          <div id="player" ref="player" class="player"></div>
-          <figcaption><b>{{videoPlaying}}</b></figcaption>
+          <figcaption>
+            <video id="player" class="video-js"></video>
+            <b>{{videoPlaying.label}}</b>
+          </figcaption>
         </figure>
       </aside>
       <ul id="resultats">
@@ -25,6 +27,7 @@
 <script>
 import got from 'got';
 import dataset from './assets/vocabulaire.json';
+import videojs from 'video.js'
 
 export default {
   name: 'app',
@@ -32,13 +35,22 @@ export default {
     return {
       search: '',
       vocabulaire: [],
-      videoPlaying: undefined
+      videoPlaying: {label: undefined}
     };
   },
   created: function() {
     this.vocabulaire = dataset;
   },
-  computed: {
+  mounted: function () {
+    this.player = videojs('player', {
+      controls: false,
+      autoplay: true,
+      loop: true,
+      fluid: true,
+      sources: [{src: '', type: 'video/webm'}]
+    });
+  },
+    computed: {
     count: function() {
       return this.filteredMots.length;
     },
@@ -51,15 +63,22 @@ export default {
     }
   },
   methods: {
+  	play: function (mot) {
+  	  this.videoPlaying = mot
+      this.player.src(this.videoPlaying.video)
+      this.player.play();
+    }
   }
 };
 </script>
 
 <style lang="scss">
+$icon-font-path: '~videojs-font/fonts';
+@import '~video.js/dist/video-js.css';
 body {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   background-color: #FDFDFD;
   margin: 0;

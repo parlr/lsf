@@ -1,11 +1,31 @@
 <template>
   <div id="app">
-    <header class="header">
-      <h2>{{count}} Résultats</h2>
-      <input v-model="search" placeholder="comment signer…">
-    </header>
-    <main>
-      <aside>
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <b class="navbar-item">LSF</b>
+      </div>
+      <div class="navbar-menu">
+        <div class="navbar-end">
+          <label class="navbar-item">{{count}} Résultats</label>
+          <div class="control navbar-item">
+            <input v-model="search" placeholder="comment signer…" class="input" type="text">
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container columns is-mobile">
+      <div class="column">
+        <ul id="resultats" class="is-unstyled is-scrollable">
+          <li v-for="mot in filteredMots" class="has-bottom-margin">
+            <a @click="play(mot)"
+                  :id="mot.key"
+                  :inner-html.prop="mot.label | highlight(search)">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <aside class="column is-four-fifths-mobile is-four-fifths-tablet">
         <figure>
           <figcaption>
             <video id="player" class="video-js"></video>
@@ -13,13 +33,6 @@
           </figcaption>
         </figure>
       </aside>
-      <ul id="resultats">
-        <li v-for="mot in filteredMots">
-          <span @click="play(mot)" :id="mot.key">
-             <div :inner-html.prop="mot.label | highlight(search)"></div>
-          </span>
-        </li>
-      </ul>
     </main>
   </div>
 </template>
@@ -79,48 +92,39 @@
 <style lang="scss">
   $icon-font-path: '~videojs-font/fonts';
   @import '~video.js/dist/video-js.css';
+  @import '~bulma/sass/utilities/_all.sass';
+  @import '~bulma/sass/base/_all.sass';
+  @import '~bulma/sass/grid/columns.sass';
+  @import '~bulma/sass/components/navbar.sass';
+  @import '~bulma/sass/elements/container.sass';
+  @import '~bulma/sass/elements/form.sass';
 
   body {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #2c3e50;
-    background-color: #FDFDFD;
+    color: $dark;
     margin: 0;
   }
 
-  a:active, a:focus, a:hover {
-    color: #c13c27;
+  .has-bottom-margin:not(:last-child) {
+    margin-bottom: .25rem;
   }
 
-  a {
-    color: #dd6a58;
-    transition: color 0.1s linear;
-  }
-
-  .header {
-    background-color: #E04E39;
-    color: white;
-    padding: .5rem;
-  }
-
-  h1 {
+  ul.is-unstyled {
+    list-style: none;
+    margin: 0;
     padding: 0;
-    margin: 0
   }
 
-  li {
-    line-height: 1.5rem;
-  }
-
-  .player {
-    display: block;
-    width: 425px;
-    height: 300px;
+  .is-scrollable {
+    overflow: auto;
+    height: 95vh;
+    max-height: 30rem;
   }
 
   .highlight {
-    background-color: #F8E7CF;
-    color: #444;
+    background-color: $yellow;
+    color: $dark;
   }
 </style>

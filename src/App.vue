@@ -2,45 +2,62 @@
   <div id="app">
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
-        <b class="navbar-item">LSF</b>
+        <div class="navbar-item control search">
+          <input v-model="search"
+                 placeholder="comment signer…"
+                 class="input search"
+                 autofocus
+                 type="text">
+        </div>
+        <label class="navbar-item is-paddingless is-hidden-mobile">{{count}} Résultats</label>
+
       </div>
       <div class="navbar-menu">
         <div class="navbar-end">
-          <label class="navbar-item">{{count}} Résultats</label>
-          <div class="control navbar-item">
-            <input v-model="search" placeholder="comment signer…" class="input" type="text">
-          </div>
+          <a href="https://github.com/edouard-lopez/lsf" class="navbar-item">Github</a>
         </div>
       </div>
     </nav>
 
-    <main class="container columns is-mobile">
-      <div class="column">
-        <ul id="resultats" class="is-unstyled is-scrollable">
-          <li v-for="mot in filteredMots" class="has-bottom-margin">
-            <a @click="play(mot)"
-                  :id="mot.key"
-                  :inner-html.prop="mot.label | highlight(search)">
-            </a>
-          </li>
-        </ul>
+
+    <section class="section">
+      <div class="container is-fluid">
+        <main class="tile is-ancestor layout">
+          <aside class="tile is-parent video">
+            <figure class="tile is-child">
+              <figcaption>
+                <h2 class="hero is-size-5 has-text-weight-bold video--label">
+                  {{videoPlaying.label}}
+                </h2>
+                <video :src="videoPlaying.video"
+                       @click="playPause($event)"
+                       controls
+                       loop
+                       muted
+                       autoplay
+                >
+                  <a class="button is-primary is-loading">Button</a>
+                </video>
+              </figcaption>
+            </figure>
+          </aside>
+          <nav class="tile is-vertical is-2">
+            <div class="tile is-parent index" role="navigation" aria-label="words index">
+              <div class="tile is-child">
+                <ul class="index_content is-scrollable">
+                  <li v-for="mot in filteredMots" class="index_content--item has-bottom-margin">
+                    <a @click="play(mot)"
+                       :id="mot.key"
+                       :inner-html.prop="mot.label | highlight(search)">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </main>
       </div>
-      <aside class="column is-four-fifths-mobile is-four-fifths-tablet">
-        <figure>
-          <figcaption>
-            <h2 class="is-size-5">{{videoPlaying.label}}</h2>
-            <video :src="videoPlaying.video"
-                   @click="playPause($event)"
-                   controls
-                   loop
-                   muted
-                   autoplay
-            ></video>
-            <b>{{videoPlaying.label}}</b>
-          </figcaption>
-        </figure>
-      </aside>
-    </main>
+    </section>
   </div>
 </template>
 

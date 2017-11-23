@@ -1,8 +1,10 @@
 @import '~bulma/sass/utilities/_all.sass';
 @import '~bulma/sass/base/_all.sass';
 @import '~bulma/sass/grid/columns.sass';
+@import '~bulma/sass/layout/hero.sass';
 @import '~bulma/sass/components/navbar.sass';
 @import '~bulma/sass/elements/container.sass';
+@import '~bulma/sass/grid/tiles.sass';
 @import '~bulma/sass/elements/form.sass';
 
 body {
@@ -11,6 +13,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: $dark;
   margin: 0;
+}
+
+a:hover, a:active {
+  font-weight: bold;
 }
 
 .has-bottom-margin:not(:last-child) {
@@ -23,13 +29,55 @@ ul.is-unstyled {
   padding: 0;
 }
 
-.is-scrollable {
-  overflow: auto;
-  height: 95vh;
-  max-height: 30rem;
-}
-
 .highlight {
   background-color: $yellow;
   color: $dark;
 }
+
+video {
+  width: 100%;
+}
+
+.is-scrollable {
+  overflow: auto;
+  max-height: 61vh;
+}
+
+@include mobile {
+  .search {
+    width: 100%;
+  }
+  .tile .video {
+    padding-bottom: 0;
+    & .video--label {
+      text-align: center;
+    }
+  }
+  .index.tile {
+    padding: 0 .75rem;
+  }
+  .index_content {
+    padding-left: 0.5em;
+    column-count: 2;
+  }
+}
+
+@include tablet {
+  .index_content {
+    column-count: 3;
+  }
+}
+
+@include desktop {
+  .layout {
+    flex-direction: row-reverse;
+  }
+  .index_content {
+    column-count: auto;
+  }
+  .is-scrollable {
+    max-height: 91vh;
+  }
+
+}
+

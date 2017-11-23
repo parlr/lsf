@@ -1,70 +1,63 @@
-const path = require('path');
-const webpack = require('webpack');
-const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
+const path = require("path");
+const webpack = require("webpack");
+const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
+const ExtractTextPlugin = require("extract-text-webpack-plugin");
+const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
-  entry: './src/main.js',
+  entry: "./src/main.js",
   output: {
-    path: path.resolve(__dirname, './dist'),
-    publicPath: './',
-    filename: 'build.js'
+    path: path.resolve(__dirname, "./dist"),
+    publicPath: "./",
+    filename: "build.js"
   },
-  plugins: [new webpack.IgnorePlugin(/^electron$/)],
+  plugins: [
+    new webpack.IgnorePlugin(/^electron$/),
+    new ExtractTextPlugin("lsf.min.css")
+  ],
   module: {
     rules: [
       {
-        test: /\.vue$/,
-        loader: 'vue-loader',
-        options: {
-          loaders: [
-            {
-            // Since sass-loader (weirdly) has SCSS as its default parse mode, we map
-            // the "scss" and "sass" values for the lang attribute to the right configs here.
-            // other preprocessors should work out of the box, no loader config like this necessary.
-            scss: 'vue-style-loader!css-loader!sass-loader',
-            sass: 'vue-style-loader!css-loader!sass-loader?indentedSyntax'
-          }]
-          // other vue-loader options go here
-        }
+        test: /\.scss$/,
+        loader: ExtractTextPlugin.extract({
+          fallback: "style-loader",
+          use: ['css-loader', 'sass-loader'],
+          publicPath: ""
+        })
       },
       {
-        test: /\.css$/,
-        use: [
-          {loader: 'style-loader'},
-          {loader: 'css-loader', options: {modules: true}}
-        ]
+        test: /\.vue$/,
+        loader: "vue-loader"
       },
       {
         test: /\.(eot|svg|ttf|woff|woff2)$/,
-        loader: 'url-loader',
+        loader: "url-loader"
       },
-      { test: /\.js$/, loader: 'babel-loader' },
+      { test: /\.js$/, loader: "babel-loader" },
       {
         test: /\.(png|jpg|gif|svg)$/,
-        loader: 'file-loader',
-        options: { name: '[name].[ext]?[hash]' }
+        loader: "file-loader",
+        options: { name: "[name].[ext]?[hash]" }
       }
     ]
   },
-  resolve: {alias: { vue$: 'vue/dist/vue.runtime.min.js' }},
-  devServer: {overlay: true, publicPath: '/dist/' }
+  resolve: { alias: { vue$: "vue/dist/vue.runtime.min.js" } },
+  devServer: { overlay: true, publicPath: "/dist/" }
 };
 
-if (process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === "production") {
   module.exports.plugins = (module.exports.plugins || []).concat([
-    new webpack.DefinePlugin({'process.env': {NODE_ENV: '"production"'}}),
+    new webpack.DefinePlugin({ "process.env": { NODE_ENV: '"production"' } }),
     new UglifyJSPlugin({
       uglifyOptions: {
         beautify: false,
         ecma: 6,
-        compress: {warnings: false},
+        compress: { warnings: false },
         comments: false
       }
     }),
     new HtmlWebpackPlugin({
-      template: path.resolve(__dirname, 'index.html')
+      template: path.resolve(__dirname, "index.html")
     })
   ]);
 }
-

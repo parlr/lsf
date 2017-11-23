@@ -41,6 +41,7 @@
   import got from 'got';
   import dataset from './assets/vocabulaire.json';
   import {highlight} from './filters.js';
+  import './lsf.scss'
 
   export default {
     name: 'app',
@@ -72,8 +73,6 @@
     methods: {
       play: function (mot) {
         this.videoPlaying = mot
-        // debugger
-        // this.player.play();
       }
     },
     filters: {
@@ -81,41 +80,3 @@
     }
   };
 </script>
-
-<style lang="scss">
-  @import '~bulma/sass/utilities/_all.sass';
-  @import '~bulma/sass/base/_all.sass';
-  @import '~bulma/sass/grid/columns.sass';
-  @import '~bulma/sass/components/navbar.sass';
-  @import '~bulma/sass/elements/container.sass';
-  @import '~bulma/sass/elements/form.sass';
-
-  body {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    color: $dark;
-    margin: 0;
-  }
-
-  .has-bottom-margin:not(:last-child) {
-    margin-bottom: .25rem;
-  }
-
-  ul.is-unstyled {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .is-scrollable {
-    overflow: auto;
-    height: 95vh;
-    max-height: 30rem;
-  }
-
-  .highlight {
-    background-color: $yellow;
-    color: $dark;
-  }
-</style>

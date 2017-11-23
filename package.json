@@ -1,7 +1,5 @@
 {
   "scripts": {
-    "download-video": "bash src/fetch-videos.bash",
-    "convert-video": "bash src/flv-to-webm.bash",
     "dev": "cross-env NODE_ENV=development webpack-dev-server --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },

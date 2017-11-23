@@ -53,7 +53,8 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     noInfo: true,
-    overlay: true
+    overlay: true,
+    publicPath: '/dist/',
   },
   performance: { hints: false },
   devtool: '#eval-source-map'

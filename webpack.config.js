@@ -48,7 +48,7 @@ module.exports = {
     ]
   },
   resolve: {
-    alias: { vue$: 'vue/dist/vue.esm.js' }
+    alias: { vue$: 'vue/dist/vue.runtime.min.js' }
   },
   devServer: {
     historyApiFallback: true,
@@ -85,3 +85,4 @@ if (process.env.NODE_ENV === 'production') {
     })
   ]);
 }
+

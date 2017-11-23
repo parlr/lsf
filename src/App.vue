@@ -28,7 +28,7 @@
       <aside class="column is-four-fifths-mobile is-four-fifths-tablet">
         <figure>
           <figcaption>
-            <video id="player" class="video-js"></video>
+            <video :src="videoPlaying.video" loop muted autoplay></video>
             <b>{{videoPlaying.label}}</b>
           </figcaption>
         </figure>
@@ -40,7 +40,6 @@
 <script>
   import got from 'got';
   import dataset from './assets/vocabulaire.json';
-  import videojs from 'video.js'
   import {highlight} from './filters.js';
 
   export default {
@@ -56,13 +55,7 @@
       this.vocabulaire = dataset;
     },
     mounted: function () {
-      this.player = videojs('player', {
-        controls: false,
-        autoplay: true,
-        loop: true,
-        fluid: true,
-        sources: [{src: '', type: 'video/webm'}]
-      });
+      this.player = document.querySelector('video');
     },
     computed: {
       count: function () {
@@ -79,8 +72,8 @@
     methods: {
       play: function (mot) {
         this.videoPlaying = mot
-        this.player.src(this.videoPlaying.video)
-        this.player.play();
+        // debugger
+        // this.player.play();
       }
     },
     filters: {
@@ -90,8 +83,6 @@
 </script>
 
 <style lang="scss">
-  $icon-font-path: '~videojs-font/fonts';
-  @import '~video.js/dist/video-js.css';
   @import '~bulma/sass/utilities/_all.sass';
   @import '~bulma/sass/base/_all.sass';
   @import '~bulma/sass/grid/columns.sass';

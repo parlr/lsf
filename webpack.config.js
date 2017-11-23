@@ -47,36 +47,20 @@ module.exports = {
       }
     ]
   },
-  resolve: {
-    alias: { vue$: 'vue/dist/vue.runtime.min.js' }
-  },
-  devServer: {
-    historyApiFallback: true,
-    noInfo: true,
-    overlay: true,
-    publicPath: '/dist/',
-  },
-  performance: { hints: false },
+  resolve: {alias: { vue$: 'vue/dist/vue.runtime.min.js' }},
+  devServer: {overlay: true, publicPath: '/dist/' }
 };
 
 if (process.env.NODE_ENV === 'production') {
-  // http://vue-loader.vuejs.org/en/workflow/production.html
   module.exports.plugins = (module.exports.plugins || []).concat([
-    new webpack.DefinePlugin({
-      'process.env': {
-        NODE_ENV: '"production"'
-      }
-    }),
+    new webpack.DefinePlugin({'process.env': {NODE_ENV: '"production"'}}),
     new UglifyJSPlugin({
       uglifyOptions: {
         beautify: false,
         ecma: 6,
-        compress: true,
+        compress: {warnings: false},
         comments: false
       }
-    }),
-    new webpack.LoaderOptionsPlugin({
-      minimize: true
     }),
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, 'index.html')

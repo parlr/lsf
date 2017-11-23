@@ -28,7 +28,14 @@
       <aside class="column is-four-fifths-mobile is-four-fifths-tablet">
         <figure>
           <figcaption>
-            <video :src="videoPlaying.video" loop muted autoplay></video>
+            <h2 class="is-size-5">{{videoPlaying.label}}</h2>
+            <video :src="videoPlaying.video"
+                   @click="playPause($event)"
+                   controls
+                   loop
+                   muted
+                   autoplay
+            ></video>
             <b>{{videoPlaying.label}}</b>
           </figcaption>
         </figure>
@@ -73,6 +80,9 @@
     methods: {
       play: function (mot) {
         this.videoPlaying = mot
+      },
+      playPause: function (event) {
+        this.player.paused ? this.player.play() : this.player.pause()
       }
     },
     filters: {

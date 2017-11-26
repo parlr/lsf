@@ -4,6 +4,7 @@
       <div class="navbar-brand">
         <div class="navbar-item control search">
           <input v-model="search"
+                 @click="showList=true"
                  placeholder="comment signer…"
                  class="input search"
                  autofocus
@@ -19,10 +20,23 @@
       </div>
     </nav>
 
-
     <section class="section">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">
+          <nav v-if="showList && count > 0" class="tile is-vertical is-2">
+            <div class="tile is-parent index" role="navigation" aria-label="words index">
+              <div class="tile is-child">
+                <ul class="index_content">
+                  <li v-for="mot in filteredMots" class="index_content--item has-bottom-margin">
+                    <a @click="play(mot)"
+                       :id="mot.key"
+                       :inner-html.prop="mot.label | highlight(search)">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
           <aside class="tile is-parent video">
             <figure class="tile is-child">
               <figcaption>
@@ -41,20 +55,6 @@
               </figcaption>
             </figure>
           </aside>
-          <nav class="tile is-vertical is-2">
-            <div class="tile is-parent index" role="navigation" aria-label="words index">
-              <div class="tile is-child">
-                <ul class="index_content is-scrollable">
-                  <li v-for="mot in filteredMots" class="index_content--item has-bottom-margin">
-                    <a @click="play(mot)"
-                       :id="mot.key"
-                       :inner-html.prop="mot.label | highlight(search)">
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </nav>
         </main>
       </div>
     </section>
@@ -65,13 +65,14 @@
   import got from 'got';
   import dataset from './assets/vocabulaire.json';
   import {highlight} from './filters.js';
-  import './lsf.scss'
+  import './lsf.scss';
 
   export default {
     name: 'app',
     data: function () {
       return {
         search: '',
+        showList: true,
         vocabulaire: [],
         videoPlaying: {label: undefined}
       };
@@ -96,10 +97,12 @@
     },
     methods: {
       play: function (mot) {
-        this.videoPlaying = mot
+        this.showList = false;
+        this.search = null;
+        this.videoPlaying = mot;
       },
       playPause: function (event) {
-        this.player.paused ? this.player.play() : this.player.pause()
+        this.player.paused ? this.player.play() : this.player.pause();
       }
     },
     filters: {

@@ -38,11 +38,10 @@ video {
   width: 100%;
 }
 
-.is-scrollable {
-  overflow: auto;
-  max-height: 61vh;
+.index_content--item {
+  padding: 0 1rem;
+  padding-left: calc(1rem + 0.750em - 1px);;
 }
-
 @include mobile {
   .search {
     width: 100%;
@@ -54,30 +53,16 @@ video {
     }
   }
   .index.tile {
-    padding: 0 .75rem;
-  }
-  .index_content {
-    padding-left: 0.5em;
-    column-count: 2;
+    padding-top: 1.25rem;
   }
 }
 
 @include tablet {
-  .index_content {
-    column-count: 3;
-  }
 }
 
 @include desktop {
   .layout {
     flex-direction: row-reverse;
   }
-  .index_content {
-    column-count: auto;
-  }
-  .is-scrollable {
-    max-height: 91vh;
-  }
-
 }
 

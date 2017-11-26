@@ -5,8 +5,9 @@
 ## Todo
 
 * [x] afficher la liste de mots
-* [ ] jouer une video
+* [x] jouer une video
 * [x] filtrer la liste
+* [x] Mobile First
 * [ ] stocker le JSON sur Firebase
 * [ ] marquer comme vu
 * [ ] étendre le vocabulaire (mot/video)

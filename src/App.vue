@@ -58,6 +58,9 @@
         </main>
       </div>
     </section>
+    <footer>
+      <navbar-bottom></navbar-bottom>
+    </footer>
   </div>
 </template>
 
@@ -66,8 +69,12 @@
   import dataset from './assets/vocabulaire.json';
   import {highlight} from './filters.js';
   import './lsf.scss';
+  import navbarBottom from './navbar-bottom.vue';
 
   export default {
+    components: {
+      'navbar-bottom': navbarBottom
+    },
     name: 'app',
     data: function () {
       return {

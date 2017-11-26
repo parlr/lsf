@@ -4,7 +4,7 @@
       <div class="navbar-brand">
         <div class="navbar-item control search">
           <input v-model="search"
-                 @click="showList=true"
+                 @click="showIndex=true"
                  placeholder="comment signer…"
                  class="input search"
                  autofocus
@@ -23,7 +23,7 @@
     <section class="section">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">
-          <nav v-if="showList && count > 0" class="tile is-vertical is-2">
+          <nav v-if="showIndex && count > 0" class="tile is-vertical is-2">
             <div class="tile is-parent index" role="navigation" aria-label="words index">
               <div class="tile is-child">
                 <ul class="index_content">
@@ -72,7 +72,7 @@
     data: function () {
       return {
         search: '',
-        showList: true,
+        showIndex: true,
         vocabulaire: [],
         videoPlaying: {label: undefined}
       };
@@ -97,7 +97,7 @@
     },
     methods: {
       play: function (mot) {
-        this.showList = false;
+        this.showIndex = false;
         this.search = null;
         this.videoPlaying = mot;
       },

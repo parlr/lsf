@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-fixed-top is-primary" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <div class="navbar-item control search">
           <input v-model="search"
@@ -20,7 +20,7 @@
       </div>
     </nav>
 
-    <section class="section">
+    <section class="content">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">
           <nav v-if="showIndex && count > 0" class="tile is-vertical is-2">

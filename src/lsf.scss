@@ -34,6 +34,10 @@ ul.is-unstyled {
   color: $dark;
 }
 
+.content {
+  margin-top: $navbar-height;
+}
+
 video {
   width: 100%;
 }

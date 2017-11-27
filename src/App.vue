@@ -4,7 +4,9 @@
       <div class="navbar-brand">
         <div class="navbar-item control search">
           <input v-model="search"
-                 @click="focus()" @keyup="displayIndex()"
+                 @click="focus()"
+                 @keyup="displayIndex()"
+                 @keyup.enter="playFirst()"
                  placeholder="comment signer…"
                  class="input search"
                  autofocus
@@ -104,6 +106,9 @@
         this.showIndex = false;
         this.search = mot.label;
         this.videoPlaying = mot;
+      },
+      playFirst: function () {
+        this.play(this.filteredMots[0]);
       },
       playPause: function (event) {
         this.player.paused ? this.player.play() : this.player.pause();

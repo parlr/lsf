@@ -100,7 +100,7 @@
         window.scrollTo(0, 0);
       },
       displayIndex: function () {
-        this.showIndex = true
+        this.showIndex = true;
       },
       play: function (mot) {
         this.showIndex = false;

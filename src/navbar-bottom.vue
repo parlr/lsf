@@ -13,8 +13,8 @@
   </nav>
 </template>
 <script>
-  import random from 'font-awesome-svg-png/black/svg/random.svg'
-  import list from 'font-awesome-svg-png/black/svg/list.svg'
+  import 'font-awesome-svg-png/black/svg/random.svg'
+  import 'font-awesome-svg-png/black/svg/list.svg'
 
   export default {}
 </script>

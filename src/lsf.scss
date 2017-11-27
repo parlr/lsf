@@ -46,7 +46,10 @@ video {
   width: 100%;
 }
 
-
+.tile.is-parent {
+  padding-top: 0;
+  padding-bottom: .4rem;
+}
 @include mobile {
   .search {
     width: 100%;

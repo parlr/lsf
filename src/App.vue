@@ -1,10 +1,10 @@
 <template>
-  <div id="app">
+  <div id="top">
     <nav class="navbar is-fixed-top is-primary" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <div class="navbar-item control search">
           <input v-model="search"
-                 @click="showIndex=true"
+                 @click="focus()" @keyup="displayIndex()"
                  placeholder="comment signer…"
                  class="input search"
                  autofocus
@@ -22,7 +22,7 @@
               <div class="tile is-child">
                 <ul class="index_content">
                   <li v-for="mot in filteredMots" class="index_content--item has-bottom-margin">
-                    <a @click="play(mot)"
+                    <a href="#top" @click="play(mot)"
                        :id="mot.key"
                        :inner-html.prop="mot.label | highlight(search)">
                     </a>
@@ -34,9 +34,6 @@
           <aside class="tile is-parent video">
             <figure class="tile is-child">
               <figcaption>
-                <h2 class="hero is-size-5 has-text-weight-bold video--label">
-                  {{videoPlaying.label}}
-                </h2>
                 <video :src="videoPlaying.video"
                        @click="playPause($event)"
                        controls
@@ -97,9 +94,15 @@
       }
     },
     methods: {
+      focus: function () {
+        window.scrollTo(0, 0);
+      },
+      displayIndex: function () {
+        this.showIndex = true
+      },
       play: function (mot) {
         this.showIndex = false;
-        this.search = null;
+        this.search = mot.label;
         this.videoPlaying = mot;
       },
       playPause: function (event) {

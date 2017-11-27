@@ -117,3 +117,9 @@
     }
   };
 </script>
+<style scoped>
+  .index_content--item {
+    padding: 0 1rem 0 calc(1rem + 0.750em - 1px);
+    line-height: 1.5rem;
+  }
+</style>

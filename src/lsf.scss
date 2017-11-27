@@ -34,6 +34,10 @@ ul.is-unstyled {
   color: $dark;
 }
 
+.navbar.is-fixed-top {
+  box-shadow: 0px 5px 10px 0px $grey-light;
+}
+
 .content {
   margin-top: $navbar-height;
 }
@@ -42,10 +46,7 @@ video {
   width: 100%;
 }
 
-.index_content--item {
-  padding: 0 1rem;
-  padding-left: calc(1rem + 0.750em - 1px);;
-}
+
 @include mobile {
   .search {
     width: 100%;

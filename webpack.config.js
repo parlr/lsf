@@ -3,6 +3,7 @@ const webpack = require("webpack");
 const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: "./src/main.js",
@@ -58,6 +59,10 @@ if (process.env.NODE_ENV === "production") {
     }),
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, "index.html")
-    })
+    }),
+    new CopyWebpackPlugin([
+      {from: './src/assets/manifest.json'},
+      {from: './src/assets/images/**/icon-*', to: './images', flatten: true}
+    ])
   ]);
 }

@@ -7,12 +7,13 @@
                  @click="focus()"
                  @keyup="displayIndex()"
                  @keyup.enter="playFirst()"
+                 id="search"
                  placeholder="comment signer…"
                  class="input search"
                  autofocus
                  type="text">
         </div>
-        <label class="navbar-item is-paddingless is-hidden-mobile">{{count}} Résultats</label>
+        <label for="search" class="navbar-item is-paddingless is-hidden-mobile">{{count}} Résultats</label>
       </div>
     </nav>
 

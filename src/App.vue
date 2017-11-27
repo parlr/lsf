@@ -11,12 +11,6 @@
                  type="text">
         </div>
         <label class="navbar-item is-paddingless is-hidden-mobile">{{count}} Résultats</label>
-
-      </div>
-      <div class="navbar-menu">
-        <div class="navbar-end">
-          <a href="https://github.com/edouard-lopez/lsf" class="navbar-item">Github</a>
-        </div>
       </div>
     </nav>
 

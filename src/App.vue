@@ -11,6 +11,7 @@
                  placeholder="comment signer…"
                  class="input search"
                  autofocus
+                 autocomplete="off"
                  type="text">
         </div>
         <label for="search" class="navbar-item is-paddingless is-hidden-mobile">{{count}} Résultats</label>

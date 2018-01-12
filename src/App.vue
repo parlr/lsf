@@ -61,7 +61,7 @@
 
 <script>
   import got from 'got';
-  import dataset from './assets/vocabulaire.json';
+  import {dataset} from './config';
   import {highlight} from './filters.js';
   import './lsf.scss';
   import navbarBottom from './navbar-bottom.vue';
@@ -79,9 +79,12 @@
         videoPlaying: {label: undefined}
       };
     },
-    created: function () {
-      this.vocabulaire = dataset;
-    },
+ created: function () {
+      got.get(config.dataset, {json: true}
+      ).then(response => {
+this.vocabulaire = response.body;
+    });
+  },
     mounted: function () {
       this.player = document.querySelector('video');
     },

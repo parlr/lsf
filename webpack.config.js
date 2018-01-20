@@ -21,12 +21,16 @@ module.exports = {
       { test: /\.(eot|ttf|woff|woff2)$/, loader: "url-loader" },
       { test: /\.js$/, loader: "babel-loader" },
       { test: /\.(svg|ico)$/, loader: "file-loader" },
-      { test: /manifest\.json$/, loader: "file-loader", options: {name: '[name].[ext]'} },
+      {
+        test: /manifest\.json$/,
+        loader: "file-loader",
+        options: { name: "[name].[ext]" }
+      },
       {
         test: /\.scss$/,
         loader: ExtractTextPlugin.extract({
           fallback: "style-loader",
-          use: ["css-loader", "sass-loader"],
+          use: ["css-loader", "sass-loader"]
         })
       }
     ]

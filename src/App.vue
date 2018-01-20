@@ -53,9 +53,9 @@
         </main>
       </div>
     </section>
-    <footer>
-      <navbar-bottom></navbar-bottom>
-    </footer>
+    <!--<footer>-->
+      <!--<navbar-bottom></navbar-bottom>-->
+    <!--</footer>-->
   </div>
 </template>
 

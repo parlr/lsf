@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "webpack-dev-server --hot",
+    "dev": "NODE_ENV=dev webpack-dev-server --hot",
     "build": "rm -rf dist && NODE_ENV=production webpack -p --progress --hide-modules"
   },
   "dependencies": {

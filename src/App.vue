@@ -61,7 +61,7 @@
 
 <script>
   import got from 'got';
-  import {dataset} from './config';
+  import config from './config.js';
   import {highlight} from './filters.js';
   import './lsf.scss';
   import navbarBottom from './navbar-bottom.vue';
@@ -79,12 +79,12 @@
         videoPlaying: {label: undefined}
       };
     },
- created: function () {
-      got.get(config.dataset, {json: true}
+    created: function () {
+      got.get(config.dataset(), {json: true}
       ).then(response => {
-this.vocabulaire = response.body;
-    });
-  },
+        this.vocabulaire = response.body;
+      });
+    },
     mounted: function () {
       this.player = document.querySelector('video');
     },

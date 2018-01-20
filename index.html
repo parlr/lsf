@@ -13,7 +13,52 @@
   <link href="lsf.min.css" rel="stylesheet">
 </head>
 <body>
-<div id="app"></div>
+<div id="app">
+  <section style="
+           background-color: #00D1B2;
+           color: white;
+           display: flex;
+           flex-direction: column;
+           height: 100vh;
+           text-align: center;
+           vertical-align: middle;
+  ">
+    <h1 style="
+        align-items: flex-end;
+        display: flex;
+        flex: 3;
+        font-size: 1.75rem;
+        justify-content: center;
+    ">
+      Parlr LSF
+    </h1>
+    <div style="flex: 4;">
+      <p>Vocabulaire LSF avancé</p>
+      <style>
+        @keyframes spin {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+      </style>
+      <div>
+      <span style="
+        border-radius: 50%;
+        border: .25rem solid hsl(0, 0%, 86%);
+        border-top-color: hsl(0, 0%, 100%);
+        display: inline-block;
+        height: 2rem;
+        margin-top: 1rem;
+        width: 2rem;
+        animation: spin 1s 30 linear;
+    "></span>
+      </div>
+    </div>
+  </section>
+</div>
 
 <script type="text/javascript" src="build.js"></script>
 </body>

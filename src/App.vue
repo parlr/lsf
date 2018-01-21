@@ -18,7 +18,7 @@
       </div>
     </nav>
 
-    <section class="content">
+    <main class="content">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">
           <nav v-if="showIndex && count > 0" class="tile is-vertical is-2">
@@ -52,7 +52,7 @@
           </aside>
         </main>
       </div>
-    </section>
+    </main>
     <!--<footer>-->
       <!--<navbar-bottom></navbar-bottom>-->
     <!--</footer>-->

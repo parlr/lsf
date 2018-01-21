@@ -4,7 +4,7 @@ git checkout gh-pages
 git reset --hard master
 yarn build
 git add dist/
-yarn version
+yarn version --new-version "$1"
 git push --force
 git push --tags
 git checkout master

@@ -21,9 +21,10 @@
     <main class="content">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">
-          <nav v-if="showIndex && count > 0" class="tile is-vertical is-2">
+          <nav v-if="showIndex" class="tile is-vertical is-2">
             <div class="tile is-parent index" role="navigation" aria-label="words index">
               <div class="tile is-child">
+                <list-placeholder v-if="loadingData"></list-placeholder>
                 <ul class="index_content">
                   <li v-for="mot in filteredMots" class="index_content--item has-bottom-margin">
                     <a href="#top" @click="play(mot)"
@@ -35,7 +36,7 @@
               </div>
             </div>
           </nav>
-          <aside class="tile is-parent video">
+          <aside v-if="!loadingData" class="tile is-parent video">
             <figure class="tile is-child">
               <figcaption>
                 <video :src="videoUrl"
@@ -54,7 +55,7 @@
       </div>
     </main>
     <!--<footer>-->
-      <!--<navbar-bottom></navbar-bottom>-->
+    <!--<navbar-bottom></navbar-bottom>-->
     <!--</footer>-->
   </div>
 </template>
@@ -65,10 +66,12 @@
   import {highlight} from './filters.js';
   import './lsf.scss';
   import navbarBottom from './navbar-bottom.vue';
+  import listPlaceholder from './list-placeholder.vue';
 
   export default {
     components: {
-      'navbar-bottom': navbarBottom
+      'navbar-bottom': navbarBottom,
+      'list-placeholder': listPlaceholder
     },
     name: 'app',
     data: function () {
@@ -89,6 +92,9 @@
       this.player = document.querySelector('video');
     },
     computed: {
+      loadingData: function () {
+        return this.vocabulaire.length === 0;
+      },
       count: function () {
         return this.filteredMots.length;
       },
@@ -100,7 +106,7 @@
         );
       },
       videoUrl: function () {
-        return `${config.cdn}/${this.videoPlaying.video}`
+        return `${config.cdn}/${this.videoPlaying.video}`;
       }
     },
     methods: {
@@ -128,8 +134,4 @@
   };
 </script>
 <style scoped>
-  .index_content--item {
-    padding: 0 1rem 0 calc(1rem + 0.750em - 1px);
-    line-height: 1.5rem;
-  }
 </style>

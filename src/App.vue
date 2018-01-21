@@ -38,7 +38,7 @@
           <aside class="tile is-parent video">
             <figure class="tile is-child">
               <figcaption>
-                <video :src="videoPlaying.video"
+                <video :src="videoUrl"
                        @click="playPause($event)"
                        controls
                        loop
@@ -98,6 +98,9 @@
             mot.label.indexOf(this.search) !== -1 ||
             mot.key.indexOf(this.search) !== -1
         );
+      },
+      videoUrl: function () {
+        return `${config.cdn}/${this.videoPlaying.video}`
       }
     },
     methods: {

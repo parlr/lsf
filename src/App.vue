@@ -76,7 +76,7 @@
         search: '',
         showIndex: true,
         vocabulaire: [],
-        videoPlaying: {label: undefined}
+        videoPlaying: {label: undefined, video: ''}
       };
     },
     created: function () {

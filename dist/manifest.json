@@ -20,7 +20,7 @@
     }
   ],
   "start_url": "index.html",
-  "background_color": "hsl(0, 0%, 96%)",
+  "background_color": "hsl(171, 100%, 41%)",
   "theme_color": "hsl(171, 100%, 41%)",
   "display": "standalone",
   "orientation": "portrait"

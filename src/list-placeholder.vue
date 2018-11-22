@@ -1,5 +1,5 @@
 <template>
-  <ul class="index_content">
+  <ul class="index_content is-unstyled">
     <li v-for="placeholder in placeholders" class="index_content--item has-bottom-margin">
       <span class="placeholder">{{placeholder}}</span>
     </li>

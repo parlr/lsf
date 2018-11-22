@@ -1,7 +1,7 @@
 {
   "short_name": "Parlr LSF",
   "name": "Vocabulaire LSF avancé",
-  "homepage_url": "https://github.com/edouard-lopez/lsf",
+  "homepage_url": "https://github.com/parlr/lsf",
   "icons": [
     {
       "src": "images/icon-144x144.png",
@@ -20,7 +20,7 @@
     }
   ],
   "start_url": "index.html",
-  "background_color": "hsl(0, 0%, 96%)",
+  "background_color": "hsl(171, 100%, 41%)",
   "theme_color": "hsl(171, 100%, 41%)",
   "display": "standalone",
   "orientation": "portrait"

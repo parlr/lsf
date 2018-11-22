@@ -26,7 +26,7 @@
               <div class="tile is-child">
                 <list-placeholder v-if="loadingData"></list-placeholder>
                 <ul class="index_content is-unstyled">
-                  <li v-for="mot in filteredMots" class="index_content--item has-bottom-margin">
+                  <li v-for="mot in filteredMots" :key="mot.key" class="index_content--item has-bottom-margin">
                     <a href="#top" @click="play(mot)"
                        :id="mot.key"
                        :inner-html.prop="mot.label | highlight(search)">

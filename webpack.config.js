@@ -1,41 +1,38 @@
 const path = require('path');
 const webpack = require('webpack');
 const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const VueLoaderPlugin = require('vue-loader/lib/plugin');
 
 module.exports = {
-  entry: './src/main.js',
+  entry: ['./src/main.js'],
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'build.js'
   },
   plugins: [
     new webpack.IgnorePlugin(/^electron$/),
-    new ExtractTextPlugin('lsf.min.css')
+    new MiniCssExtractPlugin({ filename: 'lsf.min.css' }),
+    new VueLoaderPlugin()
   ],
   module: {
     rules: [
-      { test: /\.vue$/, loader: 'vue-loader' },
-      { test: /\.(eot|ttf|woff|woff2)$/, loader: 'url-loader' },
-      { test: /\.js$/, loader: 'babel-loader' },
-      { test: /\.(svg|ico)$/, loader: 'file-loader' },
+      { test: /\.vue$/, use: 'vue-loader' },
+      { test: /\.(eot|ttf|woff|woff2)$/, use: 'url-loader' },
       {
-        test: /manifest\.json$/,
-        loader: 'file-loader',
-        options: { name: '[name].[ext]' }
+        test: /\.js$/,
+        exclude: file => /node_modules/.test(file) && !/\.vue\.js/.test(file),
+        use: 'babel-loader'
       },
+      { test: /\.(svg|ico)$/, use: 'file-loader' },
       {
-        test: /\.scss$/,
-        loader: ExtractTextPlugin.extract({
-          fallback: 'style-loader',
-          use: ['css-loader', 'sass-loader']
-        })
+        test: /\.(scss|sass)$/,
+        use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader']
       }
     ]
   },
-  resolve: { alias: { vue$: 'vue/dist/vue.runtime.min.js' } },
   devServer: { overlay: true }
 };
 

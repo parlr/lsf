@@ -61,9 +61,9 @@
 </template>
 
 <script>
-import got from 'got';
-import config from './config.js';
-import { highlight } from './filters.js';
+import http from 'ky';
+import config from './config';
+import { highlight } from './filters';
 import './lsf.scss';
 import navbarBottom from './navbar-bottom.vue';
 import listPlaceholder from './list-placeholder.vue';
@@ -83,9 +83,13 @@ export default {
     };
   },
   created: function() {
-    got.get(config.dataset(), { json: true }).then(response => {
-      this.vocabulaire = response.body;
-    });
+    (async () => {
+      try {
+        this.vocabulaire = await http.get(config.dataset(), {}).json();
+      } catch (error) {
+        console.error(err);
+      }
+    })();
   },
   mounted: function() {
     this.player = document.querySelector('video');

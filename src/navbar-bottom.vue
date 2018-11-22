@@ -25,7 +25,7 @@ export default {
   }
 };
 </script>
-<style scoped>
+<style lang=scss scoped>
 .fa {
   height: 22px;
   margin-right: 0.5rem;

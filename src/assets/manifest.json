@@ -1,7 +1,7 @@
 {
   "short_name": "Parlr LSF",
   "name": "Vocabulaire LSF avancé",
-  "homepage_url": "https://github.com/edouard-lopez/lsf",
+  "homepage_url": "https://github.com/parlr/lsf",
   "icons": [
     {
       "src": "images/icon-144x144.png",

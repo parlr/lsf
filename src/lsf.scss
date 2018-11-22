@@ -1,11 +1,4 @@
-@import '~bulma/sass/utilities/_all.sass';
-@import '~bulma/sass/base/_all.sass';
-@import '~bulma/sass/grid/columns.sass';
-@import '~bulma/sass/layout/hero.sass';
-@import '~bulma/sass/components/navbar.sass';
-@import '~bulma/sass/elements/container.sass';
-@import '~bulma/sass/grid/tiles.sass';
-@import '~bulma/sass/elements/form.sass';
+@import '~bulma/bulma.sass';
 
 body {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -40,7 +33,7 @@ ul.is-unstyled {
 }
 
 .content {
-  margin-top: $navbar-height;
+  margin-top: $navbar-height + 1;
 }
 
 .index_content--item {
@@ -70,7 +63,7 @@ video {
     }
   }
   .index.tile {
-    padding-top: 1.25rem;
+    padding-top: 0.25rem;
   }
 }
 

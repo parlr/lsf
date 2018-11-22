@@ -1,9 +1,9 @@
 const path = require('path');
 const webpack = require('webpack');
-const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const TerserPlugin = require('terser-webpack-plugin');
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
 
 module.exports = {
@@ -39,7 +39,7 @@ module.exports = {
 if (process.env.NODE_ENV === 'production') {
   module.exports.plugins = (module.exports.plugins || []).concat([
     new webpack.DefinePlugin({ 'process.env': { NODE_ENV: '"production"' } }),
-    new UglifyJSPlugin({ uglifyOptions: { beautify: false, ecma: 6 } }),
+    new TerserPlugin({ parallel: true, terserOptions: { ecma: 6 } }),
     new HtmlWebpackPlugin({ template: path.resolve(__dirname, 'index.html') }),
     new CopyWebpackPlugin([
       { from: './src/assets/manifest.json' },

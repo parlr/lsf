@@ -61,77 +61,76 @@
 </template>
 
 <script>
-  import got from 'got';
-  import config from './config.js';
-  import {highlight} from './filters.js';
-  import './lsf.scss';
-  import navbarBottom from './navbar-bottom.vue';
-  import listPlaceholder from './list-placeholder.vue';
+import got from 'got';
+import config from './config.js';
+import { highlight } from './filters.js';
+import './lsf.scss';
+import navbarBottom from './navbar-bottom.vue';
+import listPlaceholder from './list-placeholder.vue';
 
-  export default {
-    components: {
-      'navbar-bottom': navbarBottom,
-      'list-placeholder': listPlaceholder
+export default {
+  components: {
+    'navbar-bottom': navbarBottom,
+    'list-placeholder': listPlaceholder
+  },
+  name: 'app',
+  data: function() {
+    return {
+      search: '',
+      showIndex: true,
+      vocabulaire: [],
+      videoPlaying: { label: undefined, video: '' }
+    };
+  },
+  created: function() {
+    got.get(config.dataset(), { json: true }).then(response => {
+      this.vocabulaire = response.body;
+    });
+  },
+  mounted: function() {
+    this.player = document.querySelector('video');
+  },
+  computed: {
+    loadingData: function() {
+      return this.vocabulaire.length === 0;
     },
-    name: 'app',
-    data: function () {
-      return {
-        search: '',
-        showIndex: true,
-        vocabulaire: [],
-        videoPlaying: {label: undefined, video: ''}
-      };
+    count: function() {
+      return this.filteredMots.length;
     },
-    created: function () {
-      got.get(config.dataset(), {json: true}
-      ).then(response => {
-        this.vocabulaire = response.body;
-      });
+    filteredMots: function() {
+      return this.vocabulaire.filter(
+        mot =>
+          mot.label.indexOf(this.search) !== -1 ||
+          mot.key.indexOf(this.search) !== -1
+      );
     },
-    mounted: function () {
-      this.player = document.querySelector('video');
-    },
-    computed: {
-      loadingData: function () {
-        return this.vocabulaire.length === 0;
-      },
-      count: function () {
-        return this.filteredMots.length;
-      },
-      filteredMots: function () {
-        return this.vocabulaire.filter(
-          mot =>
-            mot.label.indexOf(this.search) !== -1 ||
-            mot.key.indexOf(this.search) !== -1
-        );
-      },
-      videoUrl: function () {
-        return `${config.cdn}/${this.videoPlaying.video}`;
-      }
-    },
-    methods: {
-      focus: function () {
-        window.scrollTo(0, 0);
-      },
-      displayIndex: function () {
-        this.showIndex = true;
-      },
-      play: function (mot) {
-        this.showIndex = false;
-        this.search = mot.label;
-        this.videoPlaying = mot;
-      },
-      playFirst: function () {
-        this.play(this.filteredMots[0]);
-      },
-      playPause: function (event) {
-        this.player.paused ? this.player.play() : this.player.pause();
-      }
-    },
-    filters: {
-      highlight
+    videoUrl: function() {
+      return `${config.cdn}/${this.videoPlaying.video}`;
     }
-  };
+  },
+  methods: {
+    focus: function() {
+      window.scrollTo(0, 0);
+    },
+    displayIndex: function() {
+      this.showIndex = true;
+    },
+    play: function(mot) {
+      this.showIndex = false;
+      this.search = mot.label;
+      this.videoPlaying = mot;
+    },
+    playFirst: function() {
+      this.play(this.filteredMots[0]);
+    },
+    playPause: function(event) {
+      this.player.paused ? this.player.play() : this.player.pause();
+    }
+  },
+  filters: {
+    highlight
+  }
+};
 </script>
 <style scoped>
 </style>

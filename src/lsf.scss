@@ -15,12 +15,13 @@ body {
   margin: 0;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
   font-weight: bold;
 }
 
 .has-bottom-margin:not(:last-child) {
-  margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
 }
 
 ul.is-unstyled {
@@ -43,7 +44,7 @@ ul.is-unstyled {
 }
 
 .index_content--item {
-  padding: 0 1rem 0 calc(1rem + 0.750em - 1px);
+  padding: 0 1rem 0 calc(1rem + 0.75em - 1px);
   line-height: 1.5rem;
 }
 
@@ -56,7 +57,7 @@ video {
 
 .tile.is-parent {
   padding-top: 0;
-  padding-bottom: .4rem;
+  padding-bottom: 0.4rem;
 }
 @include mobile {
   .search {
@@ -81,4 +82,3 @@ video {
     flex-direction: row-reverse;
   }
 }
-

@@ -13,21 +13,21 @@
   </nav>
 </template>
 <script>
-  import randomIcon from 'font-awesome-svg-png/black/svg/random.svg'
-  import listIcon from 'font-awesome-svg-png/black/svg/list.svg'
+import randomIcon from 'font-awesome-svg-png/black/svg/random.svg';
+import listIcon from 'font-awesome-svg-png/black/svg/list.svg';
 
-  export default {
-    data: function () {
-      return {
-        randomIcon,
-        listIcon
-      }
-    },
+export default {
+  data: function() {
+    return {
+      randomIcon,
+      listIcon
+    };
   }
+};
 </script>
 <style scoped>
-  .fa {
-    height: 22px;
-    margin-right: .5rem;
-  }
+.fa {
+  height: 22px;
+  margin-right: 0.5rem;
+}
 </style>

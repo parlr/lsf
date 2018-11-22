@@ -1,8 +1,8 @@
 const config = {
   cdn: 'https://raw.githubusercontent.com/parlr/lsf-data/master',
   dataset: () => {
-    let dataurl = "/vocabulaire.json";
-    if (process.env.NODE_ENV === "production") {
+    let dataurl = '/vocabulaire.json';
+    if (process.env.NODE_ENV === 'production') {
       dataurl = `${config.cdn}/vocabulaire.json`;
     }
     dataurl = `${config.cdn}/vocabulaire.json`;
@@ -12,4 +12,3 @@ const config = {
 };
 
 module.exports = config; // so we can self-reference
-

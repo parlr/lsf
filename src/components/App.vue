@@ -9,14 +9,7 @@
             <div class="tile is-parent index" role="navigation" aria-label="words index">
               <div class="tile is-child">
                 <placeholder v-if="isLoading"></placeholder>
-                <ul class="index_content is-unstyled">
-                  <li v-for="mot in filteredMots" v-bind:key="mot.key" class="index_content--item has-bottom-margin">
-                    <a href="#top" @click="play(mot)"
-                       :id="mot.key"
-                       :inner-html.prop="mot.label | highlight(searchQuery)">
-                    </a>
-                  </li>
-                </ul>
+                <entries></entries>
               </div>
             </div>
           </nav>
@@ -33,10 +26,10 @@
 </template>
 
 <script>
-import { highlight } from '~/filters';
 import '~/assets/lsf.scss';
 import searchBar from '~/components/search-bar.vue';
 import placeholder from '~/components/placeholder.vue';
+import entries from '~/components/entries.vue';
 import player from '~/components/player.vue';
 import quickActions from '~/components/quick-actions.vue';
 import { mapState, mapGetters } from 'vuex';
@@ -46,6 +39,7 @@ export default {
     'search-bar': searchBar,
     placeholder: placeholder,
     player: player,
+    entries,
     'quick-actions': quickActions
   },
   name: 'app',
@@ -53,24 +47,8 @@ export default {
     this.$store.dispatch('vocabulaire/fetchAll');
   },
   computed: {
-    ...mapGetters('vocabulaire', [
-      'filteredMots',
-      'searchQuery',
-      'entriesVisible'
-    ]),
+    ...mapGetters('vocabulaire', ['entriesVisible']),
     ...mapState('vocabulaire', ['isLoading'])
-  },
-  methods: {
-    play: function(mot) {
-      this.$store.dispatch('player/play', { mot });
-      this.$store.dispatch('vocabulaire/hideEntries');
-      this.$store.dispatch('vocabulaire/updateSearch', {
-        searchQuery: mot.label
-      });
-    }
-  },
-  filters: {
-    highlight
   }
 };
 </script>

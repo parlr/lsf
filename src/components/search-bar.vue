@@ -1,22 +1,29 @@
 <template>
-    <nav class="navbar is-fixed-top is-primary" role="navigation" aria-label="main navigation">
-      <div class="navbar-brand">
-        <div class="navbar-item control search">
-          <input v-model="query"
-                 @click="focus()"
-                 @keyup.enter="playFirst()"
-                 id="search"
-                 placeholder="comment signer…"
-                 class="input search"
-                 autofocus
-                 autocomplete="off"
-                 type="text">
-        </div>
-        <label for="search" class="navbar-item is-paddingless is-hidden-mobile">
-          {{matchingCount}} Résultats
-          </label>
+  <nav
+    class="navbar is-fixed-top is-primary"
+    role="navigation"
+    aria-label="main navigation"
+  >
+    <div class="navbar-brand">
+      <div class="navbar-item control search">
+        <input
+          v-model="query"
+          @click="focus()"
+          @keyup.enter="playFirst()"
+          id="search"
+          placeholder="comment signer…"
+          class="input search"
+          autofocus
+          autocomplete="off"
+          type="text"
+        >
       </div>
-    </nav>
+      <label
+        for="search"
+        class="navbar-item is-paddingless is-hidden-mobile"
+      >{{matchingCount}} Résultats</label>
+    </div>
+  </nav>
 </template>
 
 <script>

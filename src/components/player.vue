@@ -1,17 +1,16 @@
 <template>
   <figure class="tile is-child">
-    <figcaption>
-      <video
-        :src="videoUrl"
-        @click="playPause($event)"
-        controls="true"
-        loop="true"
-        muted="true"
-        autoplay="true"
-      >
-        <a class="button is-primary is-loading">Button</a>
-      </video>
-    </figcaption>
+    <video
+      :src="videoUrl"
+      @click="playPause($event)"
+      controls="true"
+      loop="true"
+      muted="true"
+      autoplay="true"
+    >
+      <a class="button is-primary is-loading">Button</a>
+    </video>
+    <figcaption>{{videoPlaying.label}}</figcaption>
   </figure>
 </template>
 <script>
@@ -23,7 +22,7 @@ export default {
     this.player = document.querySelector('video');
   },
   computed: {
-    ...mapGetters('player', ['videoUrl'])
+    ...mapGetters('player', ['videoUrl', 'videoPlaying'])
   },
   methods: {
     playPause: function(event) {

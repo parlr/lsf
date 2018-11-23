@@ -1,12 +1,15 @@
 <template>
   <div id="top">
     <search-bar></search-bar>
-
     <main class="content">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">
           <nav v-if="entriesVisible" class="tile is-vertical is-2">
-            <div class="tile is-parent index" role="navigation" aria-label="words index">
+            <div
+              class="tile is-parent index"
+              role="navigation"
+              aria-label="words index"
+            >
               <div class="tile is-child">
                 <placeholder v-if="isLoading"></placeholder>
                 <entries></entries>

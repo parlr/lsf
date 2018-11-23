@@ -5,7 +5,7 @@ const state = {
 };
 
 const getters = {
-  isPlaying: state => state.isPlaying,
+  videoPlaying: state => state.videoPlaying,
   videoUrl: (state, getters) => `${config.cdn}/${state.videoPlaying.video}`
 };
 

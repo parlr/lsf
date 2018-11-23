@@ -1,17 +1,18 @@
 <template>
-    <figure class="tile is-child">
-        <figcaption>
-            <video :src="videoUrl"
-                    @click="playPause($event)"
-                    controls
-                    loop
-                    muted
-                    autoplay
-            >
-                <a class="button is-primary is-loading">Button</a>
-            </video>
-        </figcaption>
-    </figure>
+  <figure class="tile is-child">
+    <figcaption>
+      <video
+        :src="videoUrl"
+        @click="playPause($event)"
+        controls="true"
+        loop="true"
+        muted="true"
+        autoplay="true"
+      >
+        <a class="button is-primary is-loading">Button</a>
+      </video>
+    </figcaption>
+  </figure>
 </template>
 <script>
 import config from '~/config';

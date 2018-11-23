@@ -15,6 +15,9 @@ export default {
   updateSearch({ commit }, { searchQuery }) {
     commit('SET_SEARCH', searchQuery);
   },
+  toggleEntries({ commit, getters }) {
+    getters.entriesVisible ? commit('HIDE_ENTRIES') : commit('SHOW_ENTRIES');
+  },
   hideEntries({ commit }) {
     commit('HIDE_ENTRIES');
   },

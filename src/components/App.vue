@@ -27,7 +27,7 @@
       </div>
     </main>
     <!--<footer>-->
-    <!--<navbar-bottom></navbar-bottom>-->
+    <!--<quick-actions></quick-actions>-->
     <!--</footer>-->
   </div>
 </template>
@@ -38,7 +38,7 @@ import '~/assets/lsf.scss';
 import searchBar from '~/components/search-bar.vue';
 import listPlaceholder from '~/components/list-placeholder.vue';
 import player from '~/components/player.vue';
-import navbarBottom from '~/components/navbar-bottom.vue';
+import quickActions from '~/components/quick-actions.vue';
 import { mapState, mapGetters } from 'vuex';
 
 export default {
@@ -46,7 +46,7 @@ export default {
     'search-bar': searchBar,
     'list-placeholder': listPlaceholder,
     player: player,
-    'navbar-bottom': navbarBottom
+    'quick-actions': quickActions
   },
   name: 'app',
   created: function() {

@@ -1,11 +1,24 @@
+import config from '~/config';
+
 const state = {
-  playing: false,
-  videoUrl: null
+  videoPlaying: { label: undefined, video: '' }
 };
 
-const getters = {};
-const actions = {};
-const mutations = {};
+const getters = {
+  isPlaying: state => state.isPlaying,
+  videoUrl: (state, getters) => `${config.cdn}/${state.videoPlaying.video}`
+};
+
+const actions = {
+  play({ commit }, { mot }) {
+    commit('PLAY', mot);
+  }
+};
+const mutations = {
+  PLAY(state, mot) {
+    state.videoPlaying = mot;
+  }
+};
 
 export default {
   namespaced: true,

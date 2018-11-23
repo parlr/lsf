@@ -21,19 +21,7 @@
             </div>
           </nav>
           <aside v-if="!isLoading" class="tile is-parent video">
-            <figure class="tile is-child">
-              <figcaption>
-                <video :src="videoUrl"
-                       @click="playPause($event)"
-                       controls
-                       loop
-                       muted
-                       autoplay
-                >
-                  <a class="button is-primary is-loading">Button</a>
-                </video>
-              </figcaption>
-            </figure>
+            <player></player>
           </aside>
         </main>
       </div>
@@ -45,11 +33,11 @@
 </template>
 
 <script>
-import config from '~/config';
 import { highlight } from '~/filters';
 import '~/assets/lsf.scss';
 import searchBar from '~/components/search-bar.vue';
 import listPlaceholder from '~/components/list-placeholder.vue';
+import player from '~/components/player.vue';
 import navbarBottom from '~/components/navbar-bottom.vue';
 import { mapState, mapGetters } from 'vuex';
 
@@ -57,24 +45,14 @@ export default {
   components: {
     'search-bar': searchBar,
     'list-placeholder': listPlaceholder,
+    player: player,
     'navbar-bottom': navbarBottom
   },
   name: 'app',
-  data: function() {
-    return {
-      videoPlaying: { label: undefined, video: '' }
-    };
-  },
   created: function() {
     this.$store.dispatch('vocabulaire/fetchAll');
   },
-  mounted: function() {
-    this.player = document.querySelector('video');
-  },
   computed: {
-    videoUrl: function() {
-      return `${config.cdn}/${this.videoPlaying.video}`;
-    },
     ...mapGetters('vocabulaire', [
       'filteredMots',
       'searchQuery',
@@ -84,14 +62,11 @@ export default {
   },
   methods: {
     play: function(mot) {
+      this.$store.dispatch('player/play', { mot });
       this.$store.dispatch('vocabulaire/hideEntries');
       this.$store.dispatch('vocabulaire/updateSearch', {
         searchQuery: mot.label
       });
-      this.videoPlaying = mot;
-    },
-    playPause: function(event) {
-      this.player.paused ? this.player.play() : this.player.pause();
     }
   },
   filters: {

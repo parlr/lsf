@@ -17,6 +17,11 @@ module.exports = {
     new MiniCssExtractPlugin({ filename: 'lsf.min.css' }),
     new VueLoaderPlugin()
   ],
+  resolve: {
+    alias: {
+      ['~']: path.resolve(__dirname + '/src')
+    }
+  },
   module: {
     rules: [
       { test: /\.vue$/, use: 'vue-loader' },

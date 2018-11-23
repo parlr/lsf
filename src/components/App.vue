@@ -16,11 +16,7 @@
               </div>
             </div>
           </nav>
-          <aside
-            v-if="!isLoading"
-            class="tile is-parent video"
-            :class="{ 'entries-visible': entriesVisible }"
-          >
+          <aside v-if="!isLoading" class="tile is-parent video">
             <player></player>
           </aside>
         </main>

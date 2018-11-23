@@ -62,11 +62,11 @@
 
 <script>
 import http from 'ky';
-import config from './config';
-import { highlight } from './filters';
-import './lsf.scss';
-import navbarBottom from './navbar-bottom.vue';
-import listPlaceholder from './list-placeholder.vue';
+import config from '~/config';
+import { highlight } from '~/filters';
+import '~/assets/lsf.scss';
+import navbarBottom from '~/components/navbar-bottom.vue';
+import listPlaceholder from '~/components/list-placeholder.vue';
 
 export default {
   components: {

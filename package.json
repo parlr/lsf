@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": " webpack-dev-server --hot --mode=development",
-    "build": "rm -rf dist && NODE_ENV=production webpack -p --progress --hide-modules"
+    "build": "rm -rf dist && NODE_ENV=production webpack -p --progress --hide-modules",
+    "now-build": "npm run build"
   },
   "dependencies": {
     "bulma": "^0.7.2",
@@ -40,7 +41,7 @@
     ]
   },
   "engines": {
-    "node": ">= 10.*"
+    "node": ">=8.*"
   },
   "name": "lsf",
   "description": "Apprendre le vocabulaire LSF (Langue des Signes Française)",

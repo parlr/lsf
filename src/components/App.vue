@@ -16,15 +16,19 @@
               </div>
             </div>
           </nav>
-          <aside v-if="!isLoading" class="tile is-parent video">
+          <aside
+            v-if="!isLoading"
+            class="tile is-parent video"
+            :class="{ 'entries-visible': entriesVisible }"
+          >
             <player></player>
           </aside>
         </main>
       </div>
     </main>
-    <!--<footer>-->
-    <!--<quick-actions></quick-actions>-->
-    <!--</footer>-->
+    <footer>
+      <quick-actions></quick-actions>
+    </footer>
   </div>
 </template>
 

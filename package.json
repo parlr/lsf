@@ -4,7 +4,7 @@
     "build": "rm -rf dist && NODE_ENV=production webpack -p --progress --hide-modules",
     "now-build": "npm run build",
     "start": "node server.js",
-    "test:e2e": "cypress run"
+    "test:e2e": "yarn start & cypress run --spec cypress/integration/placeholders.specs.js"
   },
   "dependencies": {
     "bulma": "^0.7.2",

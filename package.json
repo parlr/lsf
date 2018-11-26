@@ -17,6 +17,7 @@
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.1.6",
     "babel-loader": "^8.0.4",
+    "browserslist": "^4.3.4",
     "copy-webpack-plugin": "^4.6.0",
     "css-loader": "^1.0.1",
     "cypress": "^3.1.2",
@@ -44,6 +45,13 @@
       "@babel/preset-env"
     ]
   },
+  "browserslist": [
+    "Electron >= 1.8",
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
   "engines": {
     "node": ">=8.*"
   },

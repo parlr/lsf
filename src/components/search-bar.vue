@@ -16,12 +16,13 @@
           autofocus
           autocomplete="off"
           type="text"
+          data-e2e="search-bar-input"
         >
       </div>
-      <label
-        for="search"
-        class="navbar-item is-paddingless is-hidden-mobile"
-      >{{matchingCount}} Résultats</label>
+      <label for="search" class="navbar-item is-paddingless is-hidden-mobile">
+        <span data-e2e="search-bar-result-count">{{matchingCount}}</span>
+        <span>&nbsp;Résultats</span>
+      </label>
     </div>
   </nav>
 </template>

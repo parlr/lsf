@@ -1,18 +1,18 @@
 <template>
-    <ul class="index_content is-unstyled">
-        <li
-            v-for="mot in filteredMots"
-            v-bind:key="mot.key"
-            class="index_content--item has-bottom-margin"
-        >
-            <a
-                href="#top"
-                @click="play(mot)"
-                :id="mot.key"
-                :inner-html.prop="mot.label | highlight(searchQuery)"
-            ></a>
-        </li>
-    </ul>
+  <ul class="index_content is-unstyled" data-e2e="entries">
+    <li
+      v-for="mot in filteredMots"
+      v-bind:key="mot.key"
+      class="index_content--item has-bottom-margin"
+    >
+      <a
+        href="#top"
+        @click="play(mot)"
+        :id="mot.key"
+        :inner-html.prop="mot.label | highlight(searchQuery)"
+      ></a>
+    </li>
+  </ul>
 </template>
 <script>
 import { highlight } from '~/filters';

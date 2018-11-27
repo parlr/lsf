@@ -1,6 +1,6 @@
 <template>
   <div id="top">
-    <search-bar></search-bar>
+    <search-bar data-e2e="search-bar"></search-bar>
     <main class="content">
       <div class="container is-fluid">
         <main class="tile is-ancestor layout">

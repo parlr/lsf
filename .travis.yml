@@ -7,5 +7,8 @@ cache:
     - ~/.cache
 install:
   - yarn install --frozen-lockfile
+before_script:
+  - yarn build
+  - yarn start
 script:
   - yarn ci:e2e

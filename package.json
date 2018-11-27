@@ -4,7 +4,8 @@
     "build": "rm -rf dist && NODE_ENV=production webpack -p --progress --hide-modules",
     "now-build": "npm run build",
     "start": "node server.js",
-    "test:e2e": "yarn start & cypress run --spec cypress/integration/placeholders.specs.js"
+    "ci:e2e": "cypress run --config baseUrl=http://localhost:3000/",
+    "test:e2e": "cypress run --config baseUrl=http://localhost:8080/"
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0",

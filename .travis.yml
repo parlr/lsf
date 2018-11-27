@@ -12,3 +12,6 @@ before_script:
   - yarn start &
 script:
   - yarn ci:e2e
+
+notifications:
+  email: false

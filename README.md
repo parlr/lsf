@@ -1,16 +1,15 @@
 # LSF [![Build Status](https://travis-ci.org/parlr/lsf.svg?branch=master)](https://travis-ci.org/parlr/lsf)
 
 > Apprendre le vocabulaire LSF (Langue des Signes Française)
+>
+> Vocabulaire de **400+ signes avancés**.
 
-## Todo
+## Fonctionnalités
 
-- [x] afficher la liste de mots
-- [x] jouer une video
-- [x] filtrer la liste
-- [x] Mobile First
-- [ ] stocker le JSON sur Firebase
-- [ ] marquer comme vu
-- [ ] étendre le vocabulaire (mot/video)
+- [x] Rechercher un signe ;
+- [x] Découvrir un signe ;
+- [x] Ralentir la vidéo (`0.5x`) ;
+- [ ] Revoir les 10 derniers signes ;
 
 ### Source de données
 

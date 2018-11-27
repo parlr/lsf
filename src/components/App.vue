@@ -11,7 +11,7 @@
               aria-label="words index"
             >
               <div class="tile is-child">
-                <placeholder v-if="isLoading" data-e2e="placeholder"></placeholder>
+                <placeholder v-if="isLoading"></placeholder>
                 <entries></entries>
               </div>
             </div>

@@ -13,7 +13,6 @@ module.exports = {
     filename: 'build.js'
   },
   plugins: [
-    new webpack.IgnorePlugin(/^electron$/),
     new MiniCssExtractPlugin({ filename: 'lsf.min.css' }),
     new VueLoaderPlugin()
   ],

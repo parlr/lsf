@@ -1,5 +1,5 @@
 <template>
-  <ul class="index_content is-unstyled">
+  <ul class="index_content is-unstyled" data-e2e="wordlist-placeholder-js">
     <li
       v-for="placeholder in placeholders"
       class="index_content--item has-bottom-margin"

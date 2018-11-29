@@ -30,6 +30,8 @@ function commit_app() {
 
     cp --recursive dist/* ./
     rm dist/ --recursive --force
+    echo "$version" > .versionrc
+
     git add .
     git commit -m "deploy $version"
 }
@@ -43,6 +45,6 @@ create_release "$version" \
     && create_build \
     && git checkout gh-pages \
     && clean_before_commit \
-    && commit_app "$version" \
-    && deploy 
-    git checkout master
+    && commit_app "$version"
+deploy 
+git checkout master

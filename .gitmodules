@@ -1,3 +1,0 @@
-[submodule "cypress"]
-	path = cypress
-	url = https://github.com/parlr/lsf-e2e-tests.git

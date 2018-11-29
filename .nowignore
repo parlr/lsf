@@ -1,9 +1,0 @@
-node_modules
-dist
-
-yarn.lock
-release.bash
-README.md
-LICENSE
-.gitignore
-.editorconfig

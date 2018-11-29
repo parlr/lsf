@@ -50,8 +50,7 @@ export default {
     this.$store.dispatch('vocabulaire/fetchAll');
   },
   computed: {
-    ...mapGetters('vocabulaire', ['entriesVisible']),
-    ...mapState('vocabulaire', ['isLoading'])
+    ...mapGetters('vocabulaire', ['entriesVisible', 'isLoading'])
   }
 };
 </script>

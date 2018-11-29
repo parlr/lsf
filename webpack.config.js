@@ -47,6 +47,7 @@ if (process.env.NODE_ENV === 'production') {
     new HtmlWebpackPlugin({ template: path.resolve(__dirname, 'index.html') }),
     new CopyWebpackPlugin([
       { from: './src/assets/manifest.json' },
+      { from: './src/assets/favicon.ico' },
       { from: './src/assets/images/**/icon-*', to: './images', flatten: true }
     ])
   ]);

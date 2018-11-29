@@ -46,5 +46,5 @@ create_release "$version" \
     && git checkout gh-pages \
     && clean_before_commit \
     && commit_app "$version"
-deploy 
-git checkout master
+deploy \
+    && git checkout master

@@ -1,14 +1,14 @@
-import http from 'ky';
+import http from 'axios';
 import config from '~/config';
 
 export default {
   fetchAll({ commit }) {
     (async () => {
       try {
-        let vocabulaire = await http.get(config.dataset(), {}).json();
-        commit('SET_VOCABULAIRE', vocabulaire);
+        let vocabulaire = await http.get(config.dataset(), {});
+        commit('SET_VOCABULAIRE', vocabulaire.data);
       } catch (error) {
-        console.error(err);
+        console.error(error);
       }
     })();
   },

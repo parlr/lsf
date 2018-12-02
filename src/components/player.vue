@@ -10,7 +10,7 @@
     >
       <a class="button is-primary is-loading">Button</a>
     </video>
-    <figcaption>{{videoPlaying.label}}</figcaption>
+    <figcaption>{{videoPlaying.key}}</figcaption>
   </figure>
 </template>
 <script>

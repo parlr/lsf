@@ -5,7 +5,8 @@
     "now-build": "npm run build",
     "start": "node server.js",
     "ci:e2e": "cypress run",
-    "test:e2e": "cypress run --config baseUrl=http://localhost:8080/"
+    "test:e2e": "cypress run --config baseUrl=http://localhost:8080/",
+    "test:unit": "ava --require babel-core/register"
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
@@ -18,6 +19,8 @@
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
+    "@babel/register": "^7.0.0",
+    "ava": "1.0.0-rc.2",
     "babel-loader": "^8.0.4",
     "browserslist": "^4.3.4",
     "copy-webpack-plugin": "^4.6.0",
@@ -49,6 +52,12 @@
           "useBuiltIns": "entry"
         }
       ]
+    ]
+  },
+  "ava": {
+    "require": [
+      "@babel/register",
+      "@babel/polyfill"
     ]
   },
   "browserslist": [

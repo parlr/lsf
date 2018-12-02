@@ -1,12 +1,15 @@
 import test from 'ava';
 
-import { highliht } from '../src/filters';
+import { highlight } from '../src/filters';
 
-test('foo', t => {
-  t.pass();
+test('empty query returns verbatim content', t => {
+  let highlighted = highlight('camarade', '');
+
+  t.is(highlighted, 'camarade');
 });
 
-test('bar', async t => {
-  const bar = Promise.resolve('bar');
-  t.is(await bar, 'bar');
+test('query returns node text with highlight', t => {
+  let highlighted = highlight('camarade', 'ad');
+
+  t.is(highlighted, 'camar<span class="highlight">ad</span>e');
 });

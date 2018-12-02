@@ -14,12 +14,20 @@ function create_build() {
     yarn build
 }
 
+function add_to_gitignore() {
+    files_to_ignore=(
+        node_modules/ 
+        cypress/
+        .gitignore
+    )
+    for filename in "${files_to_ignore[@]}"; do
+        echo "$filename" >> .gitignore
+    done
+}
+
 function clean_before_commit() {
     files_to_remove=(
-        cypress/ 
-        node_modules/
         .editorconfig
-        .gitignore
         .nowignore
     )
     rm --recursive --force "${files_to_remove[@]}"
@@ -41,10 +49,16 @@ function deploy() {
     git push --tags
 }
 
+function back_to_work() {
+    rm .gitignore
+    git checkout master
+}
+
 create_release "$version" \
     && create_build \
     && git checkout gh-pages \
+    && add_to_gitignore \
     && clean_before_commit \
     && commit_app "$version"
 deploy \
-    && git checkout master
+    && back_to_work

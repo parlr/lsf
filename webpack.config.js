@@ -52,6 +52,6 @@ if (process.env.NODE_ENV === 'production') {
   ]);
 } else {
   module.exports.plugins = (module.exports.plugins || []).concat([
-    new CopyWebpackPlugin([{ from: '../lsf-data/vocabulaire.json' }])
+    new CopyWebpackPlugin([{ from: '../lsf-data/vocabulaire.json', to: './' }])
   ]);
 }

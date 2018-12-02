@@ -5,7 +5,7 @@ const config = {
     if (process.env.NODE_ENV === 'production') {
       dataurl = `${config.cdn}/vocabulaire.json`;
     }
-    dataurl = `${config.cdn}/vocabulaire.json`;
+    dataurl = `./vocabulaire.json`;
 
     return dataurl;
   }

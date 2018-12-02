@@ -6,7 +6,7 @@
     "start": "node server.js",
     "ci:e2e": "cypress run",
     "test:e2e": "cypress run --config baseUrl=http://localhost:8080/",
-    "test:unit": "ava --require babel-core/register"
+    "test:unit": "ava"
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0",

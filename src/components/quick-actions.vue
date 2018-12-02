@@ -4,11 +4,11 @@
       <div class="navbar-start">
         <div class="navbar-item">
           <span class="button is-light" @click="toggleEntries()">
-            <img :src="listIcon" class="fa" alt="">
+            <img :src="listIcon" class="fa" alt>
             Liste
           </span>
           <span class="button is-light" @click="playRandomMot()">
-            <img :src="randomIcon" class="fa" alt="">
+            <img :src="randomIcon" class="fa" alt>
             Aléatoire
           </span>
         </div>
@@ -52,11 +52,11 @@ export default {
   methods: {
     playRandomMot: function() {
       let mot = this.pickRandomMot();
-      console.log(mot.label);
+      console.log(mot.key);
       this.$store.dispatch('player/play', { mot });
       this.$store.dispatch('vocabulaire/hideEntries');
       this.$store.dispatch('vocabulaire/updateSearch', {
-        searchQuery: mot.label
+        searchQuery: mot.key
       });
     },
     setVideoSpeed: function(speed) {

@@ -9,7 +9,7 @@
         href="#top"
         @click="play(mot)"
         :id="mot.key"
-        :inner-html.prop="mot.label | highlight(searchQuery)"
+        :inner-html.prop="mot.key | highlight(searchQuery)"
       ></a>
     </li>
   </ul>
@@ -27,7 +27,7 @@ export default {
       this.$store.dispatch('player/play', { mot });
       this.$store.dispatch('vocabulaire/hideEntries');
       this.$store.dispatch('vocabulaire/updateSearch', {
-        searchQuery: mot.label
+        searchQuery: mot.key
       });
     }
   },

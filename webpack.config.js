@@ -14,7 +14,8 @@ module.exports = {
   },
   plugins: [
     new MiniCssExtractPlugin({ filename: 'lsf.min.css' }),
-    new VueLoaderPlugin()
+    new VueLoaderPlugin(),
+    new CopyWebpackPlugin([{ from: '../lsf-data/vocabulaire.json', to: './' }])
   ],
   resolve: {
     alias: {
@@ -49,9 +50,5 @@ if (process.env.NODE_ENV === 'production') {
       { from: './src/assets/manifest.json' },
       { from: './src/assets/images/**/icon-*', to: './images', flatten: true }
     ])
-  ]);
-} else {
-  module.exports.plugins = (module.exports.plugins || []).concat([
-    new CopyWebpackPlugin([{ from: '../lsf-data/vocabulaire.json', to: './' }])
   ]);
 }

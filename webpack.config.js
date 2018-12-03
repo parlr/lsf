@@ -51,4 +51,8 @@ if (process.env.NODE_ENV === 'production') {
       { from: './src/assets/images/**/icon-*', to: './images', flatten: true }
     ])
   ]);
+} else {
+  module.exports.plugins = (module.exports.plugins || []).concat([
+    new webpack.DefinePlugin({ 'process.env': { NODE_ENV: '"dev"' } })
+  ]);
 }

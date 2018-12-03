@@ -75,7 +75,7 @@
   },
   "name": "lsf",
   "description": "Apprendre le vocabulaire LSF (Langue des Signes Française)",
-  "version": "4.0.6",
+  "version": "4.0.7",
   "repository": "git@github.com:parlr/lsf.git",
   "author": "Edouard Lopez <contact@parlr.com>"
 }

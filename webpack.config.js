@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new MiniCssExtractPlugin({ filename: 'lsf.min.css' }),
     new VueLoaderPlugin(),
-    new CopyWebpackPlugin([{ from: '../lsf-data/vocabulaire.json', to: './' }])
+    new CopyWebpackPlugin([{ from: './src/assets/vocabulaire.json', to: './' }])
   ],
   resolve: {
     alias: {

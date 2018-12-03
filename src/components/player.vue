@@ -1,6 +1,7 @@
 <template>
   <figure class="tile is-child">
     <video
+      v-if="videoPlaying.video"
       :src="videoUrl"
       @click="playPause($event)"
       controls="true"

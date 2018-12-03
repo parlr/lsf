@@ -2,7 +2,7 @@
 
 > Apprendre le vocabulaire LSF (Langue des Signes Française)
 >
-> Vocabulaire de **400+ signes avancés**.
+> Vocabulaire de **1000+ signes** (~600 de bases, ~400 avancés).
 
 ### Fonctionnalités
 

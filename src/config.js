@@ -1,5 +1,5 @@
 const config = {
-  cdn: 'https://parlr.github.io/lsf/',
+  cdn: 'https://raw.githubusercontent.com/parlr/lsf-data/master',
   dataset: () => {
     let dataurl = `${config.cdn}/vocabulaire.json`;
     if (process.env.NODE_ENV === 'dev') {

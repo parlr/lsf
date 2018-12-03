@@ -14,8 +14,7 @@ module.exports = {
   },
   plugins: [
     new MiniCssExtractPlugin({ filename: 'lsf.min.css' }),
-    new VueLoaderPlugin(),
-    new CopyWebpackPlugin([{ from: './src/assets/vocabulaire.json', to: './' }])
+    new VueLoaderPlugin()
   ],
   resolve: {
     alias: {
@@ -53,6 +52,7 @@ if (process.env.NODE_ENV === 'production') {
   ]);
 } else {
   module.exports.plugins = (module.exports.plugins || []).concat([
-    new webpack.DefinePlugin({ 'process.env': { NODE_ENV: '"dev"' } })
+    new webpack.DefinePlugin({ 'process.env': { NODE_ENV: '"dev"' } }),
+    new CopyWebpackPlugin([{ from: '../lsf-data/vocabulaire.json', to: './' }])
   ]);
 }

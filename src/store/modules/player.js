@@ -6,7 +6,9 @@ const state = {
 
 const getters = {
   videoPlaying: state => state.videoPlaying,
-  videoUrl: (state, getters) => `${config.cdn}/${state.videoPlaying.video}`
+  videoUrl: (state, getters) =>
+    `${config.cdn}/` +
+    encodeURIComponent(state.videoPlaying.video).replace('%2F', '/')
 };
 
 const actions = {

@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": " webpack-dev-server --hot --mode=development",
-    "build": "rm -rf dist && NODE_ENV=production webpack -p --progress --hide-modules",
+    "build": "rm -rf dist && webpack --mode=production --display=minimal --hide-modules --progress --optimize-minimize",
     "now-build": "npm run build",
     "start": "node server.js",
     "ci:e2e": "cypress run",

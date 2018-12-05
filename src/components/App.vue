@@ -29,13 +29,13 @@
 </template>
 
 <script>
-import '~/assets/lsf.scss';
-import searchBar from '~/components/search-bar.vue';
-import placeholder from '~/components/placeholder.vue';
-import entries from '~/components/entries.vue';
-import player from '~/components/player.vue';
-import quickActions from '~/components/quick-actions.vue';
-import { mapState, mapGetters } from 'vuex';
+import '~/assets/lsf.scss'
+import searchBar from '~/components/search-bar.vue'
+import placeholder from '~/components/placeholder.vue'
+import entries from '~/components/entries.vue'
+import player from '~/components/player.vue'
+import quickActions from '~/components/quick-actions.vue'
+import { mapState, mapGetters } from 'vuex'
 
 export default {
   components: {
@@ -47,12 +47,11 @@ export default {
   },
   name: 'app',
   created: function() {
-    this.$store.dispatch('vocabulaire/fetchAll');
+    this.$store.dispatch('vocabulaire/fetchAll')
   },
   computed: {
     ...mapGetters('vocabulaire', ['entriesVisible', 'isLoading'])
   }
-};
+}
 </script>
-<style scoped>
-</style>
+<style scoped></style>

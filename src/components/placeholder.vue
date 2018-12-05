@@ -4,7 +4,7 @@
       v-for="placeholder in placeholders"
       class="index_content--item has-bottom-margin"
     >
-      <span class="placeholder">{{placeholder}}</span>
+      <span class="placeholder">{{ placeholder }}</span>
     </li>
   </ul>
 </template>
@@ -58,7 +58,7 @@ export default {
         '▇▇▇▇▇▇▇▇▇▇▇▇',
         '▇▇▇▇▇▇'
       ]
-    };
+    }
   }
-};
+}
 </script>

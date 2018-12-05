@@ -15,8 +15,8 @@
   </ul>
 </template>
 <script>
-import { highlight } from '~/filters';
-import { mapGetters } from 'vuex';
+import { highlight } from '~/filters'
+import { mapGetters } from 'vuex'
 
 export default {
   computed: {
@@ -24,15 +24,15 @@ export default {
   },
   methods: {
     play: function(mot) {
-      this.$store.dispatch('player/play', { mot });
-      this.$store.dispatch('vocabulaire/hideEntries');
+      this.$store.dispatch('player/play', { mot })
+      this.$store.dispatch('vocabulaire/hideEntries')
       this.$store.dispatch('vocabulaire/updateSearch', {
         searchQuery: mot.key
-      });
+      })
     }
   },
   filters: {
     highlight
   }
-};
+}
 </script>

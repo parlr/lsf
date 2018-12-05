@@ -20,7 +20,7 @@
         >
       </div>
       <label for="search" class="navbar-item is-paddingless is-hidden-mobile">
-        <span data-e2e="search-bar-result-count">{{matchingCount}}</span>
+        <span data-e2e="search-bar-result-count">{{ matchingCount }}</span>
         <span>&nbsp;Résultats</span>
       </label>
     </div>
@@ -28,16 +28,16 @@
 </template>
 
 <script>
-import { mapState, mapGetters } from 'vuex';
+import { mapState, mapGetters } from 'vuex'
 
 export default {
   computed: {
     query: {
       get() {
-        return this.searchQuery;
+        return this.searchQuery
       },
       set(value) {
-        this.search(value);
+        this.search(value)
       }
     },
     ...mapGetters('vocabulaire', [
@@ -48,18 +48,18 @@ export default {
   },
   methods: {
     focus: function() {
-      window.scrollTo(0, 0);
+      window.scrollTo(0, 0)
     },
     search: function(value) {
-      this.$store.dispatch('vocabulaire/showEntries');
+      this.$store.dispatch('vocabulaire/showEntries')
       this.$store.dispatch({
         type: 'vocabulaire/updateSearch',
         searchQuery: value
-      });
+      })
     },
     playFirst: function() {
-      this.play(this.filteredMots[0]);
+      this.play(this.filteredMots[0])
     }
   }
-};
+}
 </script>

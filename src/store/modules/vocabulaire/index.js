@@ -1,12 +1,12 @@
-import getters from './getters';
-import actions from './actions';
-import mutations from './mutations';
+import getters from './getters'
+import actions from './actions'
+import mutations from './mutations'
 
 const state = {
   vocabulaire: [],
   searchQuery: '',
   entriesVisible: true
-};
+}
 
 export default {
   namespaced: true,
@@ -14,4 +14,4 @@ export default {
   getters,
   actions,
   mutations
-};
+}

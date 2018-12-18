@@ -17,8 +17,9 @@
 
 ### Source de données
 
-- [LSF @ Éducation Nationale](http://lsf.education.fr/index.php?page=recherche_alphabetique)
-- Apprendre 300 mots du quotidien en LSF [partie 1](https://www.youtube.com/watch?v=rz3jw0_XXoc) et [partie 2](https://www.youtube.com/watch?v=DbTKAbY-i0A) par L. Jauvert
+- [Termes de spécialité en LSF](http://lsf.education.fr/index.php?page=recherche_alphabetique) par l'Éducation Nationale ;
+- Apprendre 300 mots du quotidien en LSF [partie 1](https://www.youtube.com/watch?v=rz3jw0_XXoc) et [partie 2](https://www.youtube.com/watch?v=DbTKAbY-i0A) par L. Jauvert (en [CC-BY](https://creativecommons.org/licenses/by/3.0/legalcode)) ;
+- 100 vidéos d'[Elix](http://elix-lsf.fr/) versées [sur Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Files_supported_by_Wikimedia_France_-_Elix) (en [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr))
 
 ### How-to
 

@@ -22,16 +22,18 @@
 
 ### How-to
 
-#### Install
-
-    yarn install
-
-#### serve
+#### Develop
 
     yarn dev  # on localhost:8080
 
-#### build
+#### Test
 
-    yarn build  # production
+    yarn dev &
+    yarn test:unit
+    yarn test:e2e
+
+#### Release
+
+    ./release.bash ver.si.on
 
 ### License: [MIT](src/assets/LICENSE)

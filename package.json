@@ -5,7 +5,7 @@
     "now-build": "npm run build",
     "start": "node server.js",
     "ci:e2e": "cypress run",
-    "test:e2e": "cypress run --config baseUrl=http://localhost:8080/",
+    "test:e2e": "cypress run --config baseUrl=http://localhost:3000/",
     "test:unit": "ava"
   },
   "dependencies": {

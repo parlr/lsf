@@ -25,7 +25,7 @@
 
 #### Develop
 
-    yarn dev  # on localhost:8080
+    yarn dev  # on localhost:3000
 
 #### Test
 

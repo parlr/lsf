@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import '~/assets/lsf.scss'
+import '~/assets/app.scss'
 import searchBar from '~/components/search-bar.vue'
 import placeholder from '~/components/placeholder.vue'
 import entries from '~/components/entries.vue'
